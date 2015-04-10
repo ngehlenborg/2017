@@ -1,0 +1,15 @@
+# Site settings
+title: "Symposium on Visualization in Data Science (VDS at IEEE VIS 2015)"
+email: "webmaster@dbvis.de"
+description: "Symposium on Visualization in Data Science (VDS at IEEE VIS 2015)"
+baseurl: "/vds-website"
+url: "http://visualdatascience.org"
+conferenceshort: "VDS 2015"
+conferencedate: "Monday, October 26th, 2015"
+
+deadline_submission: "July 1, 2015 5:00pm PST"
+deadline_notification: "September 4, 2015"
+deadline_camera: "September 18, 2015"
+
+# Build settings
+markdown: kramdown

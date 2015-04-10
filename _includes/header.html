@@ -1,0 +1,45 @@
+<header class="header" role="banner">
+  <div class="header-inner clearfix">
+    <a class="brand pull-left" href="{{ site.baseurl | prepend: '/' }}"><span class="site-title span11" title="{{ site.title }}">{{ site.title }}</span></a>
+    <div class="header-search pull-right">
+      <ul class="nav menu" id="top_button"><li><a href="http://www.ieeevis.org/">Back to IEEE VIS 2015</a></li></ul>
+    </div>
+  </div>
+</header>
+
+<div class="row-fluid">
+  <div id="sidebar" class="span3">
+    <div class="sidebar-nav">
+      <div class="well ">
+        <div class="custom">
+	  <p><center><h1>{{ site.conferenceshort }}</h1><strong>{{ site.conferencedate }} </strong></center>
+        </div>
+      </div>
+      <div class="well _menu">
+        <h3 class="page-header">Menu</h3>
+        <ul class="nav menu">
+          <li><a class="page-link" href="{{ site.baseurl | prepend: '/' }}">Home</a></li>
+          {% for page in site.pages %}
+            {% if page.title %}
+  	      <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="well "><h3 class="page-header">Important Dates</h3>
+        <div class="custom">
+	  <p><strong>Submission Deadline:</strong><br>{{ site.deadline_submission }} </p>
+          <p><strong>Author Notification:</strong><br>{{ site.deadline_notification }} </p>
+          <p><strong>Camera Ready Submission:</strong><br>{{ site.deadline_camera }} </p></div>
+        </div>
+      </div>
+    </div>
+
+    <main id="content" role="main" class="span9">
+    <div class="moduletable">
+					
+      <div class="custom">
+        <p><img style="border: 0px solid #000000;" src="{{ "/images/banner.jpg" | prepend: site.baseurl }}" alt="banner-15" width="710" height="253"></p>
+      </div>
+  </div>
+
