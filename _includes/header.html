@@ -18,7 +18,7 @@
       <div class="well _menu">
         <h3 class="page-header">Menu</h3>
         <ul class="nav menu">
-          <li><a class="page-link" href="{{ site.baseurl | prepend: '/' }}">Home</a></li>
+          <li><a class="page-link" href="{{ site.baseurl }}/">Home</a></li>
           {% for page in site.pages %}
             {% if page.title %}
   	      <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
