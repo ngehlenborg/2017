@@ -160,9 +160,9 @@ task :deployImpl do
     system "git add -A"
     message = "Site updated at #{Time.now.utc}:\n#{commits}"
     puts "\n## Committing: #{message}"
-    system "git commit -m \"#{message}\""
+    #system "git commit -m \"#{message}\""
     puts "\n## Pushing generated #{deploy_dir} website"
-    system "git push origin #{branch}"
+    #system "git push origin #{branch}"
     puts "\n## Github Pages deploy complete"
   end
 end
@@ -172,7 +172,10 @@ end
 # Publish Chain #
 ##############
 desc "Generate website and deploy"
-#task :publish => [:patch_config, :generate, :unpatch_config, :deploy] do #, :check_links
+task :publish_io => [:patch_config, :generate, :unpatch_config, :deploy] do #, :check_links
+end
+
+desc "Generate website and deploy"
 task :publish => [:generate, :deploy] do #, :check_links
 end
 
