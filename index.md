@@ -20,4 +20,4 @@ Visualization is an integral part of data science, and essential to enable sophi
 
 ## Program Chairs
 - [Alexander Lex](http://alexander-lex.com), Harvard University
-- [Marc Streit](http://marc-streit.com), Johannes Kepler University
+- [Marc Streit](http://marc-streit.com), Johannes Kepler University Linz
