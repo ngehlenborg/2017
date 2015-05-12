@@ -4,4 +4,4 @@ title: Program
 permalink: /program/
 ---
 
-Coming soon..
+Coming soon.
