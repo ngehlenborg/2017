@@ -11,6 +11,12 @@ We truly are at the dawn of a revolutionary new era. Data science is the practic
 
 Visualization is an integral part of data science, and essential to enable sophisticated analysis of data. The first Symposium on Visualization in Data Science (VDS) at [IEEE VIS 2015](http://ieeevis.org/) will bring together domain scientists and methods researchers (including data visualization, usability, data management, artificial intelligence, machine learning, statistics, programming environments, scalable software). Our goal is to bring together practitioners and researchers in data science and visualization to discuss common interests, talk about practical issues, and identify open research problems.
 
+## Contact & Registration
+
+Please use [contact@visualdatascience.org](mailto:contact@visualdatascience.org) to get in touch with us.
+
+Registration for VDS is included with registration for IEEE VIS and is handled trough the [VIS website](http://ieeevis.org/).
+
 
 ## Symposium Chairs
 
@@ -21,3 +27,6 @@ Visualization is an integral part of data science, and essential to enable sophi
 ## Program Chairs
 - [Alexander Lex](http://alexander-lex.com), Harvard University
 - [Marc Streit](http://marc-streit.com), Johannes Kepler University
+
+
+
