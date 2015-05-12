@@ -4,7 +4,7 @@ layout: home
 
 ## Vision
 
-
+da
 Transformations in many fields are enabled by rapid advances in our ability to acquire and generate data. The bottleneck to discovery is now our ability to analyze and make sense of heterogeneous, noisy, and often massive datasets. Extracting knowledge from this abundance of data lies at the heart of 21st century discovery.
 
 We truly are at the dawn of a revolutionary new era. Data science is the practice of deriving insight from data, at the intersection of the disciplines of statistical methodology, computer science, and one or more traditional scholarly fields. Data science includes the methodological fields of visualization, statistics, applied mathematics, data management, artificial intelligence, and machine learning. It drives discoveries in business, economy, biology, medicine, environmental science, the physical sciences, the humanities and social sciences, and beyond.
@@ -15,7 +15,7 @@ Visualization is an integral part of data science, and essential to enable sophi
 
 Please use [contact@visualdatascience.org](mailto:contact@visualdatascience.org) to get in touch with us.
 
-Registration for VDS is included with registration for IEEE VIS and is handled trough the [VIS website](http://ieeevis.org/).
+Registration for VDS is included with registration for IEEE VIS and is handled through the [VIS website](http://ieeevis.org/).
 
 
 ## Symposium Chairs
