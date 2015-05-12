@@ -13,7 +13,7 @@ permalink: /cfp/
 
 ## Format
 
-The symposium will feature a series of invited presentation by leading data scientists covering a wide range of visualization in data science. In addition, there will be short paper presentations and a poster session.
+The symposium will feature a series of invited presentations by leading data scientists covering visualization in data science. In addition, there will be short paper presentations and a poster session.
 
 ## Papers
 
@@ -30,11 +30,11 @@ To submit a paper please use the [Precision Conference System](https://precision
 
 ## Posters
 
-Submissions consist of a brief 250-word abstract and one supporting image that summarizes your work. You must present a corresponding poster during the designated poster session, and are encouraged to incorporate a demo or video into your presentation. You also have the opportunity to give a brief oral preview during a plenary ‘fast forward’ session. We encourage submission of work in progress and preliminary results, previously published work from other venues, and visualization challenges relevant to Data Science.
+Submissions consist of a brief 250-word abstract and one supporting image that summarizes your work. You must present a corresponding poster during the designated poster session, and are encouraged to incorporate a demo or video into your presentation. You also have the opportunity to give a brief oral preview during a plenary ‘fast forward’ session. We encourage submission of work in progress and preliminary results, previously published work from other venues, and visualization challenges relevant to data science.
 
 ### Review Process
 
-Poster submissions will be reviewed for relevance and interest to the Data Science community by the Program Chairs.
+Poster submissions will be reviewed for relevance and interest to the data science community by the program chairs.
 
 ### Submission and Formatting Guidelines
 
