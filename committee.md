@@ -16,4 +16,13 @@ permalink: /committee/
 
 ## Program Committee
 
-To be announced.
+- Luke Bornn, Harvard University
+- Abon Chaudhuri, Intel
+- Miriah Meyer, University of Utah
+- Siliva Miksch, Vienna University of Technology
+- Torsten Möller, University of Vienna
+- Carlos Scheidegger, University of Arizona
+- Jon Schwabish, The Urban Institute
+- Diane Staheli, MIT Lincoln Laboratory
+- Gerhard Weikum, MPI Saarbrücken
+
