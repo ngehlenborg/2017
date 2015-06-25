@@ -17,12 +17,13 @@ permalink: /committee/
 ## Program Committee
 
 - Luke Bornn, Harvard University
-- Abon Chaudhuri, Intel
+- Abon Chaudhuri, WalmartLabs
 - Miriah Meyer, University of Utah
 - Siliva Miksch, Vienna University of Technology
 - Torsten Möller, University of Vienna
+- Cynthia Rudin, MIT
 - Carlos Scheidegger, University of Arizona
 - Jon Schwabish, The Urban Institute
 - Diane Staheli, MIT Lincoln Laboratory
 - Gerhard Weikum, MPI Saarbrücken
-
+- Stefan Wrobel, Fraunhofer IAIS
