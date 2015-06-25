@@ -24,7 +24,7 @@ Paper submissions should be 4-6 pages and describe the role, application, and im
 Paper submissions will be managed by the Program Chairs and sent to external reviewers to evaluate the work’s novelty and significance. You have the option to have your work reviewed via a double-blind process; to do this, simply be sure to exclude all identifying information in the submitted manuscript file, ensuring that the reviewers will not know the identify of the authors. Otherwise, the review process will be single-blind, i.e., the reviewers will know the identity of the authors, but the authors will not know the identity of the reviewers.
 
 ### Submission and Formatting Guidelines
-Please format your submission according to the [VGTC formatting guidelines](http://junctionpublishing.org/vgtc/Tasks/camera.html).
+Please format your submission according to the [VGTC formatting guidelines](http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html).
 
 To submit a paper please use the [Precision Conference System](https://precisionconference.com/~vds15/). After logging in go to "new submissions" and select "Submit to Papers" for VDS 2015.
 
