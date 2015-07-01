@@ -7,11 +7,11 @@ url: "http://visualdatascience.org"
 conferenceshort: "VDS 2015"
 conferencedate: "Monday, October 26th, 2015"
 
-deadline_submission: "July 1, 2015 5:00pm PST"
+deadline_submission: "July 1, 2015 5:00pm PDT"
 deadline_notification: "September 4, 2015"
 deadline_camera: "September 18, 2015"
 
-deadline_poster: "August 15, 2015 5:00pm PST"
+deadline_poster: "August 15, 2015 5:00pm PDT"
 
 # Build settings
 markdown: kramdown

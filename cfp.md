@@ -6,8 +6,8 @@ permalink: /cfp/
 
 ## IMPORTANT DATES
 
-* **July 1, 2015 5:00pm PST:** Submission of Short Papers  (4-6 pages)
-* Update: **August 15, 2015 5:00pm PST:** Poster Submissions
+* **July 1, 2015 5:00pm PDT:** Submission of Short Papers  (4-6 pages)
+* Update: **August 15, 2015 5:00pm PDT:** Poster Submissions
 * September 4, 2015: Author Notification
 * September 18, 2015: Camera Ready Submission and Copyright Forms
 
