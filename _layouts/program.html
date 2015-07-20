@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<!-- use talk.position and talk.time -->
+
+{% for talk in site.talks %}
+
+
+<div>
+    <div>{{talk.title}}</div>
+    <div><a href="{{ talk.website }}">{{ talk.website }}</a></div>
+    <div>{{talk.speaker}}, {{talk.affiliation}}</div>
+    <div><img src="{{ site.baseurl }}/images/speakers/{{talk.picture}}" alt="{{talk.speaker}}"></div>
+    <div>{{talk.picture-note}}</div>
+    <div>{{talk.abstract}}</div>
+    <div>{{talk.bio}}</div>
+
+</div>
+
+
+{% endfor %}
