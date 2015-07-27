@@ -43,7 +43,7 @@ Poster submissions consist of a 250 word textual abstract and a supporting image
 
 Accepted poster submissions will be asked to prepare a poster and present it on the day of the symposium. 
 
-Please e-mail your submission to [contact@visualdatascience.org](mailto:contact@visualdatascience.org) before the submission deadline.
+To submit a poster please use the [Precision Conference System](https://precisionconference.com/~vds15/). After logging in go to "new submissions" and select "Submit to Posters" for VDS 2015.
 
 
 

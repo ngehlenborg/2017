@@ -16,7 +16,7 @@ permalink: /program/
 
 **A Practical Introduction to Data Science in Python** 
 
-SUNDAY, OCTOBER 24 14:00-17:55
+Sunday, October 24 14:00-17:55
 
 [Stéfan van der Walt](http://bids.berkeley.edu/people/st%C3%A9fan-van-der-walt), Berkeley
 
