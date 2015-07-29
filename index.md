@@ -24,5 +24,5 @@ Registration for VDS is included with registration for IEEE VIS and is handled t
 - <a href="http://vgc.poly.edu/~csilva/">Claudio Silva</a>, New York University
 
 ## Program Chairs
-- [Alexander Lex](http://alexander-lex.com), Harvard University
+- [Alexander Lex](http://alexander-lex.net), University of Utah
 - [Marc Streit](http://marc-streit.com), Johannes Kepler University Linz
