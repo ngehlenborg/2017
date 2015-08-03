@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: program
 title: Program
 permalink: /program/
 ---
@@ -19,3 +19,5 @@ permalink: /program/
 Sunday, October 24 14:00-17:55
 
 [Stéfan van der Walt](http://bids.berkeley.edu/people/st%C3%A9fan-van-der-walt), Berkeley
+
+
