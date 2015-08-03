@@ -2,7 +2,7 @@
 speaker: Jeff Heer
 website: http://homes.cs.washington.edu/~jheer/
 affiliation: University of Washington
-title: To be announced
+title: Title to be announced
 position: 
 time:
 picture: heer.jpg
