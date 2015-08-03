@@ -3,6 +3,40 @@
 
 .talk {
   padding: 10px 0px 10px 0px;
+
+}
+
+.tbioabstract
+{
+  width: 75%;
+  padding: 10px 0px 10px 0px;
+}
+.ttitle {
+  font-weight: 800;
+  font-size: 1.2em ;
+}
+.tspeaker {
+  font-weight: 700;
+  font-size: 1.1em ;
+}
+
+.tportrait {
+  float: right;
+  padding: 10px 0px 10px 0px;
+  font-size: 0.6em;
+
+}
+
+.tabstract {
+  padding: 5px 5px 5px 5px;
+  border: 1px solid #cccccc;
+  background-color: #eeeeee;
+}
+
+.tbio {
+  padding: 5px 5px 5px 5px;
+  border: 1px solid #cccccc;
+
 }
 
 /********** SCHEDULE TABLE *************/

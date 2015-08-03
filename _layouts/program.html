@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 <!-- use talk.position and talk.time -->
@@ -8,15 +8,21 @@ layout: default
 
 
 <div class="talk">
-    <div>{{talk.title}}</div>
-    <div><a href="{{ talk.website }}">{{ talk.website }}</a></div>
-    <div>{{talk.speaker}}, {{talk.affiliation}}</div>
-    <div><img src="{{ site.baseurl }}/images/speakers/{{talk.picture}}" alt="{{talk.speaker}}"></div>
-    <div>{{talk.picture-note}}</div>
-    <div><b>Abstract:</b> {{talk.abstract}}</div>
-    <br />
-    <div><b>Bio:</b> {{talk.bio}}</div>
+    <div class="ttitle">{{talk.title}}</div>
+    <div> <span class="tspeaker">{{talk.speaker}}</span>, <span>{{talk.affiliation}}</span></div>
+    <div></div>
 
+    <div><a href="{{ talk.website }}">{{ talk.website }}</a></div>
+
+    <div class="tportrait"><img  src="{{ site.baseurl }}/images/speakers/{{talk.picture}}" alt="{{talk.speaker}}">
+        <div>{{talk.picture-note}}</div></div>
+
+<div class="tbioabstract">
+
+    <div class="tabstract"><b>Abstract:</b> {{talk.abstract}}</div>
+    <br />
+    <div class="tbio"><b>Bio:</b> {{talk.bio}}</div>
+</div>
 </div>
 
 
