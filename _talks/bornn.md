@@ -1,9 +1,9 @@
 ---
+key: bornn
 speaker: Luke Bornn
 website: http://www.people.fas.harvard.edu/~bornn/
 affiliation: Simon Fraser University
 title: Space, Time, and Skill&#58; Understanding High Performance Sport
-position: 
 time:
 picture: bornn.jpg
 picture-note: 
@@ -14,7 +14,3 @@ abstract: |
 
 ---
 
-
-
-
-as

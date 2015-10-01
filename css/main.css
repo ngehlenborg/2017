@@ -2,7 +2,9 @@
 /****** Speakers ****/
 
 .talk {
-  padding: 10px 0px 10px 0px;
+  padding: 10px 5px 10px 10px;
+  border: 1px solid #cccccc;
+  margin: 10px 0px 10px 0px;
 
 }
 
@@ -13,11 +15,21 @@
 }
 .ttitle {
   font-weight: 800;
-  font-size: 1.2em ;
+  font-size: 1.1em ;
 }
 .tspeaker {
+  font-weight: 600;
+  font-size: 1em ;
+}
+
+
+.ptitle {
   font-weight: 700;
-  font-size: 1.1em ;
+  font-size: 1em ;
+}
+.pauthor {
+  font-weight: 500;
+  font-size: 0.9em ;
 }
 
 .tportrait {
@@ -29,13 +41,13 @@
 
 .tabstract {
   padding: 5px 5px 5px 5px;
-  border: 1px solid #cccccc;
-  background-color: #eeeeee;
+  /*border: 1px solid #cccccc;*/
+  /*background-color: #eeeeee;*/
 }
 
 .tbio {
   padding: 5px 5px 5px 5px;
-  border: 1px solid #cccccc;
+  /*border: 1px solid #cccccc;*/
 
 }
 

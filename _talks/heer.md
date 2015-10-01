@@ -1,9 +1,9 @@
 ---
+key: heer
 speaker: Jeff Heer
 website: http://homes.cs.washington.edu/~jheer/
 affiliation: University of Washington
 title: Visualization for Discovery
-position: 
 time:
 picture: heer.jpg
 picture-note: 

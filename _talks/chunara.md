@@ -1,9 +1,9 @@
 ---
+key: chunara 
 speaker: Rumi Chunara
 website: http://rumichunara.com/
 affiliation: NYU
 title: Visualization in Public Health
-position: 
 time:
 picture: chunara.jpg
 picture-note: 
@@ -13,8 +13,3 @@ abstract: |
     Population-level public health entails many spatial and temporal challenges. Questions often arise about which spatio-temporal factors, from a slew of environmental, medical and other variables, affect health outcomes. Additionally there are issues of privacy, noise and resolution which must all be considered. Further, when thinking about how to action on and improve health outcomes, this information must be communicated to diverse parties. In this talk I will describe the goals and audiences involved in public health, survey efforts of how visualization is used in public health, and articulate areas where there is room for improved work in visualization.
 
 ---
-
-
-
-
-as

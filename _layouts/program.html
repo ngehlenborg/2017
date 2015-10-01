@@ -4,26 +4,79 @@ layout: page
 
 <!-- use talk.position and talk.time -->
 
-{% for talk in site.talks %}
 
+<h2>Session 1: Data Science and Visualization for Scientific Discovery</h2>
+<span class="time">8:30-10:10</span>
 
 <div class="talk">
-    <div class="ttitle">{{talk.title}}</div>
-    <div> <span class="tspeaker">{{talk.speaker}}</span>, <span>{{talk.affiliation}}</span></div>
-    <div></div>
+    <div class="ttitle">Opening Address</div>
+</div>
 
-    <div><a href="{{ talk.website }}">{{ talk.website }}</a></div>
+{% include invited_talk.html time="8:40-10:10" key="moeller" %}
 
-    <div class="tportrait"><img  src="{{ site.baseurl }}/images/speakers/{{talk.picture}}" alt="{{talk.speaker}}">
-        <div>{{talk.picture-note}}</div></div>
+{% include invited_talk.html time="8:40-10:10" key="heer" %}
 
-<div class="tbioabstract">
+{% include invited_talk.html time="8:40-10:10" key="chunara" %}
 
-    <div class="tabstract"><b>Abstract:</b> {{talk.abstract}}</div>
+<br>
+<h2>Session 2: Health and Spatio-Temporal Data</h2>
+<span class="time">10:30-12:00</span>
+
+<div class="talk">
+    <div class="ttitle">Panel I: Challenges in Visualization for Data Science</div>
+    <div> <span class="tspeaker">Torsten Möller, Jeff Heer, Rumi Chunara</span></div>
+    <div>Moderator: Hanspeter Pfister</div>
+</div>
+
+
+{% include paper.html time="8:40-10:10" key="5" %}
+{% include paper.html time="8:40-10:10" key="6" %}
+{% include paper.html time="8:40-10:10" key="1" %}
+
+
+<br>
+<h2>Session 3: Journalism, Sports, and Data Exploration</h2>
+<span class="time">2:00-3:30</span>
+
+{% include invited_talk.html time="8:40-10:10" key="schutt" %}
+
+{% include invited_talk.html time="8:40-10:10" key="bornn" %}
+
+{% include invited_talk.html time="8:40-10:10" key="li" %}
+
+
+<br>
+<h2>Session 4: Databases and Algorithms</h2>
+<span class="time">4:00-5:50</span>
+
+<div class="talk">
+    <div class="ttitle">Panel II: Challenges in Visualization for Data Science</div>
+    <div> <span class="tspeaker">Rachel Schutt, Luke Bornn, Feifei Li</span></div>
+    <div>Moderator: Claudio Silva</div>
+</div>
+
+{% include paper.html time="8:40-10:10" key="7" %}
+{% include paper.html time="8:40-10:10" key="2" %}
+{% include paper.html time="8:40-10:10" key="3" %}
+{% include paper.html time="8:40-10:10" key="4" %}
+
+<div class="talk">
+    <div class="ttitle">Closing</div>
+</div>
+
+
+
+ <br />
+<h2>Poster Reception</h2>
+<span class="time">6:00-7:30</span>
+<br />
+<br />
+
+{% for poster in site.data.posters %}
+
+<div>
+    <div class="ptitle">{{poster.title}}</div>
+    <div><span class="pauthor">{{poster.authors}}</span></div>
     <br />
-    <div class="tbio"><b>Bio:</b> {{talk.bio}}</div>
 </div>
-</div>
-
-
 {% endfor %}

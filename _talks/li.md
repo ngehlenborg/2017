@@ -1,9 +1,9 @@
 ---
+key: li
 speaker: Feifei Li
 website: http://www.cs.utah.edu/~lifeifei/
 affiliation: University of Utah
 title: Interactive Online Data Exploration and Analytics
-position: 
 time:
 picture: li.jpg
 picture-note: 

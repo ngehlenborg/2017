@@ -3,7 +3,7 @@ speaker: Torsten Möller
 website: http://vda.cs.univie.ac.at
 affiliation: University of Vienna
 title: Visual data science - Advancing science through visual reasoning
-position: 
+key: moeller
 time:
 picture: moeller.jpg
 picture-note: © Universität Wien / Barbara Mair
@@ -14,7 +14,5 @@ abstract: |
     Modern science is driven by computers (computational science) and data (data-driven science). While visual analysis has always been an integral part of science, in the context of computational science and data-driven science it has gained new importance. In this talk I will demonstrate novel approaches in visualization to support the process of modeling and simulations. Especially, I will report on some of the latest approaches and challenges in modeling and reasoning with uncertainty. Visual tools for ensemble analysis, sensitivity analysis, and the cognitive challenges during decision making build the basis of an emerging field of visual data science which is becoming an essential ingredient of computational thinking.
 
 ---
-
-TestText hier
 
 

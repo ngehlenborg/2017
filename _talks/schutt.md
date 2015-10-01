@@ -1,9 +1,9 @@
 ---
+key: schutt
 speaker: Rachel Schutt
 website: http://datascience.columbia.edu/rachel-schutt-0
 affiliation: News Corp &amp; Columbia University
 title: Doing Data Science at News Corp
-position: 
 time:
 picture: schutt.jpg
 picture-note: 
@@ -15,8 +15,3 @@ abstract: |
    Increasingly, large corporations are building data science and engineering teams. These teams can be differentiated from traditional analytics teams in several ways including that they tend to run more like software engineering teams, that the methods and the practices often use open source technology, and that they are focused not solely on providing insights to the organization but also in building data products.  News Corp is an interesting place to work because its history is in journalism and publishing, and the ways that data science and journalism intersect plays out in different ways including data-driven decision making in the news room, building sustainable business models for journalism and story-telling with data. Also most relevant to this conference are ways in which data visualization is used to communicate to internal business stakeholders for decision-making purposes, as well as to our readership.
 
 ---
-
-
-
-
-as
