@@ -5,22 +5,43 @@ layout: page
 <!-- use talk.position and talk.time -->
 
 <h3>Summary</h3>
-<div class="sumTime">08:30-10:10</div> <div class="sumContent">Data Science and Visualization for Scientific Discovery</div>
-    <div>Invited Speakers: Torsten Möller, Jeff Heer, Rumi Chunara</div>
-<br />
-<div class="sumTime">10:30-12:00</div>  <div class="sumContent">Health and Spatio-Temporal Data</div>
-<div>Panel Discussion, Paper Presentations</div>
-<br />
-<div class="sumTime">02:00-03:30</div>  <div class="sumContent"> Journalism, Sports, and Data Exploration</div>
-<div>Invited Speakers: Rachel Schutt, Luke Bornn, Feifei Li</div>
-<br />
-<div class="sumTime">04:00:-05:50</div>  <div class="sumContent">Databases and Algorithms</div>
-<div>Panel Discussion, Paper Presentations</div>
-<br />
-<div class="sumTime">06:00:-07:30</div>  <div class="sumContent">Poster Reception</div>
+<div>
+    <div class="sumTime">08:30-10:10</div>
+    <div>
+        <div class="sumContent">Data Science and Visualization for Scientific Discovery</div>
+        <div class="sumDetails">Invited Speakers: Torsten Möller, Jeff Heer, Rumi Chunara</div>
+    </div>
+</div>
 
+<div>
+    <div class="sumTime">10:30-12:00</div>
+    <div>
+        <div class="sumContent">Health and Spatio-Temporal Data</div>
+        <div class="sumDetails">Panel Discussion, Paper Presentations</div>
+    </div>
+</div>
+
+<div>
+    <div class="sumTime">02:00-03:30</div>
+    <div>
+        <div class="sumContent"> Journalism, Sports, and Data Exploration</div>
+        <div class="sumDetails">Invited Speakers: Rachel Schutt, Luke Bornn, Feifei Li</div>
+    </div>
+</div>
+
+<div class="sumTime">04:00:-05:50</div>
+<div>
+    <div class="sumContent">Databases and Algorithms</div>
+    <div class="sumDetails">Panel Discussion, Paper Presentations</div>
+</div>
+
+<div>
+    <div class="sumTime">06:00:-07:30</div>
+    <div class="sumContent">Poster Reception</div>
+</div>
 <br>
-<br>
+
+
 <h3>Session 1: Data Science and Visualization for Scientific Discovery</h3>
 <span class="time">8:30-10:10, Session Chair: Marc Streit </span>
 
@@ -40,7 +61,7 @@ layout: page
 
 <div class="talk">
     <div class="ttitle">Panel I: Challenges in Visualization for Data Science</div>
-    <div> <span class="tspeaker">Torsten Möller, Jeff Heer, Rumi Chunara</span></div>
+    <div><span class="tspeaker">Torsten Möller, Jeff Heer, Rumi Chunara</span></div>
     <div>Moderator: Hanspeter Pfister</div>
 </div>
 
@@ -67,7 +88,7 @@ layout: page
 
 <div class="talk">
     <div class="ttitle">Panel II: Challenges in Visualization for Data Science</div>
-    <div> <span class="tspeaker">Rachel Schutt, Luke Bornn, Feifei Li</span></div>
+    <div><span class="tspeaker">Rachel Schutt, Luke Bornn, Feifei Li</span></div>
     <div>Moderator: Claudio Silva</div>
 </div>
 
@@ -81,18 +102,17 @@ layout: page
 </div>
 
 
-
- <br />
+<br/>
 <h3>Poster Reception</h3>
 <span class="time">6:00-7:30</span>
-<br />
-<br />
+<br/>
+<br/>
 
 {% for poster in site.data.posters %}
 
 <div>
     <div class="ptitle">{{poster.title}}</div>
     <div><span class="pauthor">{{poster.authors}}</span></div>
-    <br />
+    <br/>
 </div>
 {% endfor %}
