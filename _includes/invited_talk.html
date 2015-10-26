@@ -3,12 +3,13 @@
 {% if talk.key == include.key %}
 
 <div class="talk">
-    <div class="ttitle">{{talk.title}}</div>
-    <div> <span class="tspeaker">{{talk.speaker}}</span>, <span>{{talk.affiliation}}</span></div>
-    {% if talk.slides %}
-    <div><span class="tspeaker"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download Slides</a></span></div>
+    <div class="ttitle">{{talk.title}}
+        {% if talk.slides %}
+            <span class="tspeaker" style="float: right;"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download Slides</a></span></div>
     {% endif %}
 
+    <div> <span class="tspeaker">{{talk.speaker}}</span>, <span>{{talk.affiliation}}</span></div>
+   
     <div><a href="{{ talk.website }}">{{ talk.website }}</a></div>
 
     <div class="tportrait"><img  src="{{ site.baseurl }}/images/speakers/{{talk.picture}}" alt="{{talk.speaker}}">
