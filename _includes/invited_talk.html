@@ -5,7 +5,9 @@
 <div class="talk">
     <div class="ttitle">{{talk.title}}</div>
     <div> <span class="tspeaker">{{talk.speaker}}</span>, <span>{{talk.affiliation}}</span></div>
-    <div></div>
+    {% if talk.slides %}
+    <div><span class="tspeaker"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download Slides</a></span></div>
+    {% endif %}
 
     <div><a href="{{ talk.website }}">{{ talk.website }}</a></div>
 

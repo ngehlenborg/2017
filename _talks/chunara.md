@@ -6,6 +6,7 @@ affiliation: NYU
 title: Visualization in Public Health
 time:
 picture: chunara.jpg
+slides: slides_chunara.pdf
 picture-note: 
 bio: |
     Rumi Chunara is Assistant Professor of Computer Science and Engineering and Global Public Health at New York University. Her research focuses on building novel information sources and computational techniques to describe and predict population-level public health issues. Dr. Chunara received her Ph.D. in Electrical and Medical Engineering at the Harvard-MIT Division of Health Sciences and Technology, her S.M. in Electrical Engineering and Computer Science at MIT and her B.Sc. in Electrical Engineering at Caltech. She is a recipient of a Caltech Merit Scholarship, the MIT Presidential Fellowship, and was named an MIT Technology Review Innovator Under 35 in 2014. Her research has been funded by multiple sources including the National Science Foundation and National Institutes of Health.
