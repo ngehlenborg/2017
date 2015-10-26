@@ -7,7 +7,7 @@ title: Space, Time, and Skill&#58; Understanding High Performance Sport
 time:
 picture: bornn.jpg
 picture-note: 
-slides:
+slides: slides_bornn.pdf
 bio: |
     Luke Bornn is an assistant professor in the Department of Statistics and Actuarial Science, Simon Fraser University. His work focuses on space-time modeling and statistical computation, with applications to structural engineering, climate, and sports.
 abstract: |
