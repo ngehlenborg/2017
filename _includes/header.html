@@ -2,7 +2,8 @@
   <div class="header-inner clearfix">
     <a class="brand pull-left" href="{{ site.baseurl }}/"><span class="site-title span11" title="{{ site.title }}">{{ site.title }}</span></a>
     <div class="header-search pull-right">
-      <ul class="nav menu" id="top_button"><li><a href="http://www.ieeevis.org/">Back to IEEE VIS 2015</a></li></ul>
+      <ul class="nav menu" id="top_button"><li><a href="http://www.ieeevis.org/">Back to IEEE VIS</a> </li></ul>
+       <ul class="nav menu" id="top_button"><li><a href="https://www.iscb.org/">Back to ISMB</a></li></ul>
     </div>
   </div>
 </header>
@@ -12,7 +13,11 @@
     <div class="sidebar-nav">
       <div class="well ">
         <div class="custom">
-	  <center><h1>{{ site.conferenceshort }}</h1></center><p>{{ site.conferencedate }}</p>
+	  <h1>{{ site.conferenceshort }}</h1>
+    <h3>With IEEE Vis 2016:</h3>
+    <p><i>{{ site.IEEEconferencedate }}</i></p>
+    <h3>With ISMB 2016:</h3>
+    <p><i>{{ site.ISMBconferencedate }}</i></p>
 
         </div>
       </div>
@@ -29,7 +34,7 @@
       </div>
 
 
-
+      <!--
       <div class="well mobile-hidden "><h3 class="page-header">Affilliated Tutorial</h3>
         <div class="custom">
           <p><strong>A Practical Introduction to Data Science in Python</strong> <br />
@@ -37,6 +42,7 @@
 
         </div>
       </div>
+    -->
 
       <div class="well mobile-hidden "><h3 class="page-header">Important Dates</h3>
         <div class="custom">
@@ -50,8 +56,12 @@
 
       <div class="well "><h3 class="page-header">Sponsors</h3>
         <div class="custom">
-          <p><a href="http://www.disneyresearch.com"><img src="{{ site.baseurl }}/images/sponsors/disney.png" alt="Disney Research" /></a></p>
-          <p><a href="http://iacs.seas.harvard.edu"><img src="{{ site.baseurl }}/images/sponsors/iacs.jpg" alt="Harvard Institute for Applied Computational Science" /></a></p>
+          <p>Platinum</p>
+          <a href="http://www.autodeskresearch.com/"><img src="/images/sponsors/autodesk.png" alt="Autodesk Research" /></a>
+         
+          <p> Bronze </p>
+           <a href="http://www.nvidia.com"><img src="{{site.baseurl }}/images/sponsors/NVIDIA.png" alt="NVIDIA" /></a>
+        
         </div>
       </div>
 

@@ -1,17 +1,18 @@
 # Site settings
-title: "Symposium on Visualization in Data Science (VDS at IEEE VIS 2015)"
+title: "6th Symposium on Biological Data Visualization"
 email: "webmaster@dbvis.de"
-description: "Symposium on Visualization in Data Science (VDS at IEEE VIS 2015)"
-baseurl: "/2015"
-url: "http://visualdatascience.org"
-conferenceshort: "VDS 2015"
-conferencedate: "Monday, October 26th, 2015"
+description: "6th Symposium on Biological Data Visualization"
+baseurl: ""
+url: "http://biovis.github.io"
+conferenceshort: "BioVis 2016"
+IEEEconferencedate: "IEEE VIS DATE 2016"
+ISMBconferencedate: "ISMB VIS DATE 2016"
 
-deadline_submission: "July 1, 2015 5:00pm PDT"
-deadline_notification: "September 4, 2015"
-deadline_camera: "September 18, 2015"
+deadline_submission: "SUBMISSION DEADLINE"
+deadline_notification: "NOTIFICATION DEADLINE"
+deadline_camera: "CAMERA DEADLINE"
 
-deadline_poster: "August 15, 2015 5:00pm PDT"
+deadline_poster: "POSTER DEADLINE"
 
 # Build settings
 markdown: kramdown
