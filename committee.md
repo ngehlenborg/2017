@@ -3,7 +3,7 @@ layout: page
 title: Organizing Committee
 menu: main
 ---
-** TO DO: UPDATE THE LIST HERE **
+*TO DO: UPDATE THE LIST HERE *
 
 ## General chairs
 [Kay Nieselt](http://it.inf.uni-tuebingen.de/]), University of Tübingen, Germany
