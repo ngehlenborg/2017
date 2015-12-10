@@ -147,51 +147,51 @@ For Design Contest entries, the judges will be be looking for a design that enha
 <h2 id="oc">Organizing Committee</h2>
 General chairs
 
-*G. Elisabetha Marai, University of Illinois at Chicago, USA
-*Jan Aerts, KU Leuven, Belgium
+* G. Elisabetha Marai, University of Illinois at Chicago, USA
+* Jan Aerts, KU Leuven, Belgium
 
 Paper chairs
 
-*Daniel Weiskopf, University of Stuttgart, Germany
-*Marc Streit, Johannes Kepler University Linz, Austria
+* Daniel Weiskopf, University of Stuttgart, Germany
+* Marc Streit, Johannes Kepler University Linz, Austria
 
 Poster chairs
 
-*Michel Westenberg, Eindhoven University of Technology, The Netherlands
-*William Ray, The Ohio State University, USA
+* Michel Westenberg, Eindhoven University of Technology, The Netherlands
+* William Ray, The Ohio State University, USA
 
 Publication chairs
 
-*Alexander Lex, Harvard University, USA
-*Florin Chelaru, MIT, USA
+* Alexander Lex, Harvard University, USA
+* Florin Chelaru, MIT, USA
 
 Primer & challenges chair
 
-*Eamonn Maguire, CERN, Switzerland Highlights chair
-*Julian Heinrich, CSIRO, Australia
+* Eamonn Maguire, CERN, Switzerland Highlights chair
+* Julian Heinrich, CSIRO, Australia
 
 Data contest chairs
 
-*Raghu Machiraju, The Ohio State University, USA
-*Cagatay Turkay, City University, London, UK
+* Raghu Machiraju, The Ohio State University, USA
+* Cagatay Turkay, City University, London, UK
 
 Design contest chairs
 
-*Ryo Sakai, KU Leuven, Belgium
-*Francis Rowland, EBI, UK
+* Ryo Sakai, KU Leuven, Belgium
+* Francis Rowland, EBI, UK
 
 Industry and fundraising chair
 
-*Hector Corrado Bravo, University of Maryland, USA
+* Hector Corrado Bravo, University of Maryland, USA
 
 Website chairs
 
-*Tuan Dang, University of Illinois at Chicago, USA
-*Anamaria Crisan, University of British Columbia, Canada
+* Tuan Dang, University of Illinois at Chicago, USA
+* Anamaria Crisan, University of British Columbia, Canada
 
 Publicity chairs
 
-*Jillian Aurisano, University of Illinois at Chicago, USA
+* Jillian Aurisano, University of Illinois at Chicago, USA
 
 <h2 id="sc">Steering Committee</h2>
 * Nils Gehlenborg, Harvard Medical School, USA
