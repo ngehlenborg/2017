@@ -147,59 +147,51 @@ For Design Contest entries, the judges will be be looking for a design that enha
 <h2 id="oc">Organizing Committee</h2>
 General chairs
 
-* Kay Nieselt, University of Tübingen, Germany
-* G. Elisabeta Marai, University of Illinois at Chicago, USA
+*G. Elisabetha Marai, University of Illinois at Chicago, USA
+*Jan Aerts, KU Leuven, Belgium
 
 Paper chairs
 
-* Daniel Weiskopf, University of Stuttgart, Germany
-* Jan Aerts, Leuven University, Belgium
+*Daniel Weiskopf, University of Stuttgart, Germany
+*Marc Streit, Johannes Kepler University Linz, Austria
 
 Poster chairs
 
-* Alexander Lex, Harvard University, USA
-* Michel Westenberg, Eindhoven University of Technology, The Netherlands
+*Michel Westenberg, Eindhoven University of Technology, The Netherlands
+*William Ray, The Ohio State University, USA
 
 Publication chairs
 
-* Cydney Nielsen, University of British Columbia, Canada
-* Marc Streit, Johannes Kepler University Linz, Austria
+*Alexander Lex, Harvard University, USA
+*Florin Chelaru, MIT, USA
 
-Primer/Tutorial chairs
+Primer & challenges chair
 
-* Miriah Meyer, University of Utah, USA
-* Seán O’Donoghue, Garvan Institute/CSIRO, Australia
+*Eamonn Maguire, CERN, Switzerland Highlights chair
+*Julian Heinrich, CSIRO, Australia
 
-Challenges chairs
+Data contest chairs
 
-* Julian Heinrich, CSIRO, Australia
-* Greg Carter, The Jackson Laboratory, USA
+*Raghu Machiraju, The Ohio State University, USA
+*Cagatay Turkay, City University, London, UK
 
-Data Contest chairs
+Design contest chairs
 
-* Raghu Machiraju, The Ohio State University, USA
-* William Ray, The Ohio State University, USA
-* Jason Bohland, Boston University, USA
+*Ryo Sakai, KU Leuven, Belgium
+*Francis Rowland, EBI, UK
 
-Design Contest chairs
+Industry and fundraising chair
 
-* Eamonn Maguire, Oxford University, UK
-* Ryo Sakai, Leuven University, Belgium
-
-Industry and fundraising chairs
-
-* Cagatay Turkay, City University, London, UK
-* Harry Hochheiser, University of Pittsburgh, USA
-* Hanchuan Peng, Allen Institute for Brain Science, Seattle, USA
+*Hector Corrado Bravo, University of Maryland, USA
 
 Website chairs
 
-* Tengfei Yin, Seven Bridges Genomics, Cambridge, USA
-* Tuan Dang, University of Illinois at Chicago, USA
+*Tuan Dang, University of Illinois at Chicago, USA
+*Anamaria Crisan, University of British Columbia, Canada
 
 Publicity chairs
-* Hendrik Strobelt, Harvard University, USA
-* Andreas Hildebrandt, University of Mainz, Germany
+
+*Jillian Aurisano, University of Illinois at Chicago, USA
 
 <h2 id="sc">Steering Committee</h2>
 * Nils Gehlenborg, Harvard Medical School, USA
