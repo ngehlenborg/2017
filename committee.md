@@ -3,8 +3,6 @@ layout: page
 title: Organizing Committee
 menu: main
 ---
-*TO DO: UPDATE THE LIST HERE *
-
 ### General chairs
 [G. Elisabetha Marai](http://evl.uic.edu/marai), University of Illinois at Chicago, USA
 
