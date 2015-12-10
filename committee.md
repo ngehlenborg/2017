@@ -51,15 +51,15 @@ Highlights chair
 [Jillian Aurisano](http://www.evl.uic.edu/entry.php?id=285), University of Illinois at Chicago, USA
 
 ## Steering Committee
-[http://www.gehlenborg.com/](Nils Gehlenborg), Harvard Medical School, USA
+[Nils Gehlenborg](http://www.gehlenborg.com/), Harvard Medical School, USA
 
-[http://www.cse.ohio-state.edu/~raghu](Raghu Machiraju), The Ohio State University, USA (Chair)
+[Raghu Machiraju](http://www.cse.ohio-state.edu/~raghu), The Ohio State University, USA (Chair)
 
-[http://www.cs.rug.nl/~roe/](Jos Roerdink), University of Groningen, The Netherlands
+[Jos Roerdink](http://www.cs.rug.nl/~roe/), University of Groningen, The Netherlands
 
-[http://www.iidi.napier.ac.uk/c/people/peopleid/41](Jessie Kennedy), Edinburgh Napier University, UK
+[Jessie Kennedy](http://www.iidi.napier.ac.uk/c/people/peopleid/41), Edinburgh Napier University, UK
 
-[http://compbio.ucdenver.edu/hunter/](Larry Hunter), University of Colorado, USA
+[Larry Hunter](http://compbio.ucdenver.edu/hunter/), University of Colorado, USA
 
 ## Program Committee
 Danielle Albers Szafir , University of Wisconsin
