@@ -5,62 +5,52 @@ menu: main
 ---
 *TO DO: UPDATE THE LIST HERE *
 
-## General chairs
-[Kay Nieselt](http://it.inf.uni-tuebingen.de/]), University of Tübingen, Germany
+### General chairs
+[G. Elisabetha Marai](http://evl.uic.edu/marai), University of Illinois at Chicago, USA
 
-[G. Elisabeta Marai](http://evl.uic.edu/marai), University of Illinois at Chicago, USA
+[Jan Aerts](http://vda-lab.be), KU Leuven, Belgium
 
-## Paper chairs
-[http://www.vis.uni-stuttgart.de/~weiskopf/](Daniel Weiskopf), Univ of Stuttgart, Germany
+### Paper chairs
+[Daniel Weiskopf](http://www.vis.uni-stuttgart.de/~weiskopf/), University of Stuttgart, Germany
 
-[http://vda-lab.be](Jan Aerts), KU Leuven, Belgium
+[Marc Streit](http://marc-streit.com/), Johannes Kepler University Linz, Austria
 
-## Poster chairs
-[http://alexander-lex.com/](Alexander Lex), Harvard University, USA
+### Poster chairs
+[Michel Westenberg](http://www.win.tue.nl/~mwestenb/), Eindhoven University of Technology, The Netherlands
 
-[http://www.win.tue.nl/~mwestenb/](Michel Westenberg), Eindhoven University of Technology, The Netherlands
+[William Ray](http://www.mathmed.org/#William_Ray), The Ohio State University, USA
 
-## Publication chairs
-[http://www.cydney.org/Home.html](Cydney Nielsen), University of British Columbia, Canada
+### Publication chairs
+[Alexander Lex](http://alexander-lex.com/), Harvard University, USA
 
-[http://marc-streit.com/](Marc Streit), Johannes Kepler University Linz, Austria
+[Florin Chelaru](http://www.mit.edu/~florinc/), MIT, USA
 
-## Primer/Tutorial chairs
-Miriah Meyer, University of Utah, USA
+### Primer & challenges chair
+[Eamonn Maguire](http://www.antarctic-design.co.uk/), CERN, Switzerland
+Highlights chair
 
-[http://odonoghuelab.org/](Seán O'Donoghue), Garvan Institute/CSIRO, Australia
+[Julian Heinrich](http://www.joules.de), CSIRO, Australia
 
-## Challenges chairs
-[http://www.joules.de/](Julian Heinrich), CSIRO, Australia
+### Data contest chairs
+[Raghu Machiraju](http://www.cse.ohio-state.edu/~raghu), The Ohio State University, USA
 
-[http://research.jax.org/faculty/greg-carter.html](Greg Carter), The Jackson Laboratory, USA
+[Cagatay Turkay](http://staff.city.ac.uk/cagatay.turkay.1/), City University, London, UK
 
-## Data Contest chairs
-[http://www.cse.ohio-state.edu/~raghu](Raghu Machiraju), The Ohio State University, USA
+### Design contest chairs
+[Ryo Sakai](http://ryosakai.net/), KU Leuven, Belgium
 
-[http://www.mathmed.org/#William_Ray](William Ray), The Ohio State University, USA
-Jason Bohland, Boston University, USA
+[Francis Rowland](http://www.ebi.ac.uk/about/people/francis-rowland), EBI, UK
 
-## Design Contest chairs
-[http://www.antarctic-design.co.uk/](Eamonn Maguire), CERN, Switzerland
+### Industry and fundraising chair
+[Hector Corrado Bravo](http://www.hcbravo.org), University of Maryland, USA
 
-[http://ryosakai.net/](Ryo Sakai), Leuven University, Belgium
+### Website chairs
+[Tuan Dang](http://www2.cs.uic.edu/~tdang/), University of Illinois at Chicago, USA
 
-## Industry and fundraising chairs
-[http://staff.city.ac.uk/cagatay.turkay.1/](Cagatay Turkay), City University, London, UK
+[Anamaria Crisan](http://www.cs.ubc.ca/~acrisan/), University of British Columbia, Canada
 
-[http://www.dbmi.pitt.edu/person/harry-hochheiser-phd](Harry Hochheiser), University of Pittsburgh, USA
-Hanchuan Peng, Allen Institute for Brain Science, Seattle, USA
-
-## Website chairs
-[Tuan Dang]([http://www2.cs.uic.edu/~tdang/]), University of Illinois at Chicago, USA
-
-[Anamaria Crisan](http://cs.ubc.ca/~acrisan), University of British Columbia, Canada
-
-## Publicity chairs
-[http://hendrik.strobelt.com/](Hendrik Strobelt), Harvard University, USA
-
-[http://bio.informatik.uni-mainz.de/](Andreas Hildebrandt), University of Mainz, Germany
+### Publicity chairs
+[Jillian Aurisano](http://www.evl.uic.edu/entry.php?id=285), University of Illinois at Chicago, USA
 
 ## Steering Committee
 [http://www.gehlenborg.com/](Nils Gehlenborg), Harvard Medical School, USA
