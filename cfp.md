@@ -3,8 +3,8 @@ layout: page
 title: Call for Papers
 permalink: /cfp/
 ---
-## BioVis 2016: 6th Symposium on Biological Data Visualization
-at ISMB and IEEE Vis in Dublin, Ireland # July 10th-11th, 2015 http://www.biovis.net
+## BioVis@VIS 2016: 6th Symposium on Biological Data Visualization 
+at IEEE VIS in Baltimore, Maryland, USA # October 24th, 2016 http://www.biovis.net
 Twitter: #biovis
 
 1. [Aims and Scope](#scope)
