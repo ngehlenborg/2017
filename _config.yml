@@ -8,11 +8,11 @@ conferenceshort: "BioVis 2016"
 IEEEconferencedate: "October 24th, 2016"
 ISMBconferencedate: "Friday, July 8, 2016"
 
-deadline_submission: "SUBMISSION DEADLINE"
-deadline_notification: "NOTIFICATION DEADLINE"
-deadline_camera: "CAMERA DEADLINE"
+deadline_submission: "April 29, 2016"
+deadline_notification: "June 10, 2016"
+deadline_camera: "TBD"
 
-deadline_poster: "POSTER DEADLINE"
+deadline_poster: "May 29, 2014"
 
 # Build settings
 markdown: kramdown
