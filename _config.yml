@@ -2,7 +2,7 @@
 title: "6th Symposium on Biological Data Visualization"
 email: "website@biovis.net"
 description: "6th Symposium on Biological Data Visualization"
-baseurl: "/biovis_2016"
+baseurl: ""
 url: "http://biovis.github.io/biovis_2016"
 conferenceshort: "BioVis 2016"
 IEEEconferencedate: "October 24th, 2016"
@@ -12,7 +12,7 @@ deadline_submission: "April 29, 2016"
 deadline_notification: "June 10, 2016"
 deadline_camera: "TBD"
 
-deadline_poster: "May 29, 2014"
+deadline_poster: "May 29, 2016"
 
 # Build settings
 markdown: kramdown

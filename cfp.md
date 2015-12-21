@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Papers
+title: Call for Participation
 permalink: /cfp/
 ---
 ## BioVis@VIS 2016: 6th Symposium on Biological Data Visualization 
