@@ -77,7 +77,7 @@ task :patch_config do
   repo_url = selectRepo(target_repo, target_dev_repo)
   branch = (repo_url.match(/\/[\w-]+\.github\.(?:io|com)/).nil?) ? 'gh-pages' : 'master'
   project = (branch == 'gh-pages') ? repo_url.match(/\/([^\.]+)/)[1] : ''
-  
+  puts "branch: #{branch}"
   #patch the _config file with the right url
   jekyll_config = IO.read('_config.yml')
   target_url = blog_url(project)
@@ -172,8 +172,8 @@ end
 # Publish Chain #
 ##############
 desc "Generate website and deploy"
-#task :publish_io => [:patch_config, :generate, :unpatch_config, :deploy] do #, :check_links
-task :publish_io => [:generate, :unpatch_config, :deploy] do #, :check_links
+task :publish_io => [:patch_config, :generate, :unpatch_config, :deploy] do #, :check_links
+#task :publish_io => [:generate, :unpatch_config, :deploy] do #, :check_links
 end
 
 desc "Generate website and deploy"
