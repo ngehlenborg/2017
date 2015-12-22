@@ -9,7 +9,7 @@ deploy_dir      = "_deploy"
 deploy_subdirectory = "/2016/"
 server_port     = "4000"      # port for preview server eg. localhost:4000
 target_repo     = "git@github.com:biovis/biovis.github.io.git"
-target_dev_repo = ""
+target_dev_repo = "git@github.com:biovis/biovis.github.io.git"
 
 if (/cygwin|mswin|mingw|bccwin|wince|emx/ =~ RUBY_PLATFORM) != nil
   puts '## Set the codepage to 65001 for Windows machines'
@@ -75,7 +75,8 @@ end
 desc "patch the config file with the right url setting"
 task :patch_config do
   repo_url = selectRepo(target_repo, target_dev_repo)
-  branch = 'master'
+  #branch = 'master'
+  branch = (repo_url.match(/\/[\w-]+\.github\.(?:io|com)/).nil?) ? 'gh-pages' : 'master'
   puts "branch: #{branch}"
   project = (branch == 'gh-pages') ? repo_url.match(/\/([^\.]+)/)[1] : ''
   
