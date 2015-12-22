@@ -19,3 +19,6 @@ markdown: kramdown
 
 collections:
 - talks
+
+google_analytics: "'UA-22015250-1'"
+use_analytics: true
