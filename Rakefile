@@ -8,7 +8,7 @@ public_dir      = "_site"    # compiled site directory
 deploy_dir      = "_deploy"
 deploy_subdirectory = "/2016/"
 server_port     = "4000"      # port for preview server eg. localhost:4000
-target_repo     = "git@github.com:biovis/biovis_2016.git"
+target_repo     = "git@github.com:biovis/biovis.github.io.git"
 target_dev_repo = ""
 
 if (/cygwin|mswin|mingw|bccwin|wince|emx/ =~ RUBY_PLATFORM) != nil
