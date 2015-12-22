@@ -76,8 +76,9 @@ desc "patch the config file with the right url setting"
 task :patch_config do
   repo_url = selectRepo(target_repo, target_dev_repo)
   branch = (repo_url.match(/\/[\w-]+\.github\.(?:io|com)/).nil?) ? 'gh-pages' : 'master'
-  project = (branch == 'gh-pages') ? repo_url.match(/\/([^\.]+)/)[1] : ''
   puts "branch: #{branch}"
+  project = (branch == 'gh-pages') ? repo_url.match(/\/([^\.]+)/)[1] : ''
+  
   #patch the _config file with the right url
   jekyll_config = IO.read('_config.yml')
   target_url = blog_url(project)
