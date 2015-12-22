@@ -75,7 +75,7 @@ end
 desc "patch the config file with the right url setting"
 task :patch_config do
   repo_url = selectRepo(target_repo, target_dev_repo)
-  branch = (repo_url.match(/\/[\w-]+\.github\.(?:io|com)/).nil?) ? 'gh-pages' : 'master'
+  branch = 'master'
   puts "branch: #{branch}"
   project = (branch == 'gh-pages') ? repo_url.match(/\/([^\.]+)/)[1] : ''
   
