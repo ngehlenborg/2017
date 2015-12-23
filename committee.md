@@ -4,7 +4,7 @@ title: Organizing Committee
 menu: main
 ---
 ### General chairs
-[G. Elisabetha Marai](http://evl.uic.edu/marai), University of Illinois at Chicago, USA
+[G. Elisabeta Marai](http://evl.uic.edu/marai), University of Illinois at Chicago, USA
 
 [Jan Aerts](http://vda-lab.be), KU Leuven, Belgium
 
