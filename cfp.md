@@ -158,7 +158,7 @@ For Design Contest entries, the judges will be be looking for a design that enha
 <h2 id="oc">Organizing Committee</h2>
 General chairs
 
-* G. Elisabetha Marai, University of Illinois at Chicago, USA
+* G. Elisabeta Marai, University of Illinois at Chicago, USA
 * Jan Aerts, KU Leuven, Belgium
 
 Paper chairs
