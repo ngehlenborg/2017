@@ -6739,7 +6739,7 @@ div.modal.fade.in {
   content: "\e024";
 }
 body.site {
-  border-top: 3px solid #CC7C00;
+  border-top: 3px solid #bdc3c7 ;
   padding: 20px;
   background-color: #f4f6f7;
 }
@@ -6757,15 +6757,17 @@ body.site.fluid {
   line-height: 28px;
   font-weight: bold;
 }
+
+/*** EDIT POINT : CHANGE HEADER COLOUR HERE ***/
 .brand {
-  color: #814E00;
+  color: #2c3e50; /*** DARK BLUE COLOUR ***/
   -webkit-transition: color .5s linear;
   -moz-transition: color .5s linear;
   -o-transition: color .5s linear;
   transition: color .5s linear;
 }
 .brand:hover {
-  color: #CC7C00;
+  color: ##00a6ac; /*** TEAL COLOUR ***/
   text-decoration: none;
 }
 .header {
@@ -6807,6 +6809,8 @@ body.site.fluid {
   -webkit-box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
   box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
 }
+
+/*** EDIT POINT : CHANGE HEADER COLOUR FROM HERE **/
 .well .page-header {
   margin: 0px 0px 5px 0px;
 }
@@ -6819,12 +6823,12 @@ h6 {
   margin: 12px 0;
 }
 h1 {
-  color: #CC7C00;
+  color: #005457; /*** DEEP GREEN COLOUR ***/
   font-size: 26px;
   line-height: 28px;
 }
 h2 {
-  color: #CC7C00;
+  color: #005457; /*** DEEP GREEN COLOUR ***/
   font-size: 22px;
   line-height: 24px;
 }
@@ -7196,22 +7200,24 @@ div.current dd.tabs {
   background-color: #FFF;
 }
 
+/****** EDIT POINT : CHANGE BACKGROUND AND LINK COLOURS ****/
+
 h1,h2,h3,h4,h5,h6,.site-title{
         font-family: 'Open Sans', sans-serif;
       }
     
     body.site
     {
-      border-top: 3px solid #CC7C00;
-      background-color: #F4F6F7    }
+      border-top: 3px solid #00a6ac; /*** TEAL COLOUR **/
+      background-color: #2c3e50   } /*** DARK BUE COLOUR **/
     a
     {
-      color: #CC7C00;
+      color: #00a6ac;
     }
     .navbar-inner, .nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover,
     .btn-primary
     {
-      background: #CC7C00;
+      background: #00a6ac;
     }
     .navbar-inner
     {
