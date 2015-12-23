@@ -132,7 +132,7 @@ Contest entry submission: TBD (In-line with DREAM challenge deadlines)
 
 Notification of acceptance of contest entries:  TBD (In-line with DREAM challenge deadlines)
 
-#### All deadlines are at 5:00 pm Pacific Time (PDT) ####
+**All deadlines are at 5:00 pm Pacific Time (PDT)**
 
 <h2 id="submissionguidelines">Submission Guidelines</h2>
 Paper submissions can include full-color figures throughout. We encourage the use of digital video to enhance paper and poster submissions, particularly if part or all of the work addresses interactive techniques. Submission of working code and other supplemental material in order to increase the reproducibility of the work is also encouraged. The material for the contest entries should include all of the aforementioned content. It will be however, advantageous to include all material which will convince the reviewers of the specificity and topicality of the offered solutions. When possible, Open Source software should be provided for contest entries.

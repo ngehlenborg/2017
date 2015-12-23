@@ -64,59 +64,116 @@ menu: main
 
 ## Program Committee
 Danielle Albers Szafir , University of Wisconsin
+
 Bilal Alsallakh, Vienna University of Technology
+
 Chris Bartlett, Ohio State University
+
 Bertjan Broeksema, Luxembourg Institute of Science and Technology
+
 Stefan Bruckner, University of Bergen, Norway
+
 Jian Chen, University of Maryland
+
 Katja Bühler, VRVis Zentrum für Virtual Reality und Visualisierung
+
 Çagatay Demiralp, Stanford University
+
 Inna Dubchak, Lawrence Berkeley National Laboratory
+
 David Duke, University of Leeds
+
 Jim Faeder, University of Pittsburgh
+
 Angus Forbes, University of Illinois at Chicago
+
 Nils Gehlenborg, Harvard Medical School
+
 Mohammad Ghoniem, Luxembourg Institute of Science and Technology
+
 Nicholas Hamilton, University of Queensland
+
 Helwig Hauser, University of Bergen
+
 Julian Heinrich, CSIRO
+
 Harry Hochheiser, University of Pittsburgh
+
 Larry Hunter, University of Colorado
+
 Radu Jianu, Florida International University
+
 Fabrice Jossinet, University of Strasbourg
+
 Andreas Kerren, Linnaeus University
+
 Robert Kincaid, Agilent Laboratories
+
 Karsten Klein, Monash University
+
 Robert Kuhn, University of California Santa Cruz
+
 Alexander Lex, Harvard University
+
 Lars Linsen, Jacobs University Bremen
+
 Lydia Müller, University of Leipzig
+
 Raghu Machiraju, The Ohio State University
+
 Eamonn Maguire, CERN Geneva
+
 Han Mulder, Wageningen University
+
 Tamara Munzner, University of British Columbia
+
 Tim Nattkemper, Bielefeld University
+
 Sergiy Nesterko, Harvard University
+
 Benoît Otjacques, Luxembourg Institute of Science and Technology
+
 Julius Parulek, University of Bergen
+
 Jürgen Pleiss, University of Stuttgart
+
 Yann Ponty, Ecole Polytechnique, University of Paris-Saclay
+
 Bernhard Preim, University of Magdeburg
+
 A. Johannes Pretorius, The University of Leeds
+
 James Procter, University of Dundee
+
 Jos Roerdink, University of Groningen
+
 Francis Rowland, European Bioinformatics Institue
+
 Ryo Sakai, KU Leuven
+
 Reinhard Schneider, University of Luxembourg
+
 Falk Schreiber, Monash University
+
 Joost Schymkowitz, VIB-KULeuven
+
 Hendrik Strobelt, Harvard University
+
 Cagatay Turkay, City University London
+
 Jim Vallandingham, Bocoup
+
 Corinna Vehlow, University of Stuttgart
+
 Toni Verbeiren, KU Leuven
+
 Ivan Viola, Vienna University of Technology
+
 Ting Wang, Washington University in St. Louis
+
 Tengfei Yin, Seven Bridges Genomics
+
 Dirk Zeckzer, University of Leipzig
+
 Simone Zorzan, Luxembourg Institute of Science and Technology
+
