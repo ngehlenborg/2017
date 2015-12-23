@@ -25,7 +25,6 @@ menu: main
 
 ### Primer & challenges chair
 [Eamonn Maguire](http://www.antarctic-design.co.uk/), CERN, Switzerland
-Highlights chair
 
 ### Highlights chair
 [Julian Heinrich](http://www.joules.de), CSIRO, Australia
