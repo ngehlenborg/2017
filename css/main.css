@@ -6812,7 +6812,7 @@ body.site.fluid {
 
 /*** EDIT POINT : CHANGE HEADER COLOUR FROM HERE **/
 .well .page-header {
-  margin: 0px 0px 5px 0px;
+  margin: 0px 0px 0px 0px; /*** EDIT POINT : CHANGED WELL BOTTOM PX**/
 }
 h1,
 h2,
