@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Archive
-permalink: /archive/
+title: Previous Years
+permalink: /previousYears/
 ---
 Previous BioVis Websites:
 
