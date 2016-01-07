@@ -2,7 +2,7 @@
 title: "6th Symposium on Biological Data Visualization"
 email: "website@biovis.net"
 description: "6th Symposium on Biological Data Visualization"
-baseurl: "/biovis_2016"
+baseurl: "/2016"
 #url: "http://biovis.github.io/biovis_2016"
 url: "http://biovis.net"
 conferenceshort: "BioVis 2016"
