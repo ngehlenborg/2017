@@ -19,7 +19,7 @@ menu: main
 [William Ray](http://www.mathmed.org/#William_Ray), The Ohio State University, USA
 
 ### Publication chairs
-[Alexander Lex](http://alexander-lex.com/), Harvard University, USA
+[Alexander Lex](http://alexander-lex.net/), University of Utah, USA
 
 [Florin Chelaru](http://www.mit.edu/~florinc/), MIT, USA
 
