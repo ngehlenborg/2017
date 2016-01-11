@@ -113,7 +113,7 @@ Karsten Klein, Monash University
 
 Robert Kuhn, University of California Santa Cruz
 
-Alexander Lex, Harvard University
+Alexander Lex, University of Utah
 
 Lars Linsen, Jacobs University Bremen
 
