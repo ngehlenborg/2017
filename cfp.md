@@ -173,7 +173,7 @@ Poster chairs
 
 Publication chairs
 
-* Alexander Lex, Harvard University, USA
+* Alexander Lex, University of Utah, USA
 * Florin Chelaru, MIT, USA
 
 Primer & challenges chair
