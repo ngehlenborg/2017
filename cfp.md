@@ -188,6 +188,7 @@ Data contest chairs
 
 * Raghu Machiraju, The Ohio State University, USA
 * Cagatay Turkay, City University, London, UK
+* Nils Gehlenborg, Harvard Medical School, USA
 
 Design contest chairs
 
