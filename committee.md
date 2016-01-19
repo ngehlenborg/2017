@@ -34,6 +34,8 @@ menu: main
 
 [Cagatay Turkay](http://staff.city.ac.uk/cagatay.turkay.1/), City University, London, UK
 
+[Nils Gehlenborg](http://www.gehlenborg.com/), Harvard Medical School, USA
+
 ### Design contest chairs
 [Ryo Sakai](http://ryosakai.net/), KU Leuven, Belgium
 
