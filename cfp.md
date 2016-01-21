@@ -3,7 +3,7 @@ layout: page
 title: Call for Participation
 permalink: /cfp/
 ---
-## BioVis@VIS 2016: 6th Symposium on Biological Data Visualization 
+## BioVis 2016: 6th Symposium on Biological Data Visualization 
 
 #### BioVis SIG (highlights and posters track) at ISMB in Orlando, FL  - July 8th, 2016
 
@@ -31,7 +31,7 @@ The rapidly expanding field of biology creates enormous challenges for data visu
 
 The BioVis Interest Group organizes the interdisciplinary event BioVis, covering all aspects of visualization in biology. This symposium brings together researchers from the visualization, bioinformatics, and biology communities with the purpose of educating, inspiring, and engaging visualization researchers in problems in biological data visualization as well as bioinformatics and biology researchers in state-of-the-art visualization research.
 
-We invite submissions of original research articles, poster submissions, as well as submissions for data visualization and redesign contests. Poster submissions can be submitted to either the BioVis SIG meeting at ISMB, or to the BioVis symposium at VIS. Paper and Contest submissions can only be submitted to the BioVis symposium at VIS. 
+We invite submissions of original research articles, poster submissions, as well as submissions for data visualization and redesign contests. **Poster submissions can be submitted to either the BioVis SIG meeting at ISMB, or to the BioVis symposium at VIS. Paper and Contest submissions can only be submitted to the BioVis symposium at VIS.** 
 
 <h2 id="topics">Topics</h2>
 We invite contributions on all aspects of **data visualization** in biology, from molecular to cell, tissue, organism and population biology. Suggested topics for paper and poster submissions include, but are not limited to:
