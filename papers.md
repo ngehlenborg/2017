@@ -34,7 +34,7 @@ TBD
 ## Submission
 Please format your submission according to the [instructions for BMC Bioinformatics manuscripts](http://bmcbioinformatics.biomedcentral.com/submission-guidelines), however please keep in mind that your submission to BioVis needs to be submitted to PCS (see below) and not BMC.
 
-Please use the following two-column, LaTeX template: [BioVis_latex.tar](www.biovis.net/2016/templates/BioVis_latex.tar). [Word submissions](www.biovis.net/2016/templates/BioVis_BMC_template_word.docx) are also acceptable.
+Please use the following two-column, LaTeX template: [BioVis_latex.tar](../templates/BioVis_latex.tar). [Word submissions](../templates/BioVis_BMC_template_word.docx) are also acceptable.
 
 Please follow the BioVis instructions whenever they disagree with the BMC instructions (e.g., inline images). For those more familiar with the IEEE VIS templates, at BMC Related work typically belongs to the Background section; or in the discussion section under Results. Algorithms, System Design descriptions etc. typically belong to Methods.
 
