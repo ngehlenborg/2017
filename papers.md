@@ -40,7 +40,7 @@ Please follow the BioVis instructions whenever they disagree with the BMC instru
 
 Submission should be 8-12 pages long in the two-column format provided above.
 
-BioVis uses the Precision Conference System (PCS) to handle its submission and reviewing process. PCS is available at https://precisionconference.com/~vgtc/. When submitting your manuscript please make sure that you submit it to BioVis 2016 by clicking the appropriate header in the conference system landing page.
+BioVis uses the Precision Conference System (PCS) to handle its submission and reviewing process. PCS is available at [https://precisionconference.com/~vgtc/](https://precisionconference.com/~vgtc/). When submitting your manuscript please make sure that you submit it to **BioVis 2016** by clicking the appropriate header in the conference system landing page.
 
 ## Chairs
 * Daniel Weiskopf, University of Stuttgart, Germany
