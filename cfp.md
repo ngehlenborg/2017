@@ -178,7 +178,7 @@ Publication chairs
 
 Primer & challenges chair
 
-* Eamonn Maguire, CERN, Switzerland Highlights chair
+* Eamonn Maguire, CERN, Switzerland
 
 Highlights chair
 
