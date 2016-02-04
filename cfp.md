@@ -85,6 +85,8 @@ The judges will select a winner and runner-up. A subset of selected contestants 
 
 More information about each category of content and the various submission guidelines can be found on http://www.biovis.net.
 
+Submissions to each of the Papers, Posters, and Contest tracks are independent. If you would like to present a poster about your contest entry or on the same theme as your manuscript, please make a separate submission of each type, as appropriate. Likewise, if you have strong design elements in your data analysis contest entry that you think would be competitive in the design contest, please submit separate entries to each contest for each aspect of your work.
+
 <h2 id="format">Symposium Format</h2>
 The symposium will be a one-day single-track event at [VIS](http://ieeevis.org). The event will feature keynote and invited talks, paper sessions, contest and design entries presentation, and posters/demos. Primers acting as tutorial introductions to visualization topics will be provided. BioVis will further run a SIG half-day meeting at [ISMB](https://www.iscb.org/ismb2016). The SIG will feature invited highlight presentations and poster presentations.
 
