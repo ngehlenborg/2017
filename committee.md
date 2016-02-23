@@ -64,4 +64,84 @@ menu: main
 
 [Raghu Machiraju](http://www.cse.ohio-state.edu/~raghu), The Ohio State University, USA (Chair)
 
+## Program Committee
 
+Danielle Albers, University of Wisconsin-Madison, USA
+
+Bilal Alsallakh, Robert Bosch Research and Technology Center, USA
+
+Stefan Bruckner, University of Bergen, Norway
+
+Katja Bühler, VRVis Research Center Austria
+
+Greg Carter, The Jackson Laboratory, USA
+
+Çağatay Demiralp, Stanford University, USA
+
+James Faeder, University of Pittsburgh, USA
+
+Angus Forbes, University of Illinois at Chicago, USA
+
+Nils Gehlenborg, Harvard Medical School, USA
+
+Carsten Goerg, University of Colorado, USA
+
+Joel Graber, The Jackson Laboratory, USA
+
+Nicholas Hamilton, University of Queensland, Australia
+
+Helwig Hauser, University of Bergen, Norway
+
+Julian Heinrich, CSIRO, Australia
+
+Harry Hochheiser, University of Pittsburgh, USA
+
+Alark Joshi, University of San Francisco, USA
+
+Igor Jurisica, Ontario Cancer Institute, Canada
+
+Jessie Kennedy, Edinburgh Napier University, UK
+
+Barbora Kozilkova, Masaryk University, Czech Republic
+
+Michael Krone, University of Stuttgart, Germany
+
+Alexander Lex, University of Utah, USA
+
+Lars Linsen, Jacobs University Bremen, Germany
+
+Eamonn Maguire, CERN, Switzerland
+
+Miriah Meyer, University of Utah, USA
+
+Torsten Möller, University of Vienna, Austria
+
+Kay Nieselt, University of Tübingen, Germany
+
+Benoît Otjacques, Luxembourg Institute of Science and Technology, Luxembourg
+
+Yann Ponty, Ecole Polytechnique, France
+
+Hannes Pretorius, University of Leeds, UK
+
+James Procter, University of Dundee, UK
+
+William Ray, The Ohio State University, USA
+
+Timo Ropinski, Ulm University, Germany
+
+Lydia Müller, University of Leipzig, Germany
+
+Cagatay Turkay, City University London, UK
+
+Corinna Vehlow, University of Stuttgart, Germany
+
+Toni Verbeiren, KU Leuven, Belgium
+
+Ivan Viola Vienna, University of Technology, Austria
+
+Ting Wang, Washington University in St. Louis, USA
+
+Michel Westenberg, Eindhoven University of Technology, Netherland
+
+Alexander Wiebel, Worms University of Applied Sciences, Germany
