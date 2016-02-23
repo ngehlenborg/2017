@@ -66,7 +66,7 @@ menu: main
 
 ## Program Committee
 
-Danielle Albers, University of Wisconsin-Madison, USA
+Danielle Albers Szafir, University of Colorado-Boulder, USA
 
 Bilal Alsallakh, Robert Bosch Research and Technology Center, USA
 
