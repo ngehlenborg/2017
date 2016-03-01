@@ -63,8 +63,8 @@ The design contest organisers will review your submission and send a notificatio
 ### Templates
 Please use the following templates as a guide. You may adjust the proportion of the final design and the design process, but please do not exceed the overall space provided.
 
-*   A4 size([.pdf](https://www.google.com/url?q=https://dl.dropboxusercontent.com/u/50368075/BioVis_2016/template_A4.pdf&sa=D&ust=1456755672165000&usg=AFQjCNHjATjQU89sQx11n_cLx0AwsHtM8A), [.ai](https://www.google.com/url?q=https://dl.dropboxusercontent.com/u/50368075/BioVis_2016/template_A4.ai&sa=D&ust=1456755672166000&usg=AFQjCNHn5AdF6TsLMQGc51MBb5K_PdQadg))
-*   Letter size([.pdf](https://www.google.com/url?q=https://dl.dropboxusercontent.com/u/50368075/BioVis_2016/template_Letter.pdf&sa=D&ust=1456755672166000&usg=AFQjCNE7JKVoOactiNlS3kubJxx5zjTs9A), [.ai](https://www.google.com/url?q=https://dl.dropboxusercontent.com/u/50368075/BioVis_2016/template_Letter.ai&sa=D&ust=1456755672167000&usg=AFQjCNGPLSzhR-qUyvtbfN5S7ScGKwWMcw))
+*   A4 size([.pdf](../templates/template_A4.pdf), [.ai](../templates/template_A4.ai))
+*   Letter size([.pdf](../templates/template_Letter.pdf), [.ai](../templates/template_Letter.ai))
 
 
 ### Terms and Conditions
@@ -93,3 +93,5 @@ By submitting an entry, you give the BioVis 2016 organizers permission to publis
 [8] “Improving Bayesian Reasoning: What Works and Why?” http://journal.frontiersin.org/researchtopic/2963/improving-bayesian-reasoning-what-works-and-why.
 
 [9] D. Spiegelhalter, M. Pearson, and I. Short, “Visualizing Uncertainty About the Future,” Science (80-. )., vol. 333, no. 6048, pp. 1393–1400, Sep. 2011.
+
+[10] A. Khan, S. Breslav, M. Glueck, and K. Hornbæk, “Benefits of visualization in the Mammography Problem,” Int. J. Hum. Comput. Stud., vol. 83, pp. 94–113, 2015.
