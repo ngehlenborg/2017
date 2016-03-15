@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Design Contest
-permalink: /designContest/
+title: Design Contest (BioVis@Vis)
+permalink: /designContest_vis/
 ---
 
 ## Call for Participation

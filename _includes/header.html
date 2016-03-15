@@ -26,12 +26,19 @@
         <!--<h3 class="page-header">Menu</h3>-->
         <ul class="nav menu">
           <li><a class="page-link" style="font-size:16px; padding-bottom:5px" href="{{ site.baseurl }}/">Home</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/cfp/">Call for Participation</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/papers/">Paper Submission Info</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/designContest/">Design Contest</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/program/">Program</a></li>
           <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/committee.html">Organizing Committee</a></li>
           <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/previousYears/">Previous Years</a></li>
+          <h3>BioVis@VIS</h3>
+          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/cfp_vis/">Call for Participation</a></li>
+          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/papers/">Paper Submission Info</a></li>
+          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/designContest_vis/">Design Contest</a></li>
+          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/program/">Program</a></li>
+          <h3>BioVis@ISMB</h3>
+          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/cfp_ismb/">Call for Participation</a></li>
+          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/dataContest_ismb/">Data Analysis Contest</a></li>
+          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/program/">Program</a></li>
+
+
             
           <!-- Tuan: generate items in menu bar alphabetically  
           {% for page in site.pages %}
@@ -54,29 +61,36 @@
       </div>
     -->
 
-      <div class="well mobile-hidden "><h3 class="page-header">Important Dates</h3>
+      <div class="well mobile-hidden "><h2 class="page-header">Important Dates</h2>
         <div class="custom">
-	        <p><strong>Paper Submission Deadline:</strong><br>{{ site.deadline_submission }} </p>
-          <p><strong>Author Notification:</strong><br>{{ site.deadline_notification }} </p>
-          <p><strong>Camera Ready Submission:</strong><br>{{ site.deadline_camera }} </p>
-        <p></p>
-        <p><strong>ISMB Poster Submission Deadline:</strong><br>{{ site.deadline_poster_isbm }} </p>
+          <h3> BioVis@VIS</h3>
+	        <p><strong>Paper Submission Deadline:</strong><br>{{ site.IEEE_deadline_submission }} </p>
+          <p><strong>Author Notification:</strong><br>{{ site.IEEE_deadline_notification }} </p>
+          <p><strong>Camera Ready Submission:</strong><br>{{ site.IEEE_deadline_camera }} </p>
+          <p><strong>VIS Poster Submission Deadline:</strong><br>{{ site.IEEE_deadline_poster }} </p>
+        <hr>
+        <h3>BioVis@ISMB</h3>
+        <p><strong>Highlights and New Research Submission:</strong><br>{{ site.ISMB_hl_and_nresearch_submission}} </p>
+        <p><strong>Highlights and New Research Notification:</strong><br>{{ site.ISMB_hl_and_nresearch_notiication }} </p>
+        <p><strong>ISMB Poster Submission Deadline:</strong><br>{{ site.ISMB_deadline_poster }} </p>
 
-        <p><strong>IEEE VIS Poster Submission Deadline:</strong><br>{{ site.deadline_poster_ieee }} </p>
+       
         </div>
       </div>
 
-      <div class="well "><h3 class="page-header">Sponsors</h3>
+      <div class="well "><h2 class="page-header">Affiliations</h2>
         <div class="custom">
          	<p> BioVis 2016 is an official SIG of <a href="https://www.iscb.org/ismb2016"> ISMB 2016</a></p>
          	<a href="https://www.iscb.org"><img src="{{site.baseurl }}/images/sponsors/ISCB.jpg" alt="ISCB" /></a>
          	<hr>
+          <!---
          	<a href="http://www.nvidia.com"><img src="{{site.baseurl }}/images/sponsors/NVIDIA.png" alt="NVIDIA" /></a>
          	<br><br>
          	<a href="http://www.rstudio.com"><img src="{{site.baseurl }}/images/sponsors/RStudio.png" alt="RSTUDIO" /></a>
          	<br><br>
          	<a href="https://www.sbgenomics.com"><img src="{{site.baseurl }}/images/sponsors/sbg.png" alt="NVIDIA" /></a>
        	 	<hr>
+         -->
 		<p> We also acknowledge the support of <strong>BMC</strong>:</p>
          	<a href="http://www.biomedcentral.com/"><img src="{{site.baseurl }}/images/sponsors/publications_BMC.jpg" alt="BMC" /></a>
 		<hr>

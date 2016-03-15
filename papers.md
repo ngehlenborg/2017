@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Paper Submission Info
+title: Paper Submission Info (BioVis@VIS)
 permalink: /papers/
 ---
 

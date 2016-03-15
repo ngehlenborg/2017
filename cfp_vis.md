@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Call for Participation
-permalink: /cfp/
+title: Call for Participation (BioVis@VIS)
+permalink: /cfp_vis/
 ---
 ## BioVis 2016: 6th Symposium on Biological Data Visualization 
 
