@@ -16,7 +16,7 @@ Three categories of paper are invited BioVis 2016 (details below). Your manuscri
 
 * **Methodology papers**: this category includes Application/Design Studies and Evaluations. Application/Design Studies focus on new or existing visualization techniques to the biology domain, perhaps within a novel system. Such papers typically explore the choices made when applying visualization to a biology area, for example relating the visual encodings and interaction techniques to the requirements of the target task. The results of the Application / Design Study, including insights generated in the biology domain, should be clearly conveyed. Evaluations focus on the usage of biological visualization by human users, typically through an empirical study of biological visualization techniques or systems, or reports of experience with an existing set of biological visualizations. Authors are not necessarily expected to implement the systems used in these studies themselves; the research contribution will be judged on the validity and importance of the experimental results to biology visualization as opposed to the novelty of the systems or techniques under study.
 
-Please see the [Call for Participation](../cfp_ieee/) for further details about topics of interest.
+Please see the [Call for Participation](/2016/cfp_vis/) for further details about topics of interest.
 
 Regardless of the category, all BioVis papers are expected to start with a description of the biological context and motivation provide sufficient biological and visualization background end with a discussion where the biological relevance of the paper is discussed.
 
