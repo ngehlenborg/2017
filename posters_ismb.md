@@ -22,7 +22,7 @@ Example poster topics include, but are not limited to:
 * Extensions of Papers submissions and content that doesn’t fit Podium presentations
 * Details about, or generalizations of contest submissions 
 
-Please see the [Call for Participation](../cfp_ismb.md) for further details about topics of interest. 
+Please see the [Call for Participation](/2016/cfp_ismb/) for further details about topics of interest. 
 
 **The following items are required for a complete poster submission:**
 * A 250-word text-only abstract summarizing the subject matter of the poster. It is critical to clarify the target biological problem, the role of visualization, and the work’s relevance to BioVis.
