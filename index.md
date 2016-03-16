@@ -11,6 +11,6 @@ The BioVis meetings are intended to educate, inspire, and engage visualization r
 <br>
 <h2> SPONSORS </h2>
 
-![RStudio](/images/sponsors/RStudio_small.png) 
-![SBG](/images/sponsors/sbg_small.png) 
-![NVIDIA](/images/sponsors/Nvidia_small.png)
+![RStudio](/2016/images/sponsors/RStudio_small.png) 
+![SBG](/2016/images/sponsors/sbg_small.png) 
+![NVIDIA](/2016/images/sponsors/Nvidia_small.png)
