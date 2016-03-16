@@ -10,10 +10,7 @@ The BioVis meetings are intended to educate, inspire, and engage visualization r
 <br>
 <br>
 <h2> SPONSORS </h2>
-<table>
-<tr>
-<td><a href="http://www.nvidia.com"><img src="/images/sponsors/NVIDIA.png" alt="NVIDIA"  style="width:150px;"/></a></td>
- <td><a href="http://www.rstudio.com"><img src="/images/sponsors/RStudio.png" alt="RSTUDIO" style="width:150px;"/></a></td>
-<td><a href="https://www.sbgenomics.com"><img src="/images/sponsors/sbg.png" alt="NVIDIA" style= "width:150px;" /></a></td></td>
-</tr>
-</table>
+
+![RStudio](/images/sponsors/RStudio_small.png) 
+![SBG](/images/sponsors/sbg_small.png) 
+![NVIDIA](/images/sponsors/Nvidia_small.png)
