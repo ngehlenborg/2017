@@ -25,6 +25,7 @@ Example poster topics include, but are not limited to:
 Please see the [Call for Participation](/2016/cfp_ismb/) for further details about topics of interest. 
 
 **The following items are required for a complete poster submission:**
+
 * A 250-word text-only abstract summarizing the subject matter of the poster. It is critical to clarify the target biological problem, the role of visualization, and the work’s relevance to BioVis.
 * A single figure representative of the work in jpg or png format. It is particularly helpful for this image to illustrate how visualization is being employed to address a biological problem and it will be used as part of the poster submission reviewing process. An accompanying figure legend should be included in the appropriate field of the online submission form.
 * A thumbnail image that will be used when posting the abstract on the BioVis web site (accepted posters only). The image must be a 400x300 pixel jpg or png file.
