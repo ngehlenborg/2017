@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Call for Participation (BioVIs@ISMB)
+title: Call for Participation at the BioVis@ISMB SIG 2016 (July 8, 2016)
 permalink: /cfp_ismb/
 ---
-## Call for Participation at the BioVis@ISMB SIG 2016 (July 8, 2016).
-
 The rapidly expanding field of biology creates enormous challenges for the computational visualization techniques that are necessary in order to enable researchers to gain insight from their large and highly complex data sets.
 
 The BioVis Interest Group (http://www.biovis.net) is organizing two meetings in 2016. In addition to the BioVis@ISMB meeting described here, a second meeting will be taking place at the IEEE VIS conference in October 2016. The main difference between the two meetings are the types of submissions that will be accepted to accommodate our diverse community: BioVis@ISMB will only accept abstracts, while BioVis@VIS will accept full papers that will undergo comprehensive peer-review and get published, as well as poster submissions. 
@@ -24,7 +22,7 @@ We seek work in progress and preliminary results; previously published work from
 ## Submission Details:
 Submissions consist of a 500 word abstract and two images for the for the New Research and Highlights abstracts and a 250 word abstract and one image for poster abstract.
 
-BioVis@ISMB uses EasyChair to handle its submission and reviewing process. To submit your work go to https://easychair.org/conferences/?conf=biovis2016ismb.
+BioVis@ISMB uses EasyChair to handle its submission and reviewing process. To submit your work go to [https://easychair.org/conferences/?conf=biovis2016ismb](https://easychair.org/conferences/?conf=biovis2016ismb).
 
 ## Key Dates:
 **May 3, 2016** - Submission deadline for the Highlights and New Research
