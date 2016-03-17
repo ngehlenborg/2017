@@ -9,7 +9,7 @@ The BioVis 2016 Posters track offers a venue to present and discuss new research
 ## Important Dates
 **May 17, 2016** - Poster submission to the BioVis SIG meeting at ISMB 
 
-**June 1, 2016** - Author notification of posters for the SIG
+**May 20, 2016** - Author notification of posters for the SIG
 
 Submission for BioVis@ISMB: [https://easychair.org/conferences/?conf=biovis2016ismb](https://easychair.org/conferences/?conf=biovis2016ismb)
 
