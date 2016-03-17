@@ -12,7 +12,7 @@ The BioVis 2016 Posters track offers a venue to present and discuss new research
 
 **September 9, 2016** - Author notification of posters for the symposium 
 
-Submission for BioVis@VIS: https://precisionconference.com/~vgtc/
+Submission for BioVis@VIS: [https://precisionconference.com/~vgtc/](https://precisionconference.com/~vgtc/)
 
 ## Submission
 Example poster topics include, but are not limited to:
