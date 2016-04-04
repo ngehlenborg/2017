@@ -5,6 +5,18 @@ permalink: /cfp_vis/
 ---
 ## BioVis 2016: 6th Symposium on Biological Data Visualization 
 
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<h3>Update on Publication Process</h3>
+<p><b>Dear prospective BioVis authors,</b></p> 
+
+<p>Due to some unforeseeable issues regarding the copyright claims of the conference sponsor (IEEE) and our publisher of choice (BMC) we currently can not guarantee that our publishing model will turn out as planned. We are currently working on realizing the publishing model as described in the Call for Participation, i.e., an open access publication with BMC Bioinformatics respectively BMC Proceedings, but unfortunately, we currently can not guarantee that all parties will agree to that. If we cannot find an amicable solution to the copyright problem, we will publish the Proceedings of BioVis in IEEE Xplore. We will update you on any new developments as soon as we know more.</p>
+
+<p>Kind regards and our apologies for the inconvenience,</p>
+
+<p>The BioVis Organizing Committee.</p>
+
+</div>
+
 #### BioVis SIG (highlights and posters track) at ISMB in Orlando, FL  - July 8th, 2016
 
 #### BioVis (papers,posters, and contest track) at IEEE VIS in Baltimore, Maryland, USA - October 24th, 2016
