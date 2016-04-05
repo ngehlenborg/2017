@@ -112,7 +112,7 @@ Our symposium will adhere to the VGTC ethics guidelines for reviewers that can b
 
 
 <h2 id="reviewprocess">Review Process</h2>
-**Paper submissions** will be managed by the Papers Chairs and sent to external reviewers - from both the visualization and bioinformatics communities - to evaluate the work's novelty and significance. You have the option to have your work reviewed via a double-blind process; to do this, simply be sure to exclude all identifying information in the submitted manuscript file, ensuring that the reviewers will not know the identify of the authors. Otherwise, the review process will be single-blind, i.e. the reviewers will know the identity of the authors, but the authors will not know the identity of the reviewers.
+**Paper submissions** will be managed by the Papers Chairs and sent to external reviewers - from both the visualization and bioinformatics communities - to evaluate the works' novelty and significance. You have the option to have your work reviewed via a double-blind process; to do this, simply be sure to exclude all identifying information in the submitted manuscript file, ensuring that the reviewers will not know the identify of the authors. Otherwise, the review process will be single-blind, i.e. the reviewers will know the identity of the authors, but the authors will not know the identity of the reviewers.
 
 **Poster submissions** will be reviewed for relevance and interest to the BioVis community by the Poster Chairs. 
 
