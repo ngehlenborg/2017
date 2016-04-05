@@ -19,8 +19,6 @@ permalink: /cfp_vis/
 
 #### BioVis (papers,posters, and contest track) at IEEE VIS in Baltimore, Maryland, USA - October 23rd, 2016
 
-http://www.biovis.net
-
 Twitter: #biovis
 
 1. [Aims and Scope](#scope)
