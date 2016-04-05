@@ -72,7 +72,7 @@ Four categories of submissions are invited for BioVis 2016:
 * Methodology papers (design studies or evaluations of existing visualization approaches)
 	
 
-**Posters** - Submissions consist of a brief 250-word abstract and supporting image that summarize your work. If your work concerns an interactive system then submitting a video is highly encouraged. Upon acceptance, you should submit a PDF of the final poster, so that it can be made available on the BioVis web site. Both the BioVis SIG meeting and BioVis symposium will feature poster sessions; upon submission you have to explicitly choose the venue (double submission to both venues is acceptable). You must present a corresponding poster during the designated poster session, and are encouraged to incorporate a demo or video into your presentation. You also have the opportunity to give a brief oral preview during a plenary ?fast forward? session. Example topics include, but are not limited to:
+**Posters** - Submissions consist of a brief 250-word abstract and supporting image that summarize your work. If your work concerns an interactive system then submitting a video is highly encouraged. Upon acceptance, you should submit a PDF of the final poster, so that it can be made available on the BioVis web site. Both the BioVis SIG meeting and BioVis symposium will feature poster sessions; upon submission you have to explicitly choose the venue (double submission to both venues is acceptable). You must present a corresponding poster during the designated poster session, and are encouraged to incorporate a demo or video into your presentation. You also have the opportunity to give a brief oral preview during a plenary *fast forward* session. Example topics include, but are not limited to:
 
 * Work in progress and preliminary results
 * Previously published work from other venues
@@ -112,7 +112,7 @@ Our symposium will adhere to the VGTC ethics guidelines for reviewers that can b
 
 
 <h2 id="reviewprocess">Review Process</h2>
-**Paper submissions** will be managed by the Papers Chairs and sent to external reviewers - from both the visualization and bioinformatics communities - to evaluate the work?s novelty and significance. You have the option to have your work reviewed via a double-blind process; to do this, simply be sure to exclude all identifying information in the submitted manuscript file, ensuring that the reviewers will not know the identify of the authors. Otherwise, the review process will be single-blind, i.e. the reviewers will know the identity of the authors, but the authors will not know the identity of the reviewers.
+**Paper submissions** will be managed by the Papers Chairs and sent to external reviewers - from both the visualization and bioinformatics communities - to evaluate the work's novelty and significance. You have the option to have your work reviewed via a double-blind process; to do this, simply be sure to exclude all identifying information in the submitted manuscript file, ensuring that the reviewers will not know the identify of the authors. Otherwise, the review process will be single-blind, i.e. the reviewers will know the identity of the authors, but the authors will not know the identity of the reviewers.
 
 **Poster submissions** will be reviewed for relevance and interest to the BioVis community by the Poster Chairs. 
 
