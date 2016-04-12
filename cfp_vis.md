@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Call for Participation (BioVis@VIS)
+back_title: IEEE VIS
+back_url: ieeevis
 permalink: /cfp_vis/
 ---
 ## BioVis 2016: 6th Symposium on Biological Data Visualization 
@@ -214,7 +216,7 @@ Publicity chairs
 
 * Jillian Aurisano, University of Illinois at Chicago, USA
 
-<h2 id="sc">Steering Committee</h2>
+<h3 id="sc">Steering Committee</h3>
 * Kay Nieselt, University of Tuebingen, Germany
 * Nils Gehlenborg, Harvard Medical School, USA
 * Jessie Kennedy, Edinburgh Napier University, UK

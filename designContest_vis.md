@@ -2,6 +2,8 @@
 layout: page
 title: Design Contest (BioVis@Vis)
 permalink: /designContest_vis/
+back_title: IEEE VIS 2016
+back_url: ieeevis
 ---
 
 ## Call for Participation
