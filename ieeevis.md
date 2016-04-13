@@ -4,6 +4,8 @@ logo: ieee.svg
 title: BioVis at IEEE VIS (BioVis@VIS)
 location: Baltimore, Maryland
 date: October 23rd, 2016
+main_venue: IEEE VIS 2016
+main_venue_url: http://ieeevis.org/year/2016/info/vis-welcome/welcome
 permalink: /ieeevis/
 ---
 

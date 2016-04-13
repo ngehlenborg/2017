@@ -104,6 +104,11 @@ nav a {
   border-bottom: #14a085 solid 3px;
 }
 
+.green-section a {
+  color: #2c3e50;
+  text-decoration: underline;
+}
+
 .event-details {
   padding-top:  10px !important;
 }
