@@ -34,14 +34,14 @@ layout: home
                     </div>
                 </div>
                 </a>
-                
+
                 <a href="{{site.baseurl}}/ismb">
                 <div class="col s12 m4">
                     <div class="row event center-align">
                         <div class="col s12">
                             <img src="{{ site.baseurl }}/images/logos/ismb.svg" width="40%">
                         </div>
-                        
+
                         <div class="col s12 event-details">
                             <div class="event-name">ISMB 2016</div>
                             <div class="event-subtitle">SIG Meeting</div>
@@ -51,27 +51,27 @@ layout: home
                     </div>
                   </div>
                   </a>
-                  
+
                   <a href="{{site.baseurl}}/dataContest_dream">
                   <div class="col s12 m4">
                       <div class="row event center-align">
                           <div class="col s12">
                               <img src="{{ site.baseurl }}/images/logos/dream.svg" width="40%">
                           </div>
-                          
+
                           <div class="col s12 event-details">
                               <div class="event-name">Dream 2016</div>
                               <div class="event-subtitle">Data Analysis Contest</div>
-                              
+
                           </div>
                       </div>
                     </div>
                     </a>
-                 
+
                 </div>
-                  
-                  
-            
+
+
+
                 <p class="hide-on-small-only">The BioVis meetings are intended to educate, inspire, and engage visualization
                   researchers in problems in biological data visualization, as well as bioinformatics
                   and biology researchers in state-of-the-art visualization research. The symposiums
@@ -84,7 +84,7 @@ layout: home
 
                 <div class="row grey-section center-align">
                     <div class="container">
-                    
+
                         <div class="col s12 m12 center-align">
                             <h4><i class="material-icons" style="font-size: .9em">date_range</i> Important Dates</h4>
                         </div>
@@ -94,7 +94,7 @@ layout: home
                                 <p><strong>Author Notification:</strong><br>{{ site.IEEE_deadline_notification }} </p>
                                 <p><strong>Camera Ready Submission:</strong><br>{{ site.IEEE_deadline_camera }} </p>
                                 <p><strong>VIS Poster Submission Deadline:</strong><br>{{ site.IEEE_deadline_poster }} </p>
-                                
+
                           </div>
                           <div class="col s12 m6">
                              <h4><a href="{{site.baseurl}}/ismb">BioVis@ISMB</a></h4>
@@ -103,29 +103,29 @@ layout: home
                                 <p><strong>ISMB Poster Submission Deadline:</strong><br>{{ site.ISMB_deadline_poster }} </p>
                                 <p><strong>Highlights, New Research and Poster Notification:</strong><br>{{
                                     site.ISMB_hl_and_nresearch_notiication }} </p>
-                          
+
                           </div>
                     </div>
                 </div>
-                    
+
                     <div class="row center-align">
                     <div class="container">
                         <div class="col s12 m6">
-                      
+
                             <h4>Affiliates</h4>
                             <p> BioVis 2016 is an official SIG of <a href="https://www.iscb.org/ismb2016"> ISMB 2016</a></p>
                                 <a href="https://www.iscb.org">
-                                    <img src="/2016/images/sponsors/ISCB.jpg" alt="ISCB"/>
+                                    <img src="/images/sponsors/ISCB.jpg" alt="ISCB"/>
                                 </a>
                              </p>
                              <br/>
                              <p>
-                             
+
                              We also acknowledge the support of BMC:<br/>
-                             
-                             <img src="/2016/images/sponsors/publications_bmc.jpg" alt="BMC"> <br/>
+
+                             <img src="/images/sponsors/publications_bmc.jpg" alt="BMC"> <br/>
                              Please check out our <a href="http://www.biomedcentral.com/bmcbioinformatics/series/BioVis2014">thematic series</a>
-                                    in conjunction with BioVis 2014 and the 
+                                    in conjunction with BioVis 2014 and the
                              <a href="http://www.biomedcentral.com/bmcproc/supplements/8/S2">proceedings</a> in conjunction with BioVis 2013.
                              <br/>
                              </p>
@@ -133,7 +133,7 @@ layout: home
                         <div class="col s12 m6">
                             <h4>Sponsors</h4>
                             <p>We are grateful to our invaluable sponsors who contribute to prizes and the running costs of BioVis!
-                            
+
                             <br/><br/>
                             <a href="https://www.rstudio.com/" target="_new">
                             <img src="{{site.baseurl}}/images/sponsors/RStudio.png" width="140px">
@@ -144,9 +144,8 @@ layout: home
                             <a href="http://www.nvidia.com/content/global/global.php" target="_new">
                             <img src="{{site.baseurl}}/images/sponsors/NVIDIA.png" width="80px">
                             </a>
-                            
+
                         </div>
                     </div>
                 </div>
         </div>
-        
