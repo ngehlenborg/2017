@@ -27,7 +27,7 @@ We seek work in progress and preliminary results; previously published work from
 
 
 ### Submission
-Submissions consist of a 500 word abstract and two images for the for the New Research and Highlights abstracts and a 250 word abstract and one image for poster abstract. For details about the submission and review process please see the [Submission Information](/2016/abstracts_ismb) page.
+Submissions consist of a 500 word abstract and two images for the for the New Research and Highlights abstracts and a 250 word abstract and one image for poster abstract. For details about the submission and review process please see the [Submission Information](/2016/submission_ismb) page.
 
 ### Location and Registration
 BioVis@ISMB2016 is co-located with [ISMB 2016](http://www.iscb.org/ismb2016) and will be taking place on July 8 in [Orlando, Florida at the Disney World Resort Swan and Dolphin hotel](http://www.iscb.org/ismb2016-accommodation). The main ISMB 2016 conference will run from July 8 through July 12.
