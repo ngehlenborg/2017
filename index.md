@@ -115,7 +115,7 @@ layout: home
                             <h4>Affiliates</h4>
                             <p> BioVis 2016 is an official SIG of <a href="https://www.iscb.org/ismb2016"> ISMB 2016</a></p>
                                 <a href="https://www.iscb.org">
-                                    <img src="/images/sponsors/ISCB.jpg" alt="ISCB"/>
+                                    <img src="/2016/images/sponsors/ISCB.jpg" alt="ISCB"/>
                                 </a>
                              </p>
                              <br/>
@@ -123,7 +123,7 @@ layout: home
 
                              We also acknowledge the support of BMC:<br/>
 
-                             <img src="/images/sponsors/publications_bmc.jpg" alt="BMC"> <br/>
+                             <img src="/2016/images/sponsors/publications_bmc.jpg" alt="BMC"> <br/>
                              Please check out our <a href="http://www.biomedcentral.com/bmcbioinformatics/series/BioVis2014">thematic series</a>
                                     in conjunction with BioVis 2014 and the
                              <a href="http://www.biomedcentral.com/bmcproc/supplements/8/S2">proceedings</a> in conjunction with BioVis 2013.
