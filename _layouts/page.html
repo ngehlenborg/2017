@@ -2,17 +2,22 @@
 layout: default
 ---
 
-<div class="moduletable">
+<div class="breadcrumbs moduletable">
   <ul class="breadcrumb">
     <li class="active">You are here: &nbsp;</li>
-    <li><a href="{{ site.baseurl }}/" class="pathway">Home</a><span class="divider"><img src="{{ "/images/arrow.png" | prepend: site.baseurl }}" alt=""></span></li>
+    <li><a href="{{ site.baseurl }}/" class="pathway">Home</a> |</li>
+    {% if page.back_title %}
+    <li><a href="{{ site.baseurl }}/{{page.back_url}}" class="pathway">{{page.back_title}}</a> |</li>
+    {% endif %}
     <li class="active"><span>{{ page.title }}</span></li>
   </ul>
 </div>
 
-<div class="page-header">
-  <h2 itemprop="name">{{ page.title }}</h1>
+<div class="blue-section">
+  <h3 itemprop="name">{{ page.title }}</h3>
 </div>
 
+<div class="container">
 {{ content }}
+</div>
 

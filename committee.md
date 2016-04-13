@@ -52,7 +52,7 @@ menu: main
 ### Publicity chairs
 [Jillian Aurisano](http://www.evl.uic.edu/entry.php?id=285), University of Illinois at Chicago, USA
 
-## Steering Committee
+### Steering Committee
 
 [Kay Nieselt](http://it.inf.uni-tuebingen.de/), University of Tuebingen, Germany
 
@@ -64,7 +64,7 @@ menu: main
 
 [Raghu Machiraju](http://www.cse.ohio-state.edu/~raghu), The Ohio State University, USA (Chair)
 
-## Program Committee
+### Program Committee
 
 Danielle Albers Szafir, University of Colorado-Boulder, USA
 

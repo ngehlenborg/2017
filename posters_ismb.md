@@ -2,6 +2,8 @@
 layout: page
 title: Poster Submission Info for BioVis@ISMB
 permalink: /posters_ismb/
+back_title: ISMB 2016
+back_url: ismb
 ---
 ## General Information
 The BioVis 2016 Posters track offers a venue to present and discuss new research in biological data visualization. Submissions take the form of a short (250-word) abstract with a supporting figure and are presented at the conference site as large format posters during a dedicated poster session. The BioVis symposium as a whole aims to promote interaction between the visualization, bioinformatics, and biology communities, and the BioVis poster session offers an interactive forum that encourages graphical presentation, demonstration, and active engagement with BioVis participants as well as all attendees of ISMB.

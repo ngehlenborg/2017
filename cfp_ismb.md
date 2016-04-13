@@ -2,6 +2,8 @@
 layout: page
 title: Call for Participation at the BioVis@ISMB SIG 2016 (July 8, 2016)
 permalink: /cfp_ismb/
+back_title: ISMB
+back_url: ismb
 ---
 The rapidly expanding field of biology creates enormous challenges for the computational visualization techniques that are necessary in order to enable researchers to gain insight from their large and highly complex data sets.
 

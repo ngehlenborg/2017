@@ -1,23 +1,19 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
-  
-<body class="site com_content view-article no-layout no-task">
+{% include head.html %}
 
-  <div class="body">
-    <div class="container">
-      {% include header.html %}
-      {{ content }}
-    
-    </div>
-  </div>
-</div>
-  {% include footer.html %}
+<body class="site">
 
-  {% if site.use_analytics == true %}
-  {% include google_analytics.html %}
-  {% endif %}
+    {% include header.html %}
+
+    {{ content }}
+
+{% include footer.html %}
+
+{% if site.use_analytics == true %}
+{% include google_analytics.html %}
+{% endif %}
 
 </body>
 </html>

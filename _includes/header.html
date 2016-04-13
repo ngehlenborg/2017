@@ -1,115 +1,59 @@
-<header class="header" role="banner">
-  <div class="header-inner clearfix">
-    <a class="brand pull-left" href="{{ site.baseurl }}/"><span class="site-title span11" title="{{ site.title }}">{{ site.title }}</span></a>
-    <div class="header-search pull-right">
-      <ul class="nav menu" id="top_button"><li><a href="http://www.ieeevis.org/">Back to IEEE VIS</a> </li></ul>
-       <ul class="nav menu" id="top_button"><li><a href="https://www.iscb.org/">Back to ISMB</a></li></ul>
-    </div>
-  </div>
-</header>
+<div class="body">
+    <nav>
+        <div class="nav-wrapper">
 
-<div class="row-fluid">
-  <div id="sidebar" class="span3">
-    <div class="sidebar-nav">
-      <!--
-      <div class="well ">
-        <div class="custom">
-	  <h1>{{ site.conferenceshort }}</h1>
-    <h3>With IEEE Vis 2016:</h3>
-    <p><i style="color:#8A3600; font-size:16px">{{ site.IEEEconferencedate }}</i></p>
-    <h3>With ISMB 2016:</h3>
-    <p><i style="color:#8A3600; font-size:16px">{{ site.ISMBconferencedate }}</i></p>
+            <ul id="vis" class="dropdown-content">
+                <li><a href="{{ site.baseurl }}/cfp_vis">Call for Participation</a></li>
+                <li><a href="{{ site.baseurl }}/papers">Paper Submission</a></li>
+                <li><a href="{{ site.baseurl }}/posters_ieee">Poster Submission</a></li>
+                <li><a href="{{ site.baseurl }}/designContest_vis">Design Contest</a></li>
+                <li class="divider"></li>
+                <li><a class="disabled">Program</a></li>
+            </ul>
 
+            <ul id="ismb" class="dropdown-content">
+                <li><a href="{{ site.baseurl }}/cfp_ismb">Call for Participation</a></li>
+                <li><a href="{{ site.baseurl }}/posters_ismb">Submission Info</a></li>
+                <li class="divider"></li>
+                <li><a class="disabled">Program</a></li>
+            </ul>
+
+            <a href="{{ site.baseurl }}/" class="brand-logo"><img src="{{ site.baseurl }}/images/logo-white.svg"
+                                                                  width="150"/></a>
+            <a href="#" data-activates="mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+            <ul class="right hide-on-med-and-down">
+                <li><a class="dropdown-button" href="#!" data-beloworigin="true" data-activates="vis">@IEEE VIS<i
+                        class="material-icons right">arrow_drop_down</i></a></li>
+                <li><a class="dropdown-button" href="#!" data-beloworigin="true" data-activates="ismb">@ISMB<i
+                        class="material-icons right">arrow_drop_down</i></a></li>
+                <li><a href="#!">@DREAM</a></li>
+
+                <li><a href="{{ site.baseurl }}/committee.html">Organizing Committee</a></li>
+                <li><a href="{{ site.baseurl }}/previousYears/">Previous Years</a></li>
+            </ul>
+            <ul class="side-nav" id="mobile">
+                <li><a href="{{ site.baseurl }}/ieeevis/">@IEEE VIS 2016</a>
+                    <ul>
+                        <li><a href="{{ site.baseurl }}/cfp_vis">Call for Participation</a></li>
+                        <li><a href="{{ site.baseurl }}/papers">Paper Submission</a></li>
+                        <li><a href="{{ site.baseurl }}/posters_ieee">Poster Submission</a></li>
+                        <li><a href="{{ site.baseurl }}/designContest_vis">Design Contest</a></li>
+                        <li><a class="disabled">Program</a></li>
+                    </ul>
+                </li>
+
+                <li><a href="{{ site.baseurl }}/ismb/">@ISMB 2016</a>
+                    <ul>
+                        <li><a href="{{ site.baseurl }}/cfp_ismb">Call for Participation</a></li>
+                        <li><a href="{{ site.baseurl }}/posters_ismb">Submission</a></li>
+                        <li><a href="{{ site.baseurl }}/designContest_vis">Design Contest</a></li>
+                        <li><a class="disabled">Program</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="{{ site.baseurl }}/previousYears/">Previous Years</a></li>
+            </ul>
         </div>
-      </div>-->
-      <div class="well _menu">
-        <!--<h3 class="page-header">Menu</h3>-->
-        <ul class="nav menu">
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px" href="{{ site.baseurl }}/">Home</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/committee.html">Organizing Committee</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/previousYears/">Previous Years</a></li>
-          <h3>BioVis@VIS</h3>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/cfp_vis/">Call for Participation</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/papers/">Paper Submission Info</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/posters_ieee/">Poster Submission Info</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/designContest_vis/">Design Contest</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/program/">Program</a></li>
-          <h3>BioVis@ISMB</h3>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/cfp_ismb/">Call for Participation</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/posters_ismb/">Submission Info</a></li>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/program/">Program</a></li>
-          <h3>BioVis@DREAM</h3>
-          <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ site.baseurl }}/dataContest_dream/">Data Analysis Contest</a></li>
+    </nav>
 
-
-            
-          <!-- Tuan: generate items in menu bar alphabetically  
-          {% for page in site.pages %}
-            {% if page.title %}
-  	      <li><a class="page-link" style="font-size:16px; padding-bottom:5px;"  href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-          -->
-        </ul>
-      </div>
-
-
-      <!--
-      <div class="well mobile-hidden "><h3 class="page-header">Affilliated Tutorial</h3>
-        <div class="custom">
-          <p><strong>A Practical Introduction to Data Science in Python</strong> <br />
-          Sunday, October 25th, 2015</p>
-
-        </div>
-      </div>
-    -->
-
-      <div class="well mobile-hidden "><h2 class="page-header">Important Dates</h2>
-        <div class="custom">
-          <h3> BioVis@VIS</h3>
-	        <p><strong>Paper Submission Deadline:</strong><br>{{ site.IEEE_deadline_submission }} </p>
-          <p><strong>Author Notification:</strong><br>{{ site.IEEE_deadline_notification }} </p>
-          <p><strong>Camera Ready Submission:</strong><br>{{ site.IEEE_deadline_camera }} </p>
-          <p><strong>VIS Poster Submission Deadline:</strong><br>{{ site.IEEE_deadline_poster }} </p>
-        <hr>
-        <h3>BioVis@ISMB</h3>
-        <p><strong>Highlights and New Research Submission:</strong><br>{{ site.ISMB_hl_and_nresearch_submission}} </p>
-        <p><strong>ISMB Poster Submission Deadline:</strong><br>{{ site.ISMB_deadline_poster }} </p>
-        <p><strong>Highlights, New Research and Poster Notification:</strong><br>{{ site.ISMB_hl_and_nresearch_notiication }} </p>
-        
-       
-        </div>
-      </div>
-
-      <div class="well "><h2 class="page-header">Affiliations</h2>
-        <div class="custom">
-         	<p> BioVis 2016 is an official SIG of <a href="https://www.iscb.org/ismb2016"> ISMB 2016</a></p>
-         	<a href="https://www.iscb.org"><img src="{{site.baseurl }}/images/sponsors/ISCB.jpg" alt="ISCB" /></a>
-         	<hr>
-          <!---
-         	<a href="http://www.nvidia.com"><img src="{{site.baseurl }}/images/sponsors/NVIDIA.png" alt="NVIDIA" /></a>
-         	<br><br>
-         	<a href="http://www.rstudio.com"><img src="{{site.baseurl }}/images/sponsors/RStudio.png" alt="RSTUDIO" /></a>
-         	<br><br>
-         	<a href="https://www.sbgenomics.com"><img src="{{site.baseurl }}/images/sponsors/sbg.png" alt="NVIDIA" /></a>
-       	 	<hr>
-         -->
-		<p> We also acknowledge the support of <strong>BMC</strong>:</p>
-         	<a href="http://www.biomedcentral.com/"><img src="{{site.baseurl }}/images/sponsors/publications_BMC.jpg" alt="BMC" /></a>
-		<hr>
-	  	<p> Please check out our <a href="http://www.biomedcentral.com/bmcbioinformatics/series/BioVis2014">thematic series</a> in conjunction with BioVis 2014 and the <a href="http://www.biomedcentral.com/bmcproc/supplements/8/S2">proceedings</a> in conjunction with BioVis 2013.</p> 
-<!--         
-	   <a href="http://www.springer.com/us/"><img src="{{site.baseurl }}/images/sponsors/SpringerLogo.png" alt="Springer" /></a>
- -->
-	</div>
-      </div>
-
-    </div>
-  </div>
-
-<main id="content" role="main" class="span9">
-    <div class="moduletable">
-      <div class="custom">
-        <p><img style="border: 0px solid #000000;" src="{{ "/images/banner.jpg" | prepend: site.baseurl }}" alt="banner-15" width="710" height="253"></p>
-      </div>
-  </div>

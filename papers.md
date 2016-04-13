@@ -2,6 +2,8 @@
 layout: page
 title: Paper Submission Info (BioVis@VIS)
 permalink: /papers/
+back_title: IEEE VIS 2016
+back_url: ieeevis
 ---
 
 ## General Information
