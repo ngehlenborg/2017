@@ -1,0 +1,40 @@
+
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 {
+			text-align: left;
+		}
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li > a {
+			font-size: 16px;
+			font-family: "Georgia";
+			font-weight: normal;
+			font-style: normal;
+		}
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li > a .navigation-item-text {
+			text-decoration: underline;
+		}
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li.selected > a .navigation-item-text,
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li.childselected > a .navigation-item-text {
+			font-weight: bold;
+			font-style: normal;
+			text-decoration: none;
+		}
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li:hover > a .navigation-item-text {
+			font-weight: normal;
+			font-style: normal;
+			text-decoration: underline;
+		}
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li.selected:hover > a .navigation-item-text,
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li.childselected:hover > a .navigation-item-text {
+			font-weight: bold;
+		}
+
+
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 { background-color: ; }
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 > li > a { color: ;}
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 > li { background-color: ; }
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li.selected > a, #widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li.childselected > a { color: ; }
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li.selected, #widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li.childselected { background-color: ; }
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 ul > li > a { color: ; }
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 ul > li { background-color: ; }
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li:hover > a { color:  !important; }
+		#widget-72ec137a-ddbc-8fad-bcf0-c00d1c38d908 li:hover { background-color:  !important; }
+		

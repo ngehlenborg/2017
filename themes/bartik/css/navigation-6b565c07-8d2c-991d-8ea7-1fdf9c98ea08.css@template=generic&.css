@@ -1,0 +1,40 @@
+
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 {
+			text-align: left;
+		}
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li > a {
+			font-size: 16px;
+			font-family: "Arial";
+			font-weight: bold;
+			font-style: normal;
+		}
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li > a .navigation-item-text {
+			text-decoration: none;
+		}
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li.selected > a .navigation-item-text,
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li.childselected > a .navigation-item-text {
+			font-weight: bold;
+			font-style: normal;
+			text-decoration: none;
+		}
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li:hover > a .navigation-item-text {
+			font-weight: bold;
+			font-style: normal;
+			text-decoration: none;
+		}
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li.selected:hover > a .navigation-item-text,
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li.childselected:hover > a .navigation-item-text {
+			font-weight: bold;
+		}
+
+
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 { background-color: ; }
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 > li > a { color: #757f87;}
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 > li { background-color: ; }
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li.selected > a, #widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li.childselected > a { color: #b8c0cb; }
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li.selected, #widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li.childselected { background-color: ; }
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 ul > li > a { color: #757f87; }
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 ul > li { background-color: ; }
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li:hover > a { color: #b8c0cb !important; }
+		#widget-6b565c07-8d2c-991d-8ea7-1fdf9c98ea08 li:hover { background-color:  !important; }
+		
