@@ -24,8 +24,11 @@ Regardless of the category, all BioVis papers are expected to start with a descr
 
 ## Important Dates
 
-**Paper Submission Deadline:**
+**Abstract submission Deadline:**
 April 29, 2016
+
+**Paper Submission Deadline:**
+May 6, 2016
 
 **Author Notification:**
 June 10, 2016
