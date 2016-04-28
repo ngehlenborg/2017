@@ -14,7 +14,7 @@ The BioVis 2016 **Highlights track** offers authors of previously published work
 Please see the [Call for Participation](/2016/cfp_ismb/) for details about topics of interest.
 
 ### Important Dates
-**May 3, 2016** - Abstract submission for New Research and Highlights Track of the BioVis SIG meeting at ISMB
+_EXTENDED_ **May 10, 2016** - Abstract submission for New Research and Highlights Track of the BioVis SIG meeting at ISMB
 
 **May 20, 2016** - Author notification for New Research and Highlights track
 

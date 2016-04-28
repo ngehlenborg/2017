@@ -35,7 +35,7 @@ BioVis@ISMB2016 is co-located with [ISMB 2016](http://www.iscb.org/ismb2016) and
 As BioVis@ISMB is an ISMB Special Interest Group Meeting, [registration for the meeting is managed through the ISMB conference](http://www.iscb.org/ismb2016program/ismb2016-sigs#biovis). 
 
 ### Key Dates
-**May 3, 2016** - Submission deadline for the Highlights Track and New Research Track
+_EXTENDED_ **May 10, 2016** - Submission deadline for the Highlights Track and New Research Track
 
 **May 17, 2016** - Submission deadline for Poster Track
 
