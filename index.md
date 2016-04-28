@@ -13,8 +13,7 @@ layout: home
               <p class="hide-on-small-only">The BioVis Interest Group organizes the annual BioVis conference. In its first five years, these BioVis
               conferences were organized as 2-day SIGs (Special Interest Groups) alternating each year between
               <a href="http://ieeevis.org" target="_new">IEEE VIS</a> and <a href="https://www.iscb.org/about-ismb" target="_new">ISMB</a>.
-              <br/><br/>In 2016, however, there
-              will be two meetings; a symposium with IEEE VIS (BioVis@VIS), and a SIG meeting with ISMB (BioVis@ISMB)
+              <br/><br/>In 2016, however, there will be two meetings; a symposium with IEEE VIS (BioVis@VIS), and a SIG meeting with ISMB (BioVis@ISMB)
               </p>
 
 
@@ -107,6 +106,66 @@ layout: home
                           </div>
                     </div>
                 </div>
+
+                <!-- ADDING A NEWS FEED -->
+                <div class="row lightgrey-section center-align">
+                    <div class="container">
+
+                        <div class="col s12 m12 center-align">
+                            <!-- <h4><i class="material-icons" style="font-size: .9em">announcement</i> News</h4> -->
+                            <h4> News </h4>
+                        </div>
+                          <div class="col s12 m4">
+                             <h4><a href="{{site.baseurl}}/ieeevis">BioVis@VIS</a></h4>
+
+                             {% for post in site.posts %}
+                               {% capture category %}{{post.event}}{% endcapture %}
+                               {% if category == "ieee" %}
+                                   <ul>
+                                   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                                   </ul>
+                               {% endif %}
+                             {% endfor %}
+
+                          </div>
+                          <div class="col s12 m4">
+                             <h4><a href="{{site.baseurl}}/ismb">BioVis@ISMB</a></h4>
+                             <ul class="post-list">
+                             {% for post in site.posts %}
+                               {% capture category %}{{post.event}}{% endcapture %}
+                                {% if category == "ismb" %}
+                                <li class="post-list-item">
+                                   <span class="post-list-title">
+                                     {{ post.date | date: "%-d %b %Y" }} | {{ post.title }}
+                                   </span>
+                                   <span class="post-list-excerpt">
+                                     {{ post.excerpt }}
+                                     <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">More...</a>
+                                   </span>              
+                                 </li>
+                                {% endif %}
+                               {% endfor %}
+                             </ul>
+
+                          </div>
+
+                          <div class="col s12 m4">
+                             <h4><a href="{{site.baseurl}}/dream">BioVis@DREAM</a></h4>
+
+                             {% for post in site.posts %}
+                               {% capture category %}{{post.event}}{% endcapture %}
+                               {% if category == "dream" %}
+                                   <ul>
+                                   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                                   </ul>
+                               {% endif %}
+                             {% endfor %}
+
+                          </div>
+                    </div>
+                </div>
+
+                <!-- END ADDING A NEWS FEED -->
 
                     <div class="row center-align">
                     <div class="container">

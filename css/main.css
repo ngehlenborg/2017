@@ -95,6 +95,12 @@ nav a {
   padding-bottom: 20px;
 }
 
+
+.lightgrey-section {
+  background-color: #F8FDFE;
+  padding-bottom: 20px;
+}
+
 .green-section {
   background-color: #21a186;
   color: #2c3e50;
@@ -149,4 +155,44 @@ footer a {
 nav ul a:hover {
   background-color: transparent;
   color: #21a186;
+}
+
+ul.post-list {
+  @extend ul;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+
+  a.post-list-link {
+      font-style: italic;
+      color: #444;
+      position: relative;
+      text-decoration: none;
+    }
+    a.post-list-link:after{
+       position: absolute;
+       left: 0px;
+       bottom: 0;
+       content: '';
+       width: 100%;
+       border-bottom-width: 1px;
+       border-bottom-style: solid;
+    }
+
+  .post-list-item {
+    margin-bottom: 10px;
+    p {
+      margin-bottom: 0px;
+      display: inline;
+    }
+    .post-list-title {
+      color: $home-color;
+      font-family: $sans-serif-font-family;
+      font-weight: 400;
+      font-size: $base-font-size * 1.2;
+      font-style: normal;
+      display: block;
+      margin-bottom: 0px;
+    }
+  }
 }
