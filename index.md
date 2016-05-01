@@ -116,7 +116,7 @@ layout: home
                          
                           <div class="col s12 m12">
                              <ul class="post-list">
-                                 {% for post in site.posts %}
+                                 {% for post in site.posts limit:2%}
                                    {% capture category %}{{post.event}}{% endcapture %}
                                    <li class="col s12 m12 l12">
                                         <div class="post-list-item">
