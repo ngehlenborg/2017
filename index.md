@@ -108,7 +108,7 @@ layout: home
                 </div>
 
                 <!-- ADDING A NEWS FEED -->
-                <div class="row lightgrey-section center-align">
+                <div class="row green-section center-align">
                     <div class="container">
 
                         <div class="col s12 m12 center-align">
@@ -118,14 +118,22 @@ layout: home
                           <div class="col s12 m4">
                              <h4><a href="{{site.baseurl}}/ieeevis">BioVis@VIS</a></h4>
 
+                                <ul class="post-list">
                              {% for post in site.posts %}
                                {% capture category %}{{post.event}}{% endcapture %}
                                {% if category == "ieee" %}
-                                   <ul>
-                                   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                                   </ul>
+                                   <li class="post-list-item">
+                                                                      <span class="post-list-title">
+                                                                        {{ post.date | date: "%-d %b %Y" }} | {{ post.title }}
+                                                                      </span>
+                                                                      <span class="post-list-excerpt">
+                                                                        {{ post.excerpt }}
+                                                                        <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">More...</a>
+                                                                      </span>              
+                                                                    </li>
                                {% endif %}
                              {% endfor %}
+                             </ul>
 
                           </div>
                           <div class="col s12 m4">
@@ -151,16 +159,22 @@ layout: home
 
                           <div class="col s12 m4">
                              <h4><a href="{{site.baseurl}}/dream">BioVis@DREAM</a></h4>
-
+ <ul class="post-list">
                              {% for post in site.posts %}
                                {% capture category %}{{post.event}}{% endcapture %}
                                {% if category == "dream" %}
-                                   <ul>
-                                   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                                   </ul>
+                                  <li class="post-list-item">
+                                                                                                        <span class="post-list-title">
+                                                                                                          {{ post.date | date: "%-d %b %Y" }} | {{ post.title }}
+                                                                                                        </span>
+                                                                                                        <span class="post-list-excerpt">
+                                                                                                          {{ post.excerpt }}
+                                                                                                          <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">More...</a>
+                                                                                                        </span>              
+                                                                                                      </li>
                                {% endif %}
                              {% endfor %}
-
+</ul>
                           </div>
                     </div>
                 </div>

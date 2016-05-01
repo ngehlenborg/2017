@@ -1,22 +1,21 @@
 ---
 layout: default
 ---
-<div class="post">
-
-  <header class="post-title">
-    <h1>{{ page.title}}</h1>
-  </header>
-
-  <article class="post-content-main">
-  {{ content }}
-  </article>
-
-  <article class="post-content-aside">
-    <p>
-      <i>Published {{ page.date | date: "%b %-d, %Y" }}</i>
-    </p>
-
-      {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </article>
-
+<div class="blue-section">
+    <h3 itemprop="name">{{ page.title }}</h3>
+        <p>
+            <i>Published {{ page.date | date: "%b %-d, %Y" }}</i>
+        </p>
+        {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 </div>
+
+<div class="container">
+
+    <div class="post">
+
+        <article class="post-content-main">
+            {{ content }}
+        </article>
+    </div>
+</div>
+
