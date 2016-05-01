@@ -69,8 +69,6 @@ layout: home
 
                 </div>
 
-
-
                 <p class="hide-on-small-only">The BioVis meetings are intended to educate, inspire, and engage visualization
                   researchers in problems in biological data visualization, as well as bioinformatics
                   and biology researchers in state-of-the-art visualization research. The symposiums
@@ -108,73 +106,43 @@ layout: home
                 </div>
 
                 <!-- ADDING A NEWS FEED -->
-                <div class="row green-section center-align">
+                <div class="row blue-section center-align">
                     <div class="container">
 
                         <div class="col s12 m12 center-align">
                             <!-- <h4><i class="material-icons" style="font-size: .9em">announcement</i> News</h4> -->
                             <h4> News </h4>
                         </div>
-                          <div class="col s12 m4">
-                             <h4><a href="{{site.baseurl}}/ieeevis">BioVis@VIS</a></h4>
-
-                                <ul class="post-list">
-                             {% for post in site.posts %}
-                               {% capture category %}{{post.event}}{% endcapture %}
-                               {% if category == "ieee" %}
-                                   <li class="post-list-item">
-                                                                      <span class="post-list-title">
-                                                                        {{ post.date | date: "%-d %b %Y" }} | {{ post.title }}
-                                                                      </span>
-                                                                      <span class="post-list-excerpt">
-                                                                        {{ post.excerpt }}
-                                                                        <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">More...</a>
-                                                                      </span>              
-                                                                    </li>
-                               {% endif %}
-                             {% endfor %}
-                             </ul>
-
-                          </div>
-                          <div class="col s12 m4">
-                             <h4><a href="{{site.baseurl}}/ismb">BioVis@ISMB</a></h4>
+                         
+                          <div class="col s12 m12">
                              <ul class="post-list">
-                             {% for post in site.posts %}
-                               {% capture category %}{{post.event}}{% endcapture %}
-                                {% if category == "ismb" %}
-                                <li class="post-list-item">
-                                   <span class="post-list-title">
-                                     {{ post.date | date: "%-d %b %Y" }} | {{ post.title }}
-                                   </span>
-                                   <span class="post-list-excerpt">
-                                     {{ post.excerpt }}
-                                     <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">More...</a>
-                                   </span>              
-                                 </li>
-                                {% endif %}
-                               {% endfor %}
+                                 {% for post in site.posts %}
+                                   {% capture category %}{{post.event}}{% endcapture %}
+                                   <li class="col s12 m12 l12">
+                                        <div class="post-list-item">
+                                       
+                                       <span class="type {{category}}">
+                                            {% if category == "ismb" %}
+                                                <a href="{{site.baseurl}}/ismb">@ISMB</a></h4>
+                                            {% elsif category == "ieee" %}
+                                                <a href="{{site.baseurl}}/ieeevis">@IEEE</a></h4>
+                                            {% elsif category == "dream" %}
+                                                <a href="{{site.baseurl}}/dataContest_dream">@DREAM</a>
+                                            {% endif %}
+                                        </span>
+                                         
+                                        <span class="post-list-title">
+                                            {{ post.date | date: "%-d %b %Y" }} 
+                                        </span>
+                                        <h4><a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+                                        <span class="post-list-excerpt">
+                                            {{ post.excerpt }}
+                                        </span>     
+                                        </div>
+                                  </li>
+                                   
+                                 {% endfor %}
                              </ul>
-
-                          </div>
-
-                          <div class="col s12 m4">
-                             <h4><a href="{{site.baseurl}}/dream">BioVis@DREAM</a></h4>
- <ul class="post-list">
-                             {% for post in site.posts %}
-                               {% capture category %}{{post.event}}{% endcapture %}
-                               {% if category == "dream" %}
-                                  <li class="post-list-item">
-                                                                                                        <span class="post-list-title">
-                                                                                                          {{ post.date | date: "%-d %b %Y" }} | {{ post.title }}
-                                                                                                        </span>
-                                                                                                        <span class="post-list-excerpt">
-                                                                                                          {{ post.excerpt }}
-                                                                                                          <a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">More...</a>
-                                                                                                        </span>              
-                                                                                                      </li>
-                               {% endif %}
-                             {% endfor %}
-</ul>
                           </div>
                     </div>
                 </div>
