@@ -210,7 +210,7 @@ ul.post-list {
 }
 
 .post-content-main {
-    font-size: 1.4em;
+    font-size: 1.2em;
 }
 
 .event-page-menu-block {
@@ -238,4 +238,11 @@ ul.post-list {
 
 .post-list-item {
     margin: 5px;
+}
+
+.author {
+    background-color: #21a186;
+    padding: 4px 6px;
+    color: white;
+    border-radius: 5px;
 }
