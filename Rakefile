@@ -6,10 +6,10 @@ require "stringex"
 
 public_dir      = "_site"    # compiled site directory
 deploy_dir      = "_deploy"
-deploy_subdirectory = "/2015/"
+deploy_subdirectory = "/2016/"
 server_port     = "4000"      # port for preview server eg. localhost:4000
-target_repo     = "git@github.com:VCG/vds-website.git"
-target_dev_repo = ""
+target_repo     = "git@github.com:biovis/biovis.github.io.git"
+target_dev_repo = "git@github.com:biovis/biovis.github.io.git"
 
 if (/cygwin|mswin|mingw|bccwin|wince|emx/ =~ RUBY_PLATFORM) != nil
   puts '## Set the codepage to 65001 for Windows machines'
@@ -75,7 +75,9 @@ end
 desc "patch the config file with the right url setting"
 task :patch_config do
   repo_url = selectRepo(target_repo, target_dev_repo)
+  #branch = 'master'
   branch = (repo_url.match(/\/[\w-]+\.github\.(?:io|com)/).nil?) ? 'gh-pages' : 'master'
+  puts "branch: #{branch}"
   project = (branch == 'gh-pages') ? repo_url.match(/\/([^\.]+)/)[1] : ''
   
   #patch the _config file with the right url
@@ -173,6 +175,7 @@ end
 ##############
 desc "Generate website and deploy"
 task :publish_io => [:patch_config, :generate, :unpatch_config, :deploy] do #, :check_links
+#task :publish_io => [:generate, :unpatch_config, :deploy] do #, :check_links
 end
 
 desc "Generate website and deploy"
@@ -219,10 +222,10 @@ def blog_url(project)
     url = if File.exists?('CNAME')
       "http://#{IO.read('CNAME').strip}"
     else
-      "http://vcg.github.io"
+      "http://biovis.github.io"
     end
   else
-    url = "http://vcg.github.io/#{project}"
+    url = "http://biovis.github.io/#{project}"
   end
   url
 end

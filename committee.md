@@ -3,131 +3,145 @@ layout: page
 title: Organizing Committee
 menu: main
 ---
-** TO DO: UPDATE THE LIST HERE **
-
-## General chairs
-[Kay Nieselt](http://it.inf.uni-tuebingen.de/]), University of Tübingen, Germany
-
+### General chairs
 [G. Elisabeta Marai](http://evl.uic.edu/marai), University of Illinois at Chicago, USA
 
-## Paper chairs
-[http://www.vis.uni-stuttgart.de/~weiskopf/](Daniel Weiskopf), Univ of Stuttgart, Germany
+[Jan Aerts](http://vda-lab.be), KU Leuven, Belgium
 
-[http://vda-lab.be](Jan Aerts), KU Leuven, Belgium
+### Paper chairs
+[Daniel Weiskopf](http://www.vis.uni-stuttgart.de/~weiskopf/), University of Stuttgart, Germany
 
-## Poster chairs
-[http://alexander-lex.com/](Alexander Lex), Harvard University, USA
+[Marc Streit](http://marc-streit.com/), Johannes Kepler University Linz, Austria
 
-[http://www.win.tue.nl/~mwestenb/](Michel Westenberg), Eindhoven University of Technology, The Netherlands
+### Poster chairs
+[Michel Westenberg](http://www.win.tue.nl/~mwestenb/), Eindhoven University of Technology, The Netherlands
 
-## Publication chairs
-[http://www.cydney.org/Home.html](Cydney Nielsen), University of British Columbia, Canada
+[William Ray](http://www.mathmed.org/#William_Ray), The Ohio State University, USA
 
-[http://marc-streit.com/](Marc Streit), Johannes Kepler University Linz, Austria
+### Publication chairs
+[Alexander Lex](http://alexander-lex.net/), University of Utah, USA
 
-## Primer/Tutorial chairs
+[Florin Chelaru](http://www.mit.edu/~florinc/), MIT, USA
+
+### Primer & challenges chair
+[Eamonn Maguire](http://www.antarctic-design.co.uk/), CERN, Switzerland
+
+### Highlights chair
+[Julian Heinrich](http://www.joules.de), CSIRO, Australia
+
+### Data contest chairs
+[Raghu Machiraju](http://www.cse.ohio-state.edu/~raghu), The Ohio State University, USA
+
+[Cagatay Turkay](http://staff.city.ac.uk/cagatay.turkay.1/), City University, London, UK
+
+[Nils Gehlenborg](http://www.gehlenborg.com/), Harvard Medical School, USA
+
+### Design contest chairs
+[Ryo Sakai](http://ryosakai.net/), KU Leuven, Belgium
+
+[Francis Rowland](http://www.ebi.ac.uk/about/people/francis-rowland), EBI, UK
+
+### Industry and fundraising chair
+[Hector Corrado Bravo](http://www.hcbravo.org), University of Maryland, USA
+
+### Website chairs
+[Tuan Dang](http://www2.cs.uic.edu/~tdang/), University of Illinois at Chicago, USA
+
+[Anamaria Crisan](http://www.cs.ubc.ca/~acrisan/), University of British Columbia, Canada
+
+### Publicity chairs
+[Jillian Aurisano](http://www.evl.uic.edu/entry.php?id=285), University of Illinois at Chicago, USA
+
+### Steering Committee
+
+[Kay Nieselt](http://it.inf.uni-tuebingen.de/), University of Tuebingen, Germany
+
+[Nils Gehlenborg](http://www.gehlenborg.com/), Harvard Medical School, USA
+
+[Jessie Kennedy](http://www.iidi.napier.ac.uk/c/people/peopleid/41), Edinburgh Napier University, UK
+
+[Jos Roerdink](http://www.cs.rug.nl/~roe/), University of Groningen, The Netherlands
+
+[Raghu Machiraju](http://www.cse.ohio-state.edu/~raghu), The Ohio State University, USA (Chair)
+
+### Program Committee
+
+Danielle Albers Szafir, University of Colorado-Boulder, USA
+
+Bilal Alsallakh, Robert Bosch Research and Technology Center, USA
+
+Stefan Bruckner, University of Bergen, Norway
+
+Katja Bühler, VRVis Research Center Austria
+
+Greg Carter, The Jackson Laboratory, USA
+
+Çağatay Demiralp, Stanford University, USA
+
+James Faeder, University of Pittsburgh, USA
+
+Angus Forbes, University of Illinois at Chicago, USA
+
+Nils Gehlenborg, Harvard Medical School, USA
+
+Carsten Goerg, University of Colorado, USA
+
+Joel Graber, The Jackson Laboratory, USA
+
+Nicholas Hamilton, University of Queensland, Australia
+
+Helwig Hauser, University of Bergen, Norway
+
+Julian Heinrich, CSIRO, Australia
+
+Harry Hochheiser, University of Pittsburgh, USA
+
+Alark Joshi, University of San Francisco, USA
+
+Igor Jurisica, Ontario Cancer Institute, Canada
+
+Jessie Kennedy, Edinburgh Napier University, UK
+
+Barbora Kozilkova, Masaryk University, Czech Republic
+
+Michael Krone, University of Stuttgart, Germany
+
+Alexander Lex, University of Utah, USA
+
+Lars Linsen, Jacobs University Bremen, Germany
+
+Eamonn Maguire, CERN, Switzerland
+
 Miriah Meyer, University of Utah, USA
 
-[http://odonoghuelab.org/](Seán O'Donoghue), Garvan Institute/CSIRO, Australia
+Torsten Möller, University of Vienna, Austria
 
-## Challenges chairs
-[http://www.joules.de/](Julian Heinrich), CSIRO, Australia
+Kay Nieselt, University of Tübingen, Germany
 
-[http://research.jax.org/faculty/greg-carter.html](Greg Carter), The Jackson Laboratory, USA
+Benoît Otjacques, Luxembourg Institute of Science and Technology, Luxembourg
 
-## Data Contest chairs
-[http://www.cse.ohio-state.edu/~raghu](Raghu Machiraju), The Ohio State University, USA
+Yann Ponty, Ecole Polytechnique, France
 
-[http://www.mathmed.org/#William_Ray](William Ray), The Ohio State University, USA
-Jason Bohland, Boston University, USA
+Hannes Pretorius, University of Leeds, UK
 
-## Design Contest chairs
-[http://www.antarctic-design.co.uk/](Eamonn Maguire), CERN, Switzerland
+James Procter, University of Dundee, UK
 
-[http://ryosakai.net/](Ryo Sakai), Leuven University, Belgium
+William Ray, The Ohio State University, USA
 
-## Industry and fundraising chairs
-[http://staff.city.ac.uk/cagatay.turkay.1/](Cagatay Turkay), City University, London, UK
+Timo Ropinski, Ulm University, Germany
 
-[http://www.dbmi.pitt.edu/person/harry-hochheiser-phd](Harry Hochheiser), University of Pittsburgh, USA
-Hanchuan Peng, Allen Institute for Brain Science, Seattle, USA
+Lydia Müller, University of Leipzig, Germany
 
-## Website chairs
-[Tuan Dang]([http://www2.cs.uic.edu/~tdang/]), University of Illinois at Chicago, USA
+Cagatay Turkay, City University London, UK
 
-[Anamaria Crisan](http://cs.ubc.ca/~acrisan), University of British Columbia, Canada
+Corinna Vehlow, University of Stuttgart, Germany
 
-## Publicity chairs
-[http://hendrik.strobelt.com/](Hendrik Strobelt), Harvard University, USA
+Toni Verbeiren, KU Leuven, Belgium
 
-[http://bio.informatik.uni-mainz.de/](Andreas Hildebrandt), University of Mainz, Germany
+Ivan Viola Vienna, University of Technology, Austria
 
-## Steering Committee
-[http://www.gehlenborg.com/](Nils Gehlenborg), Harvard Medical School, USA
+Ting Wang, Washington University in St. Louis, USA
 
-[http://www.cse.ohio-state.edu/~raghu](Raghu Machiraju), The Ohio State University, USA (Chair)
+Michel Westenberg, Eindhoven University of Technology, Netherland
 
-[http://www.cs.rug.nl/~roe/](Jos Roerdink), University of Groningen, The Netherlands
-
-[http://www.iidi.napier.ac.uk/c/people/peopleid/41](Jessie Kennedy), Edinburgh Napier University, UK
-
-[http://compbio.ucdenver.edu/hunter/](Larry Hunter), University of Colorado, USA
-
-## Program Committee
-Danielle Albers Szafir , University of Wisconsin
-Bilal Alsallakh, Vienna University of Technology
-Chris Bartlett, Ohio State University
-Bertjan Broeksema, Luxembourg Institute of Science and Technology
-Stefan Bruckner, University of Bergen, Norway
-Jian Chen, University of Maryland
-Katja Bühler, VRVis Zentrum für Virtual Reality und Visualisierung
-Çagatay Demiralp, Stanford University
-Inna Dubchak, Lawrence Berkeley National Laboratory
-David Duke, University of Leeds
-Jim Faeder, University of Pittsburgh
-Angus Forbes, University of Illinois at Chicago
-Nils Gehlenborg, Harvard Medical School
-Mohammad Ghoniem, Luxembourg Institute of Science and Technology
-Nicholas Hamilton, University of Queensland
-Helwig Hauser, University of Bergen
-Julian Heinrich, CSIRO
-Harry Hochheiser, University of Pittsburgh
-Larry Hunter, University of Colorado
-Radu Jianu, Florida International University
-Fabrice Jossinet, University of Strasbourg
-Andreas Kerren, Linnaeus University
-Robert Kincaid, Agilent Laboratories
-Karsten Klein, Monash University
-Robert Kuhn, University of California Santa Cruz
-Alexander Lex, Harvard University
-Lars Linsen, Jacobs University Bremen
-Lydia Müller, University of Leipzig
-Raghu Machiraju, The Ohio State University
-Eamonn Maguire, CERN Geneva
-Han Mulder, Wageningen University
-Tamara Munzner, University of British Columbia
-Tim Nattkemper, Bielefeld University
-Sergiy Nesterko, Harvard University
-Benoît Otjacques, Luxembourg Institute of Science and Technology
-Julius Parulek, University of Bergen
-Jürgen Pleiss, University of Stuttgart
-Yann Ponty, Ecole Polytechnique, University of Paris-Saclay
-Bernhard Preim, University of Magdeburg
-A. Johannes Pretorius, The University of Leeds
-James Procter, University of Dundee
-Jos Roerdink, University of Groningen
-Francis Rowland, European Bioinformatics Institue
-Ryo Sakai, KU Leuven
-Reinhard Schneider, University of Luxembourg
-Falk Schreiber, Monash University
-Joost Schymkowitz, VIB-KULeuven
-Hendrik Strobelt, Harvard University
-Cagatay Turkay, City University London
-Jim Vallandingham, Bocoup
-Corinna Vehlow, University of Stuttgart
-Toni Verbeiren, KU Leuven
-Ivan Viola, Vienna University of Technology
-Ting Wang, Washington University in St. Louis
-Tengfei Yin, Seven Bridges Genomics
-Dirk Zeckzer, University of Leipzig
-Simone Zorzan, Luxembourg Institute of Science and Technology
+Alexander Wiebel, Worms University of Applied Sciences, Germany

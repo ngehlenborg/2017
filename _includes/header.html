@@ -1,77 +1,62 @@
-<header class="header" role="banner">
-  <div class="header-inner clearfix">
-    <a class="brand pull-left" href="{{ site.baseurl }}/"><span class="site-title span11" title="{{ site.title }}">{{ site.title }}</span></a>
-    <div class="header-search pull-right">
-      <ul class="nav menu" id="top_button"><li><a href="http://www.ieeevis.org/">Back to IEEE VIS</a> </li></ul>
-       <ul class="nav menu" id="top_button"><li><a href="https://www.iscb.org/">Back to ISMB</a></li></ul>
-    </div>
-  </div>
-</header>
+<div class="body">
+    <nav>
+        <div class="nav-wrapper">
 
-<div class="row-fluid">
-  <div id="sidebar" class="span3">
-    <div class="sidebar-nav">
-      <div class="well ">
-        <div class="custom">
-	  <h1>{{ site.conferenceshort }}</h1>
-    <h3>With IEEE Vis 2016:</h3>
-    <p><i>{{ site.IEEEconferencedate }}</i></p>
-    <h3>With ISMB 2016:</h3>
-    <p><i>{{ site.ISMBconferencedate }}</i></p>
+            <ul id="vis" class="dropdown-content">
+                <li><a href="{{ site.baseurl }}/ieeevis">Overview</a></li>
+                <li class="divider"></li>                            
+                <li><a href="{{ site.baseurl }}/cfp_vis">Call for Participation</a></li>
+                <li><a href="{{ site.baseurl }}/papers">Paper Submission</a></li>
+                <li><a href="{{ site.baseurl }}/posters_ieee">Poster Submission</a></li>
+                <li><a href="{{ site.baseurl }}/designContest_vis">Design Contest</a></li>
+                <li class="divider"></li>
+                <li><a class="disabled">Program</a></li>
+            </ul>
 
+            <ul id="ismb" class="dropdown-content">
+                <li><a href="{{ site.baseurl }}/ismb">Overview</a></li>
+                <li class="divider"></li>                            
+                <li><a href="{{ site.baseurl }}/cfp_ismb">Call for Participation</a></li>
+                <li><a href="{{ site.baseurl }}/submission_ismb">Abstract Submission</a></li>
+                <li class="divider"></li>
+                <li><a href="{{ site.baseurl }}/program_ismb">Program</a></li>
+            </ul>
+
+            <a href="{{ site.baseurl }}/" class="brand-logo"><img src="{{ site.baseurl }}/images/logo-white.svg"
+                                                                  width="150"/></a>
+            <a href="#" data-activates="mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+            <ul class="right hide-on-med-and-down">
+                <li><a class="dropdown-button" href="#!" data-beloworigin="true" data-activates="vis">@IEEE VIS<i
+                        class="material-icons right">arrow_drop_down</i></a></li>
+                <li><a class="dropdown-button" href="#!" data-beloworigin="true" data-activates="ismb">@ISMB<i
+                        class="material-icons right">arrow_drop_down</i></a></li>
+                <li><a href="#!">@DREAM</a></li>
+
+                <li><a href="{{ site.baseurl }}/committee.html">Organizing Committee</a></li>
+                <li><a href="{{ site.baseurl }}/previousYears/">Previous Years</a></li>
+            </ul>
+            <ul class="side-nav" id="mobile">
+                <li><a href="{{ site.baseurl }}/ieeevis/">@IEEE VIS 2016</a>
+                    <ul>
+                        <li><a href="{{ site.baseurl }}/cfp_vis">Call for Participation</a></li>
+                        <li><a href="{{ site.baseurl }}/papers">Paper Submission</a></li>
+                        <li><a href="{{ site.baseurl }}/posters_ieee">Poster Submission</a></li>
+                        <li><a href="{{ site.baseurl }}/designContest_vis">Design Contest</a></li>
+                        <li><a class="disabled">Program</a></li>
+                    </ul>
+                </li>
+
+                <li><a href="{{ site.baseurl }}/ismb/">@ISMB 2016</a>
+                    <ul>
+                        <li><a href="{{ site.baseurl }}/cfp_ismb">Call for Participation</a></li>
+                        <li><a href="{{ site.baseurl }}/submission_ismb">Abstract Submission</a></li>
+                        <li><a href="{{ site.baseurl }}/program_ismb">Program</a></li>
+                    </ul>
+                </li>
+
+
+                <li><a href="{{ site.baseurl }}/previousYears/">Previous Years</a></li>
+            </ul>
         </div>
-      </div>
-      <div class="well _menu">
-        <h3 class="page-header">Menu</h3>
-        <ul class="nav menu">
-          <li><a class="page-link" href="{{ site.baseurl }}/">Home</a></li>
-          {% for page in site.pages %}
-            {% if page.title %}
-  	      <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </div>
+    </nav>
 
-
-      <!--
-      <div class="well mobile-hidden "><h3 class="page-header">Affilliated Tutorial</h3>
-        <div class="custom">
-          <p><strong>A Practical Introduction to Data Science in Python</strong> <br />
-          Sunday, October 25th, 2015</p>
-
-        </div>
-      </div>
-    -->
-
-      <div class="well mobile-hidden "><h3 class="page-header">Important Dates</h3>
-        <div class="custom">
-	        <p><strong>Paper Submission Deadline:</strong><br>{{ site.deadline_submission }} </p>
-          <p><strong>Author Notification:</strong><br>{{ site.deadline_notification }} </p>
-          <p><strong>Camera Ready Submission:</strong><br>{{ site.deadline_camera }} </p>
-        <p></p>
-        <p><strong>Poster Submission Deadline:</strong><br>{{ site.deadline_poster }} </p>
-        </div>
-      </div>
-
-      <div class="well "><h3 class="page-header">Sponsors</h3>
-        <div class="custom">
-          <p>Platinum</p>
-          <a href="http://www.autodeskresearch.com/"><img src="/images/sponsors/autodesk.png" alt="Autodesk Research" /></a>
-         
-          <p> Bronze </p>
-           <a href="http://www.nvidia.com"><img src="{{site.baseurl }}/images/sponsors/NVIDIA.png" alt="NVIDIA" /></a>
-        
-        </div>
-      </div>
-
-    </div>
-  </div>
-
-<main id="content" role="main" class="span9">
-    <div class="moduletable">
-
-      <div class="custom mobile-hidden">
-        <p><img style="border: 0px solid #000000;" src="{{ "/images/banner.jpg" | prepend: site.baseurl }}" alt="banner-15" width="710" height="253"></p>
-      </div>
-  </div>
