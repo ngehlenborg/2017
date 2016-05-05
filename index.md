@@ -13,8 +13,7 @@ layout: home
               <p class="hide-on-small-only">The BioVis Interest Group organizes the annual BioVis conference. In its first five years, these BioVis
               conferences were organized as 2-day SIGs (Special Interest Groups) alternating each year between
               <a href="http://ieeevis.org" target="_new">IEEE VIS</a> and <a href="https://www.iscb.org/about-ismb" target="_new">ISMB</a>.
-              <br/><br/>In 2016, however, there
-              will be two meetings; a symposium with IEEE VIS (BioVis@VIS), and a SIG meeting with ISMB (BioVis@ISMB)
+              <br/><br/>In 2016, however, there will be two meetings; a symposium with IEEE VIS (BioVis@VIS), and a SIG meeting with ISMB (BioVis@ISMB)
               </p>
 
 
@@ -70,8 +69,6 @@ layout: home
 
                 </div>
 
-
-
                 <p class="hide-on-small-only">The BioVis meetings are intended to educate, inspire, and engage visualization
                   researchers in problems in biological data visualization, as well as bioinformatics
                   and biology researchers in state-of-the-art visualization research. The symposiums
@@ -107,6 +104,50 @@ layout: home
                           </div>
                     </div>
                 </div>
+
+                <!-- ADDING A NEWS FEED -->
+                <div class="row blue-section center-align">
+                    <div class="container">
+
+                        <div class="col s12 m12 center-align">
+                            <!-- <h4><i class="material-icons" style="font-size: .9em">announcement</i> News</h4> -->
+                            <h4> News </h4>
+                        </div>
+                         
+                          <div class="col s12 m12">
+                             <ul class="post-list">
+                                 {% for post in site.posts limit:2%}
+                                   {% capture category %}{{post.event}}{% endcapture %}
+                                   <li class="col s12 m12 l12">
+                                        <div class="post-list-item">
+                                       
+                                       <span class="type {{category}}">
+                                            {% if category == "ismb" %}
+                                                <a href="{{site.baseurl}}/ismb">@ISMB</a></h4>
+                                            {% elsif category == "ieee" %}
+                                                <a href="{{site.baseurl}}/ieeevis">@IEEE</a></h4>
+                                            {% elsif category == "dream" %}
+                                                <a href="{{site.baseurl}}/dataContest_dream">@DREAM</a>
+                                            {% endif %}
+                                        </span>
+                                         
+                                        <span class="post-list-title">
+                                            {{ post.date | date: "%-d %b %Y" }} 
+                                        </span>
+                                        <h4><a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+                                        <span class="post-list-excerpt">
+                                            {{ post.excerpt }}
+                                        </span>     
+                                        </div>
+                                  </li>
+                                   
+                                 {% endfor %}
+                             </ul>
+                          </div>
+                    </div>
+                </div>
+
+                <!-- END ADDING A NEWS FEED -->
 
                     <div class="row center-align">
                     <div class="container">
