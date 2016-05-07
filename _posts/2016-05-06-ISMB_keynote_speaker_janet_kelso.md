@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Janet Kelso to be keynote speaker at BioVis@ISMB.
-date: 2016-05-05
+date: 2016-05-06
 event: ismb
 categories: ismb
 back_title: BioVis @ ISMB
