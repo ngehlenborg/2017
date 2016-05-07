@@ -11,7 +11,7 @@ permalink: /cfp_vis/
 <h3>Update on Publication Process</h3>
 <p><b>Dear prospective BioVis authors,</b></p> 
 
-<p>Due to some unforeseeable issues regarding the copyright claims of the conference sponsor (IEEE) and our publisher of choice (BMC) we currently can not guarantee that our publishing model will turn out as planned. We are currently working on realizing the publishing model as described in the Call for Participation, i.e., an open access publication with BMC Bioinformatics respectively BMC Proceedings, but unfortunately, we currently can not guarantee that all parties will agree to that. If we cannot find an amicable solution to the copyright problem, we will publish the Proceedings of BioVis in IEEE Xplore. We will update you on any new developments as soon as we know more.</p>
+<p>Due to specific unforeseeable issues regarding the copyright claims of the conference sponsor (IEEE) and our publisher of choice (BMC) we currently can not guarantee that our publishing model will turn out as planned. We are currently working on realizing the publishing model as described in the Call for Participation, i.e., an open access publication with BMC Bioinformatics, but unfortunately, we currently can not guarantee that all parties will agree to that. If we cannot find an amicable solution to the copyright problem, we will publish the Proceedings of BioVis in IEEE Xplore. We will update you on any new developments as soon as we know more.</p>
 
 <p>Kind regards and our apologies for the inconvenience,</p>
 
@@ -124,7 +124,9 @@ Design contest entries will be judged by visualization and domain experts. For v
 
 <h2 id="dates">Important Dates</h2>
 
-Paper submission: April 29, 2016
+1-page IEEE Abstract submission: April 29, 2016
+
+BMC submission: May 6, 2016
 
 Preliminary notification: June 10, 2016
 
@@ -143,12 +145,12 @@ Notification of acceptance of contest entries:  TBD (In-line with DREAM challeng
 **All deadlines are at 5:00 pm Pacific Time (PDT)**
 
 <h2 id="submissionguidelines">Submission Guidelines</h2>
-Paper submissions can include full-color figures throughout. We encourage the use of digital video to enhance paper and poster submissions, particularly if part or all of the work addresses interactive techniques. Submission of working code and other supplemental material in order to increase the reproducibility of the work is also encouraged. The material for the contest entries should include all of the aforementioned content. It will be however, advantageous to include all material which will convince the reviewers of the specificity and topicality of the offered solutions. When possible, Open Source software should be provided for contest entries.
+Authors are required to submit a 1-page (500-word) abstract for the conference due Apr 29th, and an extended, full BMC paper due May 6th. Note that due to copyright regulations, the 1-page abstract text must be completely different from the full paper text (including the BMC-style paper abstract.) Paper submissions can include full-color figures throughout. We encourage the use of digital video to enhance paper and poster submissions, particularly if part or all of the work addresses interactive techniques. Submission of working code and other supplemental material in order to increase the reproducibility of the work is also encouraged. The material for the contest entries should include all of the aforementioned content. It will be however, advantageous to include all material which will convince the reviewers of the specificity and topicality of the offered solutions. When possible, Open Source software should be provided for contest entries.
 
 Links to details and guidelines for preparing a proper submission and supplementary data can be found on http://www.biovis.net. Authors must follow the style guidelines specified therein. 
 
 <h2 id="publications">Publications</h2>
-All accepted papers for the conference will be linked on the BioVis website (http://www.biovis.net) and will be made available through the IEEE Digital Library and/or BMC Proceedings. In addition, all papers accepted for the conference will be considered for publication in the thematic series on Biological Data Visualization of BMC Bioinformatics. Decision about acceptance will be taken by the associate editors (i.e., the BioVis papers and publication chairs) and the BMC Bioinformatics section editor. Authors will be required to meet costs required by BMC Bioinformatics for open access; BMC Bioinformatics can also provide waivers in cases where authors have troubles meeting these costs (see http://www.biomedcentral.com/bmcbioinformatics/manuscript).
+All accepted papers for the conference will be linked on the BioVis website (http://www.biovis.net). In addition, all abstracts accepted into the conference will be considered for publication, once extended into papers, in the thematic series on Biological Data Visualization of BMC Bioinformatics. Decision about journal acceptance will be taken by the associate editors (i.e., the BioVis papers and publication chairs) and the BMC Bioinformatics section editor. Authors will be required to meet costs required by BMC Bioinformatics for open access; BMC Bioinformatics can also provide waivers in cases where authors have troubles meeting these costs (see http://www.biomedcentral.com/bmcbioinformatics/manuscript).
 
 All accepted poster submissions will be made available on the BioVis website.
 

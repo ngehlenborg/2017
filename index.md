@@ -13,8 +13,7 @@ layout: home
               <p class="hide-on-small-only">The BioVis Interest Group organizes the annual BioVis conference. In its first five years, these BioVis
               conferences were organized as 2-day SIGs (Special Interest Groups) alternating each year between
               <a href="http://ieeevis.org" target="_new">IEEE VIS</a> and <a href="https://www.iscb.org/about-ismb" target="_new">ISMB</a>.
-              <br/><br/>In 2016, however, there
-              will be two meetings; a symposium with IEEE VIS (BioVis@VIS), and a SIG meeting with ISMB (BioVis@ISMB)
+              <br/><br/>In 2016, however, there will be two meetings; a symposium with IEEE VIS (BioVis@VIS), and a SIG meeting with ISMB (BioVis@ISMB)
               </p>
 
 
@@ -70,8 +69,6 @@ layout: home
 
                 </div>
 
-
-
                 <p class="hide-on-small-only">The BioVis meetings are intended to educate, inspire, and engage visualization
                   researchers in problems in biological data visualization, as well as bioinformatics
                   and biology researchers in state-of-the-art visualization research. The symposiums
@@ -98,15 +95,59 @@ layout: home
                           </div>
                           <div class="col s12 m6">
                              <h4><a href="{{site.baseurl}}/ismb">BioVis@ISMB</a></h4>
-                                <p><strong>Highlights and New Research Submission:</strong><br>{{
-                                    site.ISMB_hl_and_nresearch_submission}} </p>
+                                <p><strong>Highlights and New Research Submission:</strong><br>
+                                <emph>EXTENDED</emph> {{ site.ISMB_hl_and_nresearch_submission }}</p>
                                 <p><strong>ISMB Poster Submission Deadline:</strong><br>{{ site.ISMB_deadline_poster }} </p>
-                                <p><strong>Highlights, New Research and Poster Notification:</strong><br>{{
-                                    site.ISMB_hl_and_nresearch_notiication }} </p>
+                                <p><strong>Highlights, New Research and Poster Notification:</strong><br>
+                                {{ site.ISMB_hl_and_nresearch_notiication }} </p>
 
                           </div>
                     </div>
                 </div>
+
+                <!-- ADDING A NEWS FEED -->
+                <div class="row blue-section center-align">
+                    <div class="container">
+
+                        <div class="col s12 m12 center-align">
+                            <!-- <h4><i class="material-icons" style="font-size: .9em">announcement</i> News</h4> -->
+                            <h4> News </h4>
+                        </div>
+                         
+                          <div class="col s12 m12">
+                             <ul class="post-list">
+                                 {% for post in site.posts limit:2%}
+                                   {% capture category %}{{post.event}}{% endcapture %}
+                                   <li class="col s12 m12 l12">
+                                        <div class="post-list-item">
+                                       
+                                       <span class="type {{category}}">
+                                            {% if category == "ismb" %}
+                                                <a href="{{site.baseurl}}/ismb">@ISMB</a></h4>
+                                            {% elsif category == "ieee" %}
+                                                <a href="{{site.baseurl}}/ieeevis">@IEEE</a></h4>
+                                            {% elsif category == "dream" %}
+                                                <a href="{{site.baseurl}}/dataContest_dream">@DREAM</a>
+                                            {% endif %}
+                                        </span>
+                                         
+                                        <span class="post-list-title">
+                                            {{ post.date | date: "%-d %b %Y" }} 
+                                        </span>
+                                        <h4><a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
+                                        <span class="post-list-excerpt">
+                                            {{ post.excerpt }}
+                                        </span>     
+                                        </div>
+                                  </li>
+                                   
+                                 {% endfor %}
+                             </ul>
+                          </div>
+                    </div>
+                </div>
+
+                <!-- END ADDING A NEWS FEED -->
 
                     <div class="row center-align">
                     <div class="container">
@@ -115,7 +156,7 @@ layout: home
                             <h4>Affiliates</h4>
                             <p> BioVis 2016 is an official SIG of <a href="https://www.iscb.org/ismb2016"> ISMB 2016</a></p>
                                 <a href="https://www.iscb.org">
-                                    <img src="/images/sponsors/ISCB.jpg" alt="ISCB"/>
+                                    <img src="{{site.baseurl}}/images/sponsors/ISCB.jpg" alt="ISCB"/>
                                 </a>
                              </p>
                              <br/>
@@ -123,7 +164,7 @@ layout: home
 
                              We also acknowledge the support of BMC:<br/>
 
-                             <img src="/images/sponsors/publications_bmc.jpg" alt="BMC"> <br/>
+                             <img src="{{site.baseurl}}/images/sponsors/publications_BMC.jpg" alt="BMC"> <br/>
                              Please check out our <a href="http://www.biomedcentral.com/bmcbioinformatics/series/BioVis2014">thematic series</a>
                                     in conjunction with BioVis 2014 and the
                              <a href="http://www.biomedcentral.com/bmcproc/supplements/8/S2">proceedings</a> in conjunction with BioVis 2013.

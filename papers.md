@@ -24,8 +24,11 @@ Regardless of the category, all BioVis papers are expected to start with a descr
 
 ## Important Dates
 
-**Paper Submission Deadline:**
+**1-page IEEE Abstract submission:**
 April 29, 2016
+
+**BMC submission:**
+May 6, 2016
 
 **Author Notification:**
 June 10, 2016
@@ -34,6 +37,8 @@ June 10, 2016
 TBD
 
 ## Submission
+Authors are required to submit a 500-word abstract due Apr 29th, followed by an extended BMC paper due May 6th. Note that due to copyright regulations, the abstract text must be completely different from the full paper text (including the paper abstract.)
+
 Please format your submission according to the [instructions for BMC Bioinformatics manuscripts](http://bmcbioinformatics.biomedcentral.com/submission-guidelines), however please keep in mind that your submission to BioVis needs to be submitted to PCS (see below) and not BMC.
 
 Please use the following two-column, LaTeX template: [BioVis_latex.tar](../templates/BioVis_latex.tar). [Word submissions](../templates/BioVis_BMC_template_word.docx) are also acceptable.
