@@ -7,7 +7,7 @@ back_url: ieeevis
 ---
 
 ## General Information
-Submissions consist of a complete manuscript describing high quality research. Accepted manuscripts will be presented orally at the symposium. BioVis 2016 will feature the publication of the accepted manuscripts in two categories: (1) highest quality papers will be published in a BMC Bioinformatics Supplement, (2) those papers that feature high quality but are not accepted for BMC Bioinformatics will be published in BMC Proceedings.
+Submissions consist of a complete manuscript describing high quality research. Accepted manuscripts will be presented orally at the workshop. BioVis 2016 will feature the publication of the accepted manuscripts in two categories: (1) highest quality papers will be published in a BMC Bioinformatics Supplement, (2) those papers that feature high quality but are not accepted for BMC Bioinformatics will be published in BMC Proceedings.
 
 ## Paper Submission Categories
 Three categories of paper are invited BioVis 2016 (details below). Your manuscript may include elements of more than one of these categories.

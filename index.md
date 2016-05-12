@@ -13,7 +13,7 @@ layout: home
               <p class="hide-on-small-only">The BioVis Interest Group organizes the annual BioVis conference. In its first five years, these BioVis
               conferences were organized as 2-day SIGs (Special Interest Groups) alternating each year between
               <a href="http://ieeevis.org" target="_new">IEEE VIS</a> and <a href="https://www.iscb.org/about-ismb" target="_new">ISMB</a>.
-              <br/><br/>In 2016, however, there will be two meetings; a symposium with IEEE VIS (BioVis@VIS), and a SIG meeting with ISMB (BioVis@ISMB)
+              <br/><br/>In 2016, however, there will be two meetings; a workshop with IEEE VIS (BioVis@VIS), and a SIG meeting with ISMB (BioVis@ISMB)
               </p>
 
 
@@ -26,7 +26,7 @@ layout: home
                       </div>
                       <div class="col s12 event-details">
                         <div class="event-name">IEEE VIS 2016</div>
-                        <div class="event-subtitle">Symposium</div>
+                        <div class="event-subtitle">Workshop</div>
                         <div class="event-location">Baltimore, USA</div>
                         <div class="event-date">October 23rd 2016</div>
                       </div>
@@ -71,7 +71,7 @@ layout: home
 
                 <p class="hide-on-small-only">The BioVis meetings are intended to educate, inspire, and engage visualization
                   researchers in problems in biological data visualization, as well as bioinformatics
-                  and biology researchers in state-of-the-art visualization research. The symposiums
+                  and biology researchers in state-of-the-art visualization research. The workshops
                   serve as a platform for researchers from these fields to increase the impact
                   of data visualization approaches in biology, and to initiate interdisciplinary
                   collaborations.</p>
@@ -113,14 +113,14 @@ layout: home
                             <!-- <h4><i class="material-icons" style="font-size: .9em">announcement</i> News</h4> -->
                             <h4> News </h4>
                         </div>
-                         
+
                           <div class="col s12 m12">
                              <ul class="post-list">
                                  {% for post in site.posts limit:2%}
                                    {% capture category %}{{post.event}}{% endcapture %}
                                    <li class="col s12 m12 l12">
                                         <div class="post-list-item">
-                                       
+
                                        <span class="type {{category}}">
                                             {% if category == "ismb" %}
                                                 <a href="{{site.baseurl}}/ismb">@ISMB</a></h4>
@@ -130,9 +130,9 @@ layout: home
                                                 <a href="{{site.baseurl}}/dataContest_dream">@DREAM</a>
                                             {% endif %}
                                         </span>
-                                         
+
                                         <span class="post-list-title">
-                                            {{ post.date | date: "%-d %b %Y" }} 
+                                            {{ post.date | date: "%-d %b %Y" }}
                                         </span>
                                         <h4><a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
                                         <span class="post-list-excerpt">
@@ -140,7 +140,7 @@ layout: home
                                         </span>     
                                         </div>
                                   </li>
-                                   
+
                                  {% endfor %}
                              </ul>
                           </div>
