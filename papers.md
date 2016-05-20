@@ -31,7 +31,13 @@ April 29, 2016
 May 6, 2016
 
 **Author Notification:**
-June 10, 2016
+June 27, 2016
+
+**Revised Manuscript Submission:**
+July 21, 2016
+
+**Author Notification (Second Review Cycle):**
+August 23, 2016
 
 **Camera Ready Submission:**
 TBD
