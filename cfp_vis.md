@@ -128,11 +128,11 @@ Design contest entries will be judged by visualization and domain experts. For v
 
 BMC submission: May 6, 2016
 
-Preliminary notification: June 10, 2016
+Preliminary notification: June 27, 2016
 
-Revised manuscript submission: July 3, 2016
+Revised manuscript submission: July 21, 2016
 
-Final notification of acceptance to BioVis@VIS 2016: July 26, 2016
+Final notification of acceptance to BioVis@VIS 2016: August 23, 2016
 
 Poster submission to the BioVis workshop at IEEE VIS: August 26, 2016
 
