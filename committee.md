@@ -78,6 +78,8 @@ Greg Carter, The Jackson Laboratory, USA
 
 Çağatay Demiralp, Stanford University, USA
 
+Maurice De Proft, KU Leuven, Belgium
+
 James Faeder, University of Pittsburgh, USA
 
 Angus Forbes, University of Illinois at Chicago, USA
@@ -100,11 +102,15 @@ Alark Joshi, University of San Francisco, USA
 
 Igor Jurisica, Ontario Cancer Institute, Canada
 
+Bernhard Kainz, Imperial College London, UK
+
 Jessie Kennedy, Edinburgh Napier University, UK
 
 Barbora Kozilkova, Masaryk University, Czech Republic
 
 Michael Krone, University of Stuttgart, Germany
+
+Kai Lawonn, University of Koblenz - Landau, Germany
 
 Alexander Lex, University of Utah, USA
 
