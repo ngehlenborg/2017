@@ -8,14 +8,8 @@ back_url: ismb
 
 
 <div class="content clearfix">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><span style="widows: 1;">Registration for BioVis (as well as <a href="http://www.iscb.org/ismb2016">ISMB/ECCB 2015</a>) has opened. Please register&nbsp;</span><a href="http://www.iscb.org/ismb2016-registration" style="widows: 1;">here</a><span style="widows: 1;">&nbsp;</span></p>
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><span style="widows: 1;">Registration for BioVis (as well as <a href="http://www.iscb.org/ismb2016">ISMB/ECCB 2016</a>) has opened. Please register&nbsp;</span><a href="http://www.iscb.org/ismb2016-registration" style="widows: 1;">here</a><span style="widows: 1;">&nbsp;</span></p>
 <p>BioVis attendees might want to consider becoming a temporary member of <a href="https://www.iscb.org/iscb-membership-dues">ISCB</a>,&nbsp;so they can get a discounted registration for BioVis. The registration total as a member (including the membership fee) is lower than the total as a nonmember.</p>
-<div style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12px; widows: 1; background-color: rgb(255, 255, 255);">
-	<div style="word-wrap: break-word;">
-		<div>
-			<strong style="font-family:Helvetica,Arial,sans-serif;font-size:12px;line-height:15px">Daily SIG Fees - ISCB Member Pricing</strong></div>
-	</div>
-</div>
 
 
 <div style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12px; widows: 1; background-color: rgb(255, 255, 255);">

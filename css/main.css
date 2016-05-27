@@ -246,3 +246,13 @@ ul.post-list {
     color: white;
     border-radius: 5px;
 }
+
+.regtable{
+    font-size: 12px;
+}
+.regtable thead{
+    font-weight: bold;
+    background-color: #ccc;
+}
+.regtable td {background-color: #fffecf;}
+.regtable td:nth-child(1) { background-color: #c3dffd; }
