@@ -24,7 +24,7 @@ permalink: /ismb/
     </div>
     
     <div class="col m4 s12 event-page-menu-block">
-        <i class="material-icons large">border color</i>
+        <i class="material-icons large">border_color</i>
         <h3>Registration</h3>
         <a class="btn waves-effect waves-light" href="{{site.baseurl}}/registration_ismb" type="submit" name="action">Register</a>
     </div>
