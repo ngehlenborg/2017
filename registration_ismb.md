@@ -10,7 +10,9 @@ back_url: ismb
 The BioVis SIG Meeting at ISMB 2016 will be a one day event.
 
 
-<table border="1" cellpadding="3" cellspacing="0" style="border: 0px none; border-spacing: 0px; border-collapse: collapse;">
+
+<div style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; widows: 1; background-color: rgb(255, 255, 255);">
+	<table border="1" cellpadding="3" cellspacing="0" style="border: 0px none; border-spacing: 0px; border-collapse: collapse;">
 		<tbody>
 			<tr>
 				<td style="margin: 0px;" valign="top" width="244">
@@ -167,3 +169,4 @@ The BioVis SIG Meeting at ISMB 2016 will be a one day event.
 			</tr>
 		</tbody>
 	</table>
+</div>
