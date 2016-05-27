@@ -10,6 +10,20 @@ back_url: ismb
 The BioVis SIG Meeting at ISMB 2016 will be a one day event.
 
 
+<table style="width:100%">
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
+
+
 <table border="1" cellpadding="3" cellspacing="0" style="border: 0px none; border-spacing: 0px; border-collapse: collapse;">
 		<tbody>
 			<tr>
