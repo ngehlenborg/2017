@@ -5,13 +5,20 @@ permalink: /registration_ismb/
 back_title: ISMB 2016
 back_url: ismb
 ---
-## BioVis@ISMB 2016 Program
-
-The BioVis SIG Meeting at ISMB 2016 will be a one day event.
 
 
+<div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><span style="widows: 1;">Registration for BioVis (as well as <a href="http://www.iscb.org/ismbeccb2015">ISMB/ECCB 2015</a>) has opened March 24, 2015. Please register&nbsp;</span><a href="http://www.iscb.org/ismbeccb2015-registration" style="widows: 1;">here</a><span style="widows: 1;">&nbsp;</span></p>
+<p>BioVis attendees might want to consider becoming a temporary member of <a href="https://www.iscb.org/iscb-membership-dues">ISCB</a>,&nbsp;so they can get a discounted registration for BioVis. The registration total as a member (including the membership fee) is lower than the total as a nonmember.</p>
+<div style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 11px; widows: 1; background-color: rgb(255, 255, 255);">
+	<div style="word-wrap: break-word;">
+		<div>
+			<strong style="font-family:Helvetica,Arial,sans-serif;font-size:11px;line-height:15px">Daily SIG Fees - ISCB Member Pricing</strong></div>
+	</div>
+</div>
 
-<div style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8000001907349px; widows: 1; background-color: rgb(255, 255, 255);">
+
+<div style="color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 11px; widows: 1; background-color: rgb(255, 255, 255);">
 	<table border="1" cellpadding="3" cellspacing="0" style="border: 0px none; border-spacing: 0px; border-collapse: collapse;">
 		<tbody>
 			<tr>
