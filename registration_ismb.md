@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Program BioVis@ISMB
-permalink: /program_ismb/
+title: Registration BioVis@ISMB
+permalink: /registration_ismb/
 back_title: ISMB 2016
 back_url: ismb
 ---
