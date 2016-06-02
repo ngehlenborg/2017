@@ -53,7 +53,7 @@ For the first time this year, the Biovis Data Contest and Design Contest  will b
 <h2 id="submissiontypes">Submission Types and Criteria</h2>
 Four categories of submissions are invited for BioVis 2016:
 
-**Papers** - Papers. Submissions consist of a complete manuscript describing high quality research. Accepted manuscripts will be presented orally at the workshop. BioVis 2016 will feature the publication of the accepted manuscripts in two categories: (1) highest quality papers will be published in the BMC Bioinformatics journal (to be confirmed), (2) those papers that feature high quality but are not accepted for BMC Bioinformatics will be published in the IEEE Digital Library and/or BMC Proceedings (see Section 9 below for more details on the publication process). Three types of papers can be submitted, following the BMC categorization:
+**Papers** - Papers. Workshop submissions consist of a complete one-page manuscript describing high quality research. Accepted manuscripts will be presented at the workshop. BioVis 2016 will publish its Proceedings through IEEE. Significantly extended versions of the workshop manuscripts will be eligible for publication in a BMC Bioinformatics Special Issue on Data Visualization at a later date, to be determined jointly with BMC. Three types of papers can be submitted, according to the following categorization:
 
 * Research papers (original, significant biodata visualization techniques)
 * Software papers (useful, novel systems and resources for biodata visualization)
@@ -110,7 +110,7 @@ Design contest entries will be judged by visualization and domain experts. For v
 
 <h2 id="dates">Important Dates</h2>
 
-1-page IEEE Abstract submission: April 29, 2016
+1-page IEEE workshop submission: April 29, 2016
 
 BMC submission: May 6, 2016
 
