@@ -5,6 +5,7 @@ menu: main
 ---
 ### General chairs
 [G. Elisabeta Marai](http://evl.uic.edu/marai), University of Illinois at Chicago, USA
+
 [Jan Aerts](http://vda-lab.be), KU Leuven, Belgium
 
 ### Paper chairs
@@ -47,6 +48,7 @@ menu: main
 [Jillian Aurisano](http://www.evl.uic.edu/entry.php?id=285), University of Illinois at Chicago, USA
 
 ### Steering Committee
+
 [Kay Nieselt](http://it.inf.uni-tuebingen.de/), University of Tuebingen, Germany
 [Nils Gehlenborg](http://www.gehlenborg.com/), Harvard Medical School, USA
 [Jessie Kennedy](http://www.iidi.napier.ac.uk/c/people/peopleid/41), Edinburgh Napier University, UK
@@ -54,8 +56,9 @@ menu: main
 [Raghu Machiraju](http://www.cse.ohio-state.edu/~raghu), The Ohio State University, USA (Chair)
 
 ### Program Committee
-Alark Joshi, University of San Francisco, USA
-Alexander Lex, University of Utah, USA
+
+Alark Joshi, University of San Francisco, USA<br />
+Alexander Lex, University of Utah, USA<br />
 Alexander Wiebel, Worms University of Applied Sciences, Germany
 Angus Forbes, University of Illinois at Chicago, USA
 Barbora Kozilkova, Masaryk University, Czech Republic
