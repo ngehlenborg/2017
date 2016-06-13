@@ -31,7 +31,7 @@ menu: main
 [Nils Gehlenborg](http://www.gehlenborg.com/), Harvard Medical School, USA
 
 ### Design contest chairs
-[Ryo Sakai](http://ryosakai.net/), KU Leuven, Belgium
+[Ryo Sakai](http://ryosakai.net/), KU Leuven, Belgium<br />
 [Francis Rowland](http://www.ebi.ac.uk/about/people/francis-rowland), EBI, UK
 
 ### Industry and fundraising chair
