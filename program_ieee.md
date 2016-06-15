@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Program BioVis@VIS
+title: Program BioVis@ISMB
 permalink: /program_ieee/
 back_title: IEEE VIS 2016
 back_url: ieeevis
 ---
-# BioVis@VIS 2016 Program
+# BioVis@ISMB 2016 Program
 
 <div>
     <div class="sumTime2">08:30 - 08:45</div>

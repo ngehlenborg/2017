@@ -15,8 +15,7 @@ The program will feature a keynote by [Janet Kelso from the Max Planck Institute
 
 ### July 8, 2016
 
-*Program details will be announced closer to the event.*
-
+** Details will be announced close to the date **
 ### Keynote Speaker: Janet Kelso
 
 [Janet Kelso](http://www.eva.mpg.de/genetics/bioinformatics/overview.html) is a group leader in the Department of Evolutionary Genetics at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. _Additional keynote details will be posted shortly_.
