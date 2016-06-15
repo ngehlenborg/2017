@@ -90,7 +90,7 @@ back_url: ieeevis
 <div>
     <div class="sumTime">11:35 - 12:00</div>
     <div>
-        <p> <i>Ricardo	Humberto	Ramirez	Gonzalez</i> :	"expVIP:	a	Customizable	RNA-Seq	Data	Analysis
+        <p style="padding-left:120px;"> <i>Ricardo	Humberto	Ramirez	Gonzalez</i> :	"expVIP:	a	Customizable	RNA-Seq	Data	Analysis
 and	Visualization	Platform	for	non-model	organisms" </p>
     </div>
 </div>
@@ -133,7 +133,7 @@ Regulatory	Network	and	Genomics	Data" </p>
 <div>
     <div class="sumTime">15:00 - 15:25</div>
     <div>
-        <p> <i>Kuntal Kumar	Bhusan</i>:	"Web-Igloo:	A	web	based	‘feature	decomposition	independent’
+        <p style="padding-left:120px;"> <i>Kuntal Kumar	Bhusan</i>:	"Web-Igloo:	A	web	based	‘feature	decomposition	independent’
 interactive	multivariate	data	visualization	framework" </p>
     </div>
 </div>
