@@ -256,3 +256,119 @@ ul.post-list {
 }
 .regtable td {background-color: #fffecf;}
 .regtable td:nth-child(1) { background-color: #c3dffd; }
+
+
+
+/****** Speakers (TAKEN FROM VDS 2015)****/
+
+.talk {
+  padding: 10px 5px 10px 10px;
+  border: 1px solid #cccccc;
+  margin: 10px 0px 10px 0px;
+
+}
+
+.tbioabstract
+{
+  width: 75%;
+  padding: 10px 0px 10px 0px;
+}
+.ttitle {
+  font-weight: 800;
+  font-size: 1.1em ;
+}
+.tspeaker {
+  font-weight: 600;
+  font-size: 1em ;
+}
+
+
+.ptitle {
+  font-weight: 700;
+  font-size: 1em ;
+}
+.pauthor {
+  font-weight: 500;
+  font-size: 0.9em ;
+}
+
+.tportrait {
+  float: right;
+  padding: 10px 0px 10px 0px;
+  font-size: 0.6em;
+
+}
+
+@media screen and (max-width: 600px){
+  .tportrait {
+  width: 35%
+
+  }
+}
+
+
+.tabstract {
+  padding: 5px 5px 5px 5px;
+  /*border: 1px solid #cccccc;*/
+  /*background-color: #eeeeee;*/
+}
+
+.tbio {
+  padding: 5px 5px 5px 5px;
+  /*border: 1px solid #cccccc;*/
+
+}
+
+.sumTime{
+  font-weight: 600;
+  width: 120px;
+  float: left;
+}
+
+.sumTime2{
+  font-weight: 600;
+  font-size:20px;
+  width: 120px;
+  float: left;
+}
+
+.sumContent{
+ font-weight: 600;
+ font-size:20px;
+}
+
+@media screen and (max-width: 600px){
+  .sumContent {
+    position: relative;
+    left: 10px;
+    width: 100%;
+    clear: both;
+    margin-left: 0;
+
+  }
+}
+
+.sumDetails{
+  position: relative;
+  left: 100px;
+}
+
+@media screen and (max-width: 600px){
+  .sumDetails {
+    position: relative;
+    left: 10px;
+    width: 100%;
+    clear: both;
+    margin-left: 0;
+
+  }
+}
+
+
+
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}

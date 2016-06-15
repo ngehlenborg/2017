@@ -43,7 +43,8 @@ permalink: /ieeevis/
     <div class="col m4 s12 event-page-menu-block">
         <i class="material-icons large">list</i>
         <h3>Program</h3>
-        <a class="btn waves-effect waves-light disabled"  type="submit" name="action" disabled>Coming Soon</a>  
+        <!--<a class="btn waves-effect waves-light" href="{{site.baseurl}}/program_ieee" type="submit" name="action">Program</a>-->
+        <a class="btn waves-effect waves-light disabled"  type="submit" name="action" disabled>Coming Soon</a>
     </div>
 </div>
 
@@ -58,7 +59,7 @@ permalink: /ieeevis/
         <p><strong>Camera Ready Submission:</strong><br>{{ site.IEEE_deadline_camera }} </p>
         <p><strong>VIS Poster Submission Deadline:</strong><br>{{ site.IEEE_deadline_poster }} </p>
     </div>
-    
+
     <div class="col s12 m6">
         <h4>Latest News</h4>
         <ul class="post-list">
@@ -79,4 +80,3 @@ permalink: /ieeevis/
          </ul>
     </div>
 </div>
-
