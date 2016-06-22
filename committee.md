@@ -84,7 +84,7 @@ Katja Bühler, VRVis Research Center Austria<br />
 Kay Nieselt, University of Tübingen, Germany<br />
 Lars Linsen, Jacobs University Bremen, Germany<br />
 Lydia Müller, University of Leipzig, Germany<br />
-Mahsa Mirzargar, University of Utah, USA<br />
+Mahsa Mirzargar, University of Miami, USA<br />
 Maurice De Proft, KU Leuven, Belgium<br />
 Michael Krone, University of Stuttgart, Germany<br />
 Michel Westenberg, Eindhoven University of Technology, Netherland<br />
