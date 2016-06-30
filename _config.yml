@@ -23,7 +23,8 @@ ISMB_hl_and_nresearch_notiication: "May 20, 2016"
 markdown: kramdown
 
 collections:
-- talks
+- posters_ISMB
 
 google_analytics: "'UA-22015250-1'"
 use_analytics: true
+encoding: utf-8

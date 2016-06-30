@@ -1,5 +1,4 @@
 {% for talk in site.talks %}
-{% if talk.key == include.key %}
 
 <div class="talk">
     <div class="ttitle">{{talk.title}}
@@ -25,5 +24,4 @@
         <div class="tbio"><b>Bio:</b> {{talk.bio}}</div>
     </div>
 </div>
-{% endif %}
 {% endfor %}

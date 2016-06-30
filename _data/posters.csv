@@ -1,2 +1,8 @@
-id,title,authors
-TBD,TBD,TBD,TBD
+id,event,title,authors,abstract,image
+ISMB-04,ismb,New Standard Resources for Systems Biology: BiGG Models Database and Visual Pathway Editing with Escher,"Andreas Drager, Zachary A. King, Justin S. Lu, Ali Ebrahim, Nikolaus Sonnenschein, Philip C. Miller, Joshua A. Lerman, Bernhard O. Palsson and Nathan E. Lewis",BioVis_2016__ISMB_Poster_Abstract_4.pdf,BioVis_2016__ISMB_Thumbnail_4.jpg
+ISMB-17,ismb,Visual exploration of the functional consequence of structure and structure change in RNA ensembles,"Chanin Tolson Woods and Alain Laederach",BioVis_2016__ISMB_Poster_Abstract_17.pdf,BioVis_2016__ISMB_Thumbnail_17.jpg
+ISMB-18,ismb,Comparative analysis of taxonomies for metagenomics analyses,"Monika Balvociute and Daniel Huson",BioVis_2016__ISMB_Poster_Abstract_18.pdf,BioVis_2016__ISMB_Thumbnail_18.jpg
+ISMB-19,ismb,A Bioinformatics Challenge to Depict Genetic Variation in Pathway-Based Analysis,"Elisa Cirillo, Martina Kutmon, Laurence Parnell and Chris T Evelo",BioVis_2016__ISMB_Poster_Abstract_19.pdf,BioVis_2016__ISMB_Thumbnail_19.jpg
+ISMB-20,ismb,Innovative methods for visualization of multidimensional 'omics data,"Kuntal Kumar Bhusan, Anirban Dutta and Sharmila Mande",BioVis_2016__ISMB_Poster_Abstract_20.pdf,BioVis_2016__ISMB_Thumbnail_20.jpg
+ISMB-21,ismb,Interactive Visual Exploration and Refinement of Cluster Assignments,"Michael Kern, Alexander Lex, Nils Gehlenborg and Chris R. Johnson",BioVis_2016__ISMB_Poster_Abstract_21.pdf,BioVis_2016__ISMB_Thumbnail_21.jpg
+ISMB-22,ismb,Visualization of orthology-based plant genome zipper seeding using circular diagrams,"Dan Tulpan, Serge Leger, David Konkin, Therese Ouellet",BioVis_2016__ISMB_Poster_Abstract_22.pdf,BioVis_2016__ISMB_Thumbnail_22.jpg

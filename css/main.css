@@ -264,7 +264,7 @@ ul.post-list {
 .talk {
   padding: 10px 5px 10px 10px;
   border: 1px solid #cccccc;
-  margin: 10px 0px 10px 0px;
+  margin: 5px 0px 5px 0px;
 
 }
 
@@ -409,4 +409,34 @@ hr.style-eight:after {
     font-size: 1.5em;
     padding: 0 0.25em;
     background: white;
+}
+
+.float-my-children > * {
+    float:left;
+    padding: 10px 0px 10px 0px;
+    margin-right:5px;
+}
+
+.clearfix {
+    *zoom:1 /* for IE */
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+/* end clearfix*/
+
+.wordwrap {
+   white-space: pre-wrap;      /* CSS3 */
+   white-space: -moz-pre-wrap; /* Firefox */
+   white-space: -pre-wrap;     /* Opera <7 */
+   white-space: -o-pre-wrap;   /* Opera 7 */
+   word-wrap: break-word;      /* IE */
 }

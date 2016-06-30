@@ -211,5 +211,7 @@ and	structure	change	in	RNA	ensembles" </p>
     <div>
         <div class="sumContent">Poster Presentation & Reception</div>
           <div class="sumDetail" style="padding-left:120px;"><i>Includes beverages and finger food</i></div>
+          <div class="sumDetail" style="padding-left:120px;"><a href="{{ site.baseurl }}/posters_ismbAccepted">List of Accepted Posters</a></div>
+
     </div>
 </div>
