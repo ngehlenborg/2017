@@ -181,9 +181,13 @@ layout: home
                             <a href="https://www.sbgenomics.com/" target="_new">
                             <img src="{{site.baseurl}}/images/sponsors/sbg.png" width="250px">
                             </a><br/><br/>
+                            <a href="http://f1000research.com/" target="_new">
+                            <img src="{{site.baseurl}}/images/sponsors/F1000.png" width="250px">
+                            </a><br/><br/>
                             <a href="http://www.nvidia.com/content/global/global.php" target="_new">
-                            <img src="{{site.baseurl}}/images/sponsors/NVIDIA.png" width="80px">
+                            <img src="{{site.baseurl}}/images/sponsors/NVIDIA.png" width="100px">
                             </a>
+
 
                         </div>
                     </div>
