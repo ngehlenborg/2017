@@ -242,7 +242,7 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
     <div class="sumTime2">05:15 - 05:30</div>
     <div>
         <div class="sumContent">Closing Remarks</div>
-        <div class="sumDetail" style="padding-left:120px;">Nils Gehlenborg</div>
+        <div class="sumDetail" style="padding-left:120px;"><i>Nils Gehlenborg</i></div>
     </div>
 </div>
 
