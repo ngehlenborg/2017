@@ -17,7 +17,6 @@ menu: main
 
 ### Publication chairs
 [Alexander Lex](http://alexander-lex.net/), University of Utah, USA<br />
-[Florin Chelaru](http://www.mit.edu/~florinc/), MIT, USA
 
 ### Primer & challenges chair
 [Eamonn Maguire](http://www.antarctic-design.co.uk/), CERN, Switzerland
