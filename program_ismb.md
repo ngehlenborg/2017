@@ -119,8 +119,8 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
     <div class="sumTime">12:15 - 12:25</div>
     <div>
         <p style="padding-left:120px;"> 
-        <i>Will Ray</i><br>
-        Myth Unbusted: Evolutionary fingerprints of protein structure do exist in sequences, but you must look in the right place to see them (New Research)</p>
+        <i>W. Jim Zheng</i><br>
+        Visualizing Human Genome in Time and Space (New Research)</p>
     </div>
 </div>
 
@@ -199,8 +199,9 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 <div>
     <div class="sumTime">03:25 - 03:35</div>
     <div>
-        <p style="padding-left:120px;"> <i>W. Jim Zheng</i><br>
-        Visualizing Human Genome in Time and Space (New Research)</p>
+        <p style="padding-left:120px;"> 
+        <i>Will Ray</i><br>
+        Myth Unbusted: Evolutionary fingerprints of protein structure do exist in sequences, but you must look in the right place to see them (New Research)</p>
     </div>
 </div>
 
