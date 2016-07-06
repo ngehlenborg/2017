@@ -158,7 +158,7 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 <!--------------- HIGHLIGHTS AND NEW RESEARCH 3 ------------------->
 
 <div>
-    <div class="sumTime2">01:45 - 03:35</div>
+    <div class="sumTime2">01:45 - 04:00</div>
     <div>
         <div class="sumContent">BioVis Highlights / New Research </div>
     </div>
