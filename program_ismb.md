@@ -204,10 +204,18 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
     </div>
 </div>
 
+<div>
+    <div class="sumTime">03:35 - 04:00</div>
+    <div>
+        <p style="padding-left:120px;"> <i>Garrett Grolemund</i><br>
+        Interactive and Reproducible Reporting with R (RStudio Sponsor Tutorial)</p>
+    </div>
+</div>
+
 <!--------------- COFFEE BREAK------------------->
 <hr class="style-one">
 <div>
-    <div class="sumTime2">03:35 - 04:15</div>
+    <div class="sumTime2">04:00 - 04:15</div>
     <div>
         <div class="sumContent">Coffee / Tea Break</div>
     </div>
