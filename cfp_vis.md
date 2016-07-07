@@ -167,7 +167,7 @@ Poster chairs
 * Michel Westenberg, Eindhoven University of Technology, The Netherlands
 * William Ray, The Ohio State University, USA
 
-Publication chairs
+Publication chair
 
 * Alexander Lex, University of Utah, USA
 
