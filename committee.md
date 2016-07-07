@@ -15,7 +15,7 @@ menu: main
 [Michel Westenberg](http://www.win.tue.nl/~mwestenb/), Eindhoven University of Technology, The Netherlands<br />
 [William Ray](http://www.mathmed.org/#William_Ray), The Ohio State University, USA
 
-### Publication chairs
+### Publication chair
 [Alexander Lex](http://alexander-lex.net/), University of Utah, USA<br />
 
 ### Primer & challenges chair
