@@ -50,7 +50,7 @@ layout: home
                   </div>
                   </a>
 
-                  <a href="{{site.baseurl}}/dataContest_dream">
+                  <a href="{{site.baseurl}}/dream">
                   <div class="col s12 m4">
                       <div class="row event center-align">
                           <div class="col s12">
@@ -58,8 +58,8 @@ layout: home
                           </div>
 
                           <div class="col s12 event-details">
-                              <div class="event-name">Dream 2016</div>
-                              <div class="event-subtitle">Data Analysis Contest</div>
+                              <div class="event-name">DREAM 2016</div>
+                              <div class="event-subtitle">SMC-RNA BioVis Data Visualization DREAM Challenge</div>
 
                           </div>
                       </div>
