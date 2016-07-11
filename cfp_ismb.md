@@ -5,22 +5,29 @@ permalink: /cfp_ismb/
 back_title: ISMB
 back_url: ismb
 ---
+<br>
+
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<h3>BioVis@ISMB 2016 has now concluded</h3>
+<p>Check back next year for more opportunities to participate in BioVis@ISMB. We also have a workshop being held in conjunction with IEEE VIS, <a href="http://biovis.net/2016/ieeevis/">BioVis@VIS</a>, that will take place in October 2016. </p>
+
+</div>
 
 ## BioVis@ISMB 2016
 
 The rapidly expanding field of biology creates enormous challenges for the computational visualization techniques that are necessary in order to enable researchers to gain insight from their large and highly complex data sets.
 
-The BioVis Interest Group (http://www.biovis.net) is organizing two meetings in 2016. In addition to the **BioVis@ISMB meeting** described here, the **BioVis@VIS** meeting will be taking place at the IEEE VIS conference in October 2016. The main difference between the two meetings are the types of submissions that will be accepted to accommodate our diverse community: *BioVis@ISMB will only accept abstracts*, while *BioVis@VIS will accept full papers* that will undergo comprehensive peer-review and get published, as well as poster submissions. 
+The BioVis Interest Group (http://www.biovis.net) is organizing two meetings in 2016. In addition to the **BioVis@ISMB meeting** described here, the **BioVis@VIS** meeting will be taking place at the IEEE VIS conference in October 2016. The main difference between the two meetings are the types of submissions that will be accepted to accommodate our diverse community: *BioVis@ISMB will only accept abstracts*, while *BioVis@VIS will accept full papers* that will undergo comprehensive peer-review and get published, as well as poster submissions.
 
-Both meetings bring together researchers from the visualization, bioinformatics, and biology communities with the purpose of educating, inspiring, and engaging visualization researchers in problems in biological data visualization, as well as bioinformatics and biology researchers in state-of-the-art visualization research. 
+Both meetings bring together researchers from the visualization, bioinformatics, and biology communities with the purpose of educating, inspiring, and engaging visualization researchers in problems in biological data visualization, as well as bioinformatics and biology researchers in state-of-the-art visualization research.
 
 There are three possibilities to contribute to the program at BioVis@ISMB 2016:
 
 1. **New Research**
-Participants are invited to submit an abstract describing high-quality original research. Abstracts will be reviewed by the program committee and all accepted abstracts will be included in the poster session. The authors of selected abstracts will be asked to give a brief oral presentation during the SIG meeting. 
+Participants are invited to submit an abstract describing high-quality original research. Abstracts will be reviewed by the program committee and all accepted abstracts will be included in the poster session. The authors of selected abstracts will be asked to give a brief oral presentation during the SIG meeting.
 
 1. **Highlights**
-Participants may submit an abstract describing work published in the previous year as well as additional work undertaken since publication. The program committee will review these abstracts. Additionally, the BioVis SIG program committee may also invite authors of outstanding publications from other venues. The authors of selected abstracts will give an oral presentation during the SIG meeting. 
+Participants may submit an abstract describing work published in the previous year as well as additional work undertaken since publication. The program committee will review these abstracts. Additionally, the BioVis SIG program committee may also invite authors of outstanding publications from other venues. The authors of selected abstracts will give an oral presentation during the SIG meeting.
 
 1. **Posters**
 We seek work in progress and preliminary results; previously published work from other venues; visualization challenges.
@@ -32,7 +39,7 @@ Submissions consist of a **500 word abstract and two images for the New Research
 ### Location and Registration
 BioVis@ISMB2016 is co-located with [ISMB 2016](http://www.iscb.org/ismb2016) and will be taking place on July 8 in [Orlando, Florida at the Disney World Resort Swan and Dolphin hotel](http://www.iscb.org/ismb2016-accommodation). The main ISMB 2016 conference will run from July 8 through July 12.
 
-As BioVis@ISMB is an ISMB Special Interest Group Meeting, [registration for the meeting is managed through the ISMB conference](http://www.iscb.org/ismb2016program/ismb2016-sigs#biovis). 
+As BioVis@ISMB is an ISMB Special Interest Group Meeting, [registration for the meeting is managed through the ISMB conference](http://www.iscb.org/ismb2016program/ismb2016-sigs#biovis).
 
 ### Key Dates
 _EXTENDED_ **May 10, 2016** - Submission deadline for the Highlights Track and New Research Track

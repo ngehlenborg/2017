@@ -5,7 +5,13 @@ permalink: /registration_ismb/
 back_title: ISMB 2016
 back_url: ismb
 ---
+<br>
 
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<h3>BioVis@ISMB 2016 has now concluded</h3>
+<p>Check back next year for more opportunities to participate in BioVis@ISMB. We also have a workshop being held in conjunction with IEEE VIS, <a href="http://biovis.net/2016/ieeevis/">BioVis@VIS</a>, that will take place in October 2016. </p>
+
+</div>
 
 <div class="content clearfix">
     <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><span style="widows: 1;">Registration for BioVis (as well as <a href="http://www.iscb.org/ismb2016">ISMB/ECCB 2016</a>) has opened. Please register&nbsp;</span><a href="http://www.iscb.org/ismb2016-registration" style="widows: 1;">here</a><span style="widows: 1;">&nbsp;</span></p>

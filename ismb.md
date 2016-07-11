@@ -8,21 +8,28 @@ main_venue: ISMB 2016
 main_venue_url: http://www.iscb.org/ismb2016
 permalink: /ismb/
 ---
+<br>
+
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<h3>BioVis@ISMB 2016 has now concluded</h3>
+<p>Check back next year for more opportunities to participate in BioVis@ISMB. We also have a workshop being held in conjunction with IEEE VIS, <a href="http://biovis.net/2016/ieeevis/">BioVis@VIS</a>, that will take place in October 2016. </p>
+
+</div>
 
 <div class="row center-align">
     <div class="col m4 s12 event-page-menu-block">
      <i class="material-icons large">people</i>
      <h3>Call for Participation</h3>
-     
+
      <a class="btn waves-effect waves-light" href="{{site.baseurl}}/cfp_ismb" type="submit" name="action">View CfP</a>
     </div>
-    
+
     <div class="col m4 s12 event-page-menu-block">
      <i class="material-icons large">file_upload</i>
      <h3>Submission Info</h3>
      <a class="btn waves-effect waves-light" href="{{site.baseurl}}/submission_ismb" type="submit" name="action">View Submission Info</a>
     </div>
-    
+
     <div class="col m4 s12 event-page-menu-block">
         <i class="material-icons large">border_color</i>
         <h3>Registration</h3>
@@ -49,8 +56,8 @@ permalink: /ismb/
             <p><strong>Highlights, New Research and Poster Notification:</strong><br>
             {{ site.ISMB_hl_and_nresearch_notiication }} </p>
       </div>
-      
-      
+
+
       <div class="col s12 m6">
           <h4>Latest News</h4>
           <ul class="post-list">
@@ -74,4 +81,3 @@ permalink: /ismb/
 
 <br/>
 <br/>
-

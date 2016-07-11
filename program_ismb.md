@@ -5,6 +5,14 @@ permalink: /program_ismb/
 back_title: ISMB 2016
 back_url: ismb
 ---
+<br>
+
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<h3>BioVis@ISMB 2016 has now concluded</h3>
+<p>Check back next year for more opportunities to participate in BioVis@ISMB. We also have a workshop being held in conjunction with IEEE VIS, <a href="http://biovis.net/2016/ieeevis/">BioVis@VIS</a>, that will take place in October 2016. </p>
+
+</div>
+
 ## BioVis@ISMB 2016 Program
 
 ### July 8, 2016
@@ -109,7 +117,7 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 <div>
     <div class="sumTime">11:50 - 12:15</div>
     <div>
-        <p style="padding-left:120px;"> 
+        <p style="padding-left:120px;">
         <i>Aaron Watters & Emily Miraldi</i><br>
         Jupyter Based Visualization and Scripting of Gene Regulatory Network and Genomics Data (New Research)</p>
     </div>
@@ -118,7 +126,7 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 <div>
     <div class="sumTime">12:15 - 12:25</div>
     <div>
-        <p style="padding-left:120px;"> 
+        <p style="padding-left:120px;">
         <i>W. Jim Zheng</i><br>
         Visualizing Human Genome in Time and Space (New Research)</p>
     </div>
@@ -199,7 +207,7 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 <div>
     <div class="sumTime">03:25 - 03:35</div>
     <div>
-        <p style="padding-left:120px;"> 
+        <p style="padding-left:120px;">
         <i>Will Ray</i><br>
         Myth Unbusted: Evolutionary fingerprints of protein structure do exist in sequences, but you must look in the right place to see them (New Research)</p>
     </div>
@@ -278,7 +286,7 @@ Her research interests include analysis of ancient genomes, primate comparative 
 Janet received her PhD in bioinformatics from the South African National Bioinformatics Institute under the supervision of Winston Hide. She is author of more than 70 peer-reviewed scientific publications, co-Editor-in-Chief of the journal Bioinformatics together with Alfonso Valencia, and also an Associate Editor of the journal Database. She is a long-standing and active member of the Board of the International Society for Computational Biology.
 
 __Visualisation in Ancient Genomics__
-   
+
 _The sequencing of the genomes of extinct humans including Neanderthals and Denisovans, as well as the genomes of early modern humans has provided unique insights into the history and demography of human populations. We are now able to study the relationships between archaic groups, to infer population movements and to identify genetic changes that have come to fixation or reached high frequency  in modern humans since their divergence from Neandertals and Denisovans. Using Neandertal and Denisovan genome sequences we have shown that gene flow from Neandertals has contributed about 2% of the genomes of present-day non-Africans, while about 4% of the genomes of present-day Oceanians derive from Denisovans. Maps of the Neandertal and Denisovan alleles in present-day non-Africans have allowed us to characterize some of the functional impacts of archaic ancestry on modern humans, while the lengths of these introgressed regions have provided information about the date of admixture. To date, the interpretation of these large and complex ancient DNA datasets has been primarily through statistical analyses.  New visualisation methods could contribute to many aspects of the analysis of DNA from ancient organisms. For example, scientists working on ancient DNA would welcome approaches that help them to assess and compare the preservation and contamination present in ancient sequence datasets, or approaches that provide an overview of the genetic relationships between populations over time and across geographical distances. Alignment visualisation methods that allow many thousands of modern and ancient genomes to be compared in order to identify haplotypes that are unique to modern humans, or that are introgressed from archaic humans would also find wide application in the ancient DNA community._
 
 <hr class="style-one">
@@ -290,4 +298,3 @@ _The sequencing of the genomes of extinct humans including Neanderthals and Deni
 __NIH Perspectives on Data Visualization__
 
 _Abstract will be posted shortly._
-
