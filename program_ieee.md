@@ -8,7 +8,7 @@ back_url: ieeevis
 
 ### Keynote Speaker - Sheelagh Carpendale
 
-<img src="http://vis4me.com/wp-content/uploads/2015/06/sheelaghcarpendale-840x622.jpg" alt="Sheelagh Carpendale" style="width: 100px;"/>
+<img src="http://vis4me.com/wp-content/uploads/2015/06/sheelaghcarpendale-840x622.jpg" alt="Sheelagh Carpendale" style="width: 250px;"/>
 
 [Sheelagh Carpendale](http://pages.cpsc.ucalgary.ca/~sheelagh/wiki/pmwiki.php) is a Professor in Computer Science at the University of Calgary where she holds a Canada Research Chair in Information Visualization and NSERC/AITF/SMART Technologies Industrial Research Chair in Interactive Technologies. She has many received awards including the E.W.R. NSERC STEACIE Memorial Fellowship; a BAFTA (British Academy of Film & Television Arts Interactive Awards); an ASTech Innovations in Technology award; and the CHCCS Achievement Award, which is presented periodically to a Canadian researcher who has made a substantial contribution to the fields of computer graphics, visualization, or human-computer interaction. She has served in such roles as Papers, Program, or Conference Chair for IEEE InfoVis, ACM Interaction Tabletops and Surfaces, and Computational Aesthetics and has received both the IEEE and ACM recognition of service awards. She is a co-director of the Interactions Lab and leads the Innovations in Visualization (InnoVis) research group and initiated the interdisciplinary graduate program, Computational Media Design. Her research on information visualization, large interactive displays, and new media draws on her dual background in Computer Science and Visual Arts.
 
