@@ -86,10 +86,10 @@ layout: home
                         </div>
                           <div class="col s12 m6">
                              <h4><a href="{{site.baseurl}}/ieeevis">BioVis@VIS</a></h4>
-                                <p><strong>Paper Submission Deadline:</strong><br>{{ site.IEEE_deadline_submission }} </p>
-                                <p><strong>Author Notification:</strong><br>{{ site.IEEE_deadline_notification }} </p>
-                                <p><strong>Camera Ready Submission:</strong><br>{{ site.IEEE_deadline_camera }} </p>
-                                <p><strong>VIS Poster Submission Deadline:</strong><br>{{ site.IEEE_deadline_poster }} </p>
+                                <p><strong>Paper Submission Deadline:</strong>{{ site.IEEE_deadline_submission }} </p>
+                                <p><strong>Author Notification:</strong>{{ site.IEEE_deadline_notification }} </p>
+                                <p><strong>Camera Ready Submission:</strong>{{ site.IEEE_deadline_camera }} </p>
+                                <p><strong>VIS Poster Submission Deadline:</strong>{{ site.IEEE_deadline_poster }} </p>
 
                           </div>
                     </div>
