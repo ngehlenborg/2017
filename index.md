@@ -92,15 +92,6 @@ layout: home
                                 <p><strong>VIS Poster Submission Deadline:</strong><br>{{ site.IEEE_deadline_poster }} </p>
 
                           </div>
-                          <div class="col s12 m6">
-                             <h4><a href="{{site.baseurl}}/ismb">BioVis@ISMB</a></h4>
-                                <p><strong>Highlights and New Research Submission:</strong><br>
-                                <emph>EXTENDED</emph> {{ site.ISMB_hl_and_nresearch_submission }}</p>
-                                <p><strong>ISMB Poster Submission Deadline:</strong><br>{{ site.ISMB_deadline_poster }} </p>
-                                <p><strong>Highlights, New Research and Poster Notification:</strong><br>
-                                {{ site.ISMB_hl_and_nresearch_notiication }} </p>
-
-                          </div>
                     </div>
                 </div>
 
