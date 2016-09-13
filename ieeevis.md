@@ -44,7 +44,7 @@ permalink: /ieeevis/
         <i class="material-icons large">list</i>
         <h3>Program</h3>
         <!--<a class="btn waves-effect waves-light" href="{{site.baseurl}}/program_ieee" type="submit" name="action">Program</a>-->
-        <a class="btn waves-effect waves-light disabled"  type="submit" name="action" disabled>Coming Soon</a>
+        <a class="btn waves-effect waves-light" href="{{site.baseurl}}/program_ieee" type="submit" name="action">Program</a>
     </div>
 </div>
 
