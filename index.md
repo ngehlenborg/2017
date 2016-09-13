@@ -84,13 +84,12 @@ layout: home
                         <div class="col s12 m12 center-align">
                             <h4><i class="material-icons" style="font-size: .9em">date_range</i> Important Dates</h4>
                         </div>
-                          <div class="col s12 m6">
+                          <div>
                              <h4><a href="{{site.baseurl}}/ieeevis">BioVis@VIS</a></h4>
-                                <p><strong>Paper Submission Deadline:</strong>{{ site.IEEE_deadline_submission }} </p>
+                                <p><strong> Paper Submission Deadline:</strong> {{ site.IEEE_deadline_submission }} </p>
                                 <p><strong>Author Notification:</strong>{{ site.IEEE_deadline_notification }} </p>
-                                <p><strong>Camera Ready Submission:</strong>{{ site.IEEE_deadline_camera }} </p>
-                                <p><strong>VIS Poster Submission Deadline:</strong>{{ site.IEEE_deadline_poster }} </p>
-
+                                <p><strong> Camera Ready Submission:</strong>{{ site.IEEE_deadline_camera }} </p>
+                                <p><strong> VIS Poster Submission Deadline:</strong>{{ site.IEEE_deadline_poster }} </p>
                           </div>
                     </div>
                 </div>
