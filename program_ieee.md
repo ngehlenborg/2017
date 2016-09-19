@@ -6,14 +6,55 @@ back_title: IEEE VIS 2016
 back_url: ieeevis
 ---
 
-### Keynote Speaker - Sheelagh Carpendale
+### Keynote Speaker
+<div class="talk">
+    <div class="ttitle">Visualization: The power of alternate representations
+        <!--{% if talk.slides %}
+        <span class="tspeaker" style="float: right;"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download
+            Slides</a></span>
+        {% endif %}-->
+    </div>
+    <div><span class="tspeaker"><a href="http://pages.cpsc.ucalgary.ca/~sheelagh/wiki/pmwiki.php">Sheelagh Carpendale</a></span>, <span>University of Calgary</span></div>
 
-<img src="http://vis4me.com/wp-content/uploads/2015/06/sheelaghcarpendale-840x622.jpg" alt="Sheelagh Carpendale" style="width: 250px;"/>
+    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/sCarpendale.jpg" style="width: 250px;" alt="S.Carpendale">
+    </div>
 
-[Sheelagh Carpendale](http://pages.cpsc.ucalgary.ca/~sheelagh/wiki/pmwiki.php) is a Professor in Computer Science at the University of Calgary where she holds a Canada Research Chair in Information Visualization and NSERC/AITF/SMART Technologies Industrial Research Chair in Interactive Technologies. She has many received awards including the E.W.R. NSERC STEACIE Memorial Fellowship; a BAFTA (British Academy of Film & Television Arts Interactive Awards); an ASTech Innovations in Technology award; and the CHCCS Achievement Award, which is presented periodically to a Canadian researcher who has made a substantial contribution to the fields of computer graphics, visualization, or human-computer interaction. She has served in such roles as Papers, Program, or Conference Chair for IEEE InfoVis, ACM Interaction Tabletops and Surfaces, and Computational Aesthetics and has received both the IEEE and ACM recognition of service awards. She is a co-director of the Interactions Lab and leads the Innovations in Visualization (InnoVis) research group and initiated the interdisciplinary graduate program, Computational Media Design. Her research on information visualization, large interactive displays, and new media draws on her dual background in Computer Science and Visual Arts.
+    <div class="tbioabstract">
 
-__Visualization: The power of alternate representations__
+        <div class="tabstract"><b>Abstract:</b>
+        To visualize data one of the first steps is to develop a visual representation. This representation is a result of a mapping by which the data can be specified. Much has been said of about the power of these visual representations. Simon (1981) said that solving a problem is simply a matter of representing so as to make the solution transparent – implying that finding the right representation solves the problem. Card et al. (1998) said that interactive visual representations can amplify our cognition – can in effect make us smarter.  In spite of this, the small box in the visualization creation pipeline that signifies the development of the visual representation remains one of the least unpacked. Through examples from my own work and others’, I will discuss the power and potential of alternate visual representations.
+        </div>
 
-_To visualize data one of the first steps is to develop a visual representation. This representation is a result of a mapping by which the data can be specified. Much has been said of about the power of these visual representations. Simon (1981) said that solving a problem is simply a matter of representing so as to make the solution transparent – implying that finding the right representation solves the problem. Card et al. (1998) said that interactive visual representations can amplify our cognition – can in effect make us smarter.  In spite of this, the small box in the visualization creation pipeline that signifies the development of the visual representation remains one of the least unpacked. Through examples from my own work and others’, I will discuss the power and potential of alternate visual representations._
+        <div class="tbio"><b>Bio:</b>
+        Sheelagh Carpendale is a Professor in Computer Science at the University of Calgary where she holds a Canada Research Chair in Information Visualization and NSERC/AITF/SMART Technologies Industrial Research Chair in Interactive Technologies. She has many received awards including the E.W.R. NSERC STEACIE Memorial Fellowship; a BAFTA (British Academy of Film & Television Arts Interactive Awards); an ASTech Innovations in Technology award; and the CHCCS Achievement Award, which is presented periodically to a Canadian researcher who has made a substantial contribution to the fields of computer graphics, visualization, or human-computer interaction. She has served in such roles as Papers, Program, or Conference Chair for IEEE InfoVis, ACM Interaction Tabletops and Surfaces, and Computational Aesthetics and has received both the IEEE and ACM recognition of service awards. She is a co-director of the Interactions Lab and leads the Innovations in Visualization (InnoVis) research group and initiated the interdisciplinary graduate program, Computational Media Design. Her research on information visualization, large interactive displays, and new media draws on her dual background in Computer Science and Visual Arts.</div>
+    </div>
+</div>
 
-<hr class="style-one">
+
+
+### Primer Speaker
+<div class="talk">
+    <div class="ttitle">Statistical dances: why no statistical analysis is reliable and what to do about it
+        <!--{% if talk.slides %}
+        <span class="tspeaker" style="float: right;"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download
+            Slides</a></span>
+        {% endif %}-->
+    </div>
+    <div><span class="tspeaker"><a href=" http://www.aviz.fr/badstats">Pierre Dragicevic</a></span>, <span> Inria, France </span></div>
+
+    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/pDragicevic.jpeg" style="width: 250px;" alt="P.Dragicevic">
+    </div>
+
+    <div class="tbioabstract">
+
+        <div class="tabstract"><b>Abstract:</b>
+        It is now widely recognized that we need to improve the way we report empirical data in our scientific papers. More formal training in statistics is not enough. We also need good "intuition pumps" to develop our statistical thinking skills. In this talk I explore the basic concept of statistical dance. The dance analogy has been used by Geoff Cumming to describe the variability of p-values and confidence intervals across replications. I explain why any statistical analysis and any statistical chart dances across replications. I discuss why most attempts at stabilizing statistical dances (e.g, increasing power or applying binary accept/reject criteria) are either insufficient or misguided. The solution is to embrace the uncertainty and messiness in our data. We need to develop a good intuition of this uncertainty and communicate it faithfully to our peers. I give tips for conveying and interpreting interval estimates in our papers in a honest and truthful way.
+        </div>
+
+        <div class="tbio"><b>Bio:</b>
+        Pierre Dragicevic is working in the Aviz team at Inria in France as a permanent research scientist. He studies information visualization and human-computer interaction. He co-signed many research articles with p-values until he got frustrated and discovered a vast literature on statistical reform. In 2014 he banished p-values from all his publications. Since then, he has been promoting an approach to better statistical communication based on charts, interval estimation and nuanced interpretations.
+        </div>
+    </div>
+</div>
+
+*(more program details and schedule to be announced shortly)*

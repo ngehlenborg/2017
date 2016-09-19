@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-
 <div class="row">
         <div class="home-info-container col s12">
               <p>The BioVis meetings are intended to educate, inspire, and engage visualization researchers in problems in biological data visualization, as well as bioinformatics and biology researchers in state-of-the-art visualization research.</p>
