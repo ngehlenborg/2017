@@ -57,4 +57,30 @@ back_url: ieeevis
     </div>
 </div>
 
+### Challenge Speaker
+<div class="talk">
+    <div class="ttitle">A Introduction to microbiome data visualization
+        <!--{% if talk.slides %}
+        <span class="tspeaker" style="float: right;"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download
+            Slides</a></span>
+        {% endif %}-->
+    </div>
+    <div><span class="tspeaker"><a href="http://franzosa.net/">Eric Franzosa</a></span>, <span> Harvard School of Public Health </span></div>
+
+    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/eFranzosa.jpg" style="width: 250px;" alt="E.Franzosa">
+    </div>
+
+    <div class="tbioabstract">
+
+        <div class="tabstract"><b>Abstract:</b>
+        This talk will introduce the concepts and challenges of visualizing the results of microbial community (microbiome) sequencing projects. We will begin with an overview of current amplicon - and shotgun sequencing-based approaches for generating taxonomic and functional profiles of microbiome samples. We will then discuss methods for effectively representing high-dimensional microbiome profiles in low-dimensional space (ordination). This will include an introduction to the ecological distance measures that underlie microbiome ordination and distinguish it from other dimensionality reduction applications. Following this, we will cover additional topics relevant to visualization of microbiome data, including embedding stratified microbiome profiles on phylogenetic trees, and methods for augmenting common graphical data representations to handle the "quirks" of microbiome data (including compositionality, zero-inflation, and high dynamic range). We will close with an overview of existing platforms for visualizing microbiome data and by pointing out open challenges in the field.
+        </div>
+
+        <div class="tbio"><b>Bio:</b>
+        Eric received a Bachelors in Biophysics (2006) from Brown University and a Ph.D. Bioinformatics (2011) from Boston University, where he studyied protein structure-evolution relationships with Prof. Brandon Xia (pron. "Shah"). In 2012 he joined Curtis Huttenhower's lab at Harvard School of Public Health/Broad Institute to research metatranscriptomics and microbiome personalization. In 2015 he transitioned to staff scientist role in the Huttenhower lab and is currently researching efficient methods for microbiome functional profiling (HUMAnN2) and expanding the Human Microbiome Project. He is also involved in various Microbiome and bioinformatics workshops and education initiatives. 
+        </div>
+    </div>
+</div>
+
+
 *(more program details and schedule to be announced shortly)*

@@ -37,6 +37,7 @@ nav a {
 }
 
 .home-info-container {
+   margin-top: -17px;
     height: 330px;
     background: #2c3e50 url('../images/home-image.svg') bottom center no-repeat;
     background-size: 70%;
