@@ -77,7 +77,7 @@ back_url: ieeevis
         </div>
 
         <div class="tbio"><b>Bio:</b>
-        Eric received a Bachelors in Biophysics (2006) from Brown University and a Ph.D. Bioinformatics (2011) from Boston University, where he studyied protein structure-evolution relationships with Prof. Brandon Xia (pron. "Shah"). In 2012 he joined Curtis Huttenhower's lab at Harvard School of Public Health/Broad Institute to research metatranscriptomics and microbiome personalization. In 2015 he transitioned to staff scientist role in the Huttenhower lab and is currently researching efficient methods for microbiome functional profiling (HUMAnN2) and expanding the Human Microbiome Project. He is also involved in various Microbiome and bioinformatics workshops and education initiatives. 
+        Eric received a Bachelors in Biophysics (2006) from Brown University and a Ph.D. Bioinformatics (2011) from Boston University, where he studyied protein structure-evolution relationships with Prof. Brandon Xia. In 2012 he joined Curtis Huttenhower's lab at Harvard School of Public Health/Broad Institute to research metatranscriptomics and microbiome personalization. In 2015 he transitioned to staff scientist role in the Huttenhower lab and is currently researching efficient methods for microbiome functional profiling (HUMAnN2) and expanding the Human Microbiome Project. He is also involved in various Microbiome and bioinformatics workshops and education initiatives. 
         </div>
     </div>
 </div>
