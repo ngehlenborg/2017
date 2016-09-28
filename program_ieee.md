@@ -5,8 +5,183 @@ permalink: /program_ieee/
 back_title: IEEE VIS 2016
 back_url: ieeevis
 ---
+## BioVis@Vis 2016 Program
 
-### Keynote Speaker
+### October 23rd, 2016
+
+<hr class="style-one">
+<div>
+    <div class="sumTime2">08:30 - 08:35</div>
+    <div>
+        <div class="sumContent">BioVis Welcome</div>
+          <div class="sumDetail" style="padding-left:120px;"><i> Liz Marai</i>
+    </div>
+</div>
+
+<hr class="style-one">
+
+<div>
+    <div class="sumTime2">08:35 - 09:35</div>
+    <div>
+        <div class="sumContent">Keynote Lecture</div>
+        <div class="sumContent" style="padding-left:120px;">Visualization: The power of alternate representations</div>
+          <div class="sumDetail" style="padding-left:120px;"><i> Speaker: <b> Sheelagh Carpendale</b>, University of Calgary, Canada</i>
+          <a href="#carpendale"> (Abstract and Speaker Bio)</a></div>
+    </div>
+</div>
+
+<div>
+    <div class="sumTime2">09:35 - 10:15</div>
+    <div>
+        <div class="sumContent">Primer</div>
+        <div class="sumContent" style="padding-left:120px;">Statistical dances: why no statistical analysis is reliable and
+        what to do about it</div>
+
+        <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Eamonn Maguire</i></div>
+
+        <div class="sumDetail" style="padding-left:120px;"><i>Speaker: <b>Pierre Dragicevic</b>, Inria, France</i>
+        <a href="#dragicevic"> (Abstract and Speaker Bio)</a></div>
+    </div>
+</div>
+
+<!--------------- COFFEE BREAK------------------->
+<hr class="style-one">
+<div>
+    <div class="sumTime2">10:15 - 10:30</div>
+    <div>
+        <div class="sumContent">Coffee / Tea Break</div>
+    </div>
+</div>
+
+<hr class="style-one">
+
+<!--------------- Papers Session 1 ------------------->
+
+
+<div>
+    <div class="sumTime2"> 10:30 - 12:10</div>
+    <div>
+        <div class="sumContent">BioVis Papers: Abstract Data and Pathway Visualization </div>
+    </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Michel Westenberg</i> </div>
+    <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
+</div>
+
+<!-- Load Papers automatically from spreadsheet -->
+{% for paper in site.data.papers%}
+{% if paper.session == "Papers-01"%}
+  <div>
+      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>{{paper.title}}</b></div>
+      </div>
+      <div class="sumDetail" style="padding-left:120px;"> {{paper.authors}}</div>
+  </div>
+{% endif %}
+{% endfor %}
+
+<!--------------- LUNCH BREAK------------------->
+<hr class="style-one">
+<div>
+    <div class="sumTime2">12:10 - 14:00</div>
+    <div>
+        <div class="sumContent">Lunch Break</div>
+    </div>
+</div>
+<hr class="style-one">
+
+<!--------------- Papers Session 2 ------------------->
+
+
+<div>
+    <div class="sumTime2"> 14:00 - 14:50</div>
+    <div>
+        <div class="sumContent">BioVis Papers: Protein and Microscopy Data Visualization</div>
+    </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Carsten Goerg</i> </div>
+    <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
+</div>
+
+
+<!-- Load Papers automatically from spreadsheet -->
+{% for paper in site.data.papers%}
+{% if paper.session == "Papers-02"%}
+  <div>
+      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>{{paper.title}}</b></div>
+      </div>
+      <div class="sumDetail" style="padding-left:120px;"> {{paper.authors}}</div>
+  </div>
+{% endif %}
+{% endfor %}
+
+<!--------------- COFFEE BREAK------------------->
+<hr class="style-one">
+<div>
+    <div class="sumTime2">15:40 - 16:00</div>
+    <div>
+        <div class="sumContent">Coffee / Tea Break</div>
+    </div>
+</div>
+
+<hr class="style-one">
+
+<!--------------- CHALLENGE AND DESIGN CONTEST ------------------->
+<div>
+    <div class="sumTime2">16:00 - 16:45</div>
+    <div>
+        <div class="sumContent">Challenges Session</div>
+        <div class="sumDetail" style="padding-left:120px;"><i>Session Chair:  Eamonn Maguire </i></div>
+
+        <div class="sumDetail" style="padding-left:120px;"><i>Challenge: <b> An introduction to Microbiome Data Visualization</b> </i></div>
+
+        <div class="sumDetail" style="padding-left:120px;"><i>Speaker: <b> Eric Franzosa</b>, Harvard School of Public Health</i>   <a href="#franzosa"> (Abstract and Speaker Bio)</a></div>
+    </div>
+</div>
+
+<div>
+    <div class="sumTime2">16:45 - 17:15</div>
+    <div>
+        <div class="sumContent">Design Contest Presentations </div>
+        <div class="sumDetail" style="padding-left:120px;"><i>Session Chair:  Eamonn Maguire </i></div>
+    </div>
+</div>
+
+<hr class="style-one">
+
+<!--------------- LAST STUFF ------------------->
+<div>
+    <div class="sumTime2">17:15 - 17:25</div>
+    <div>
+        <div class="sumContent">Poster Fast Forward</div>
+        <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Michel Westenberg </i></div>
+    </div>
+</div>
+
+<div>
+    <div class="sumTime2">17:25 - 17:35</div>
+    <div>
+        <div class="sumContent">BioVis Data Contest </div>
+        <div class="sumDetail" style="padding-left:120px;"><i>Speaker: Raghu Machiraju </i></div>
+    </div>
+</div>
+
+<div>
+    <div class="sumTime2">17:35 - 17:55</div>
+    <div>
+        <div class="sumContent">Awards Ceremony and Closing Remarks </div>
+        <div class="sumDetail" style="padding-left:120px;"><i> Jan Aerts </i></div>
+    </div>
+</div>
+<hr class="style-one">
+
+
+
+
+<h3>Keynote Speaker</h3>
+
+<a name="carpendale"></a>
 <div class="talk">
     <div class="ttitle">Visualization: The power of alternate representations
         <!--{% if talk.slides %}
@@ -32,7 +207,9 @@ back_url: ieeevis
 
 
 
-### Primer Speaker
+<h3>Primer Speaker</h3>
+
+<a name="dragicevic"></a>
 <div class="talk">
     <div class="ttitle">Statistical dances: why no statistical analysis is reliable and what to do about it
         <!--{% if talk.slides %}
@@ -57,7 +234,8 @@ back_url: ieeevis
     </div>
 </div>
 
-### Challenge Speaker
+<h3> Challenge Speaker</h3>
+<a name="franzosa"></a>
 <div class="talk">
     <div class="ttitle">A Introduction to microbiome data visualization
         <!--{% if talk.slides %}
@@ -77,10 +255,7 @@ back_url: ieeevis
         </div>
 
         <div class="tbio"><b>Bio:</b>
-        Eric received a Bachelors in Biophysics (2006) from Brown University and a Ph.D. Bioinformatics (2011) from Boston University, where he studyied protein structure-evolution relationships with Prof. Brandon Xia. In 2012 he joined Curtis Huttenhower's lab at Harvard School of Public Health/Broad Institute to research metatranscriptomics and microbiome personalization. In 2015 he transitioned to staff scientist role in the Huttenhower lab and is currently researching efficient methods for microbiome functional profiling (HUMAnN2) and expanding the Human Microbiome Project. He is also involved in various Microbiome and bioinformatics workshops and education initiatives. 
+        Eric received a Bachelors in Biophysics (2006) from Brown University and a Ph.D. Bioinformatics (2011) from Boston University, where he studyied protein structure-evolution relationships with Prof. Brandon Xia. In 2012 he joined Curtis Huttenhower's lab at Harvard School of Public Health/Broad Institute to research metatranscriptomics and microbiome personalization. In 2015 he transitioned to staff scientist role in the Huttenhower lab and is currently researching efficient methods for microbiome functional profiling (HUMAnN2) and expanding the Human Microbiome Project. He is also involved in various Microbiome and bioinformatics workshops and education initiatives.
         </div>
     </div>
 </div>
-
-
-*(more program details and schedule to be announced shortly)*
