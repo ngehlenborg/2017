@@ -2,7 +2,7 @@ id,event,start,end,session,title,authors,presenter,abstract
 IEEE-01,vis,10:30,10:55,Papers-01,Unboxing Cluster Heatmaps,"Sophie Engle*, Sean Whalen, Alark Joshi, Katherine Pollard",NA,NA
 IEEE-02,vis,10:55,11:20,Papers-01,PRODIGEN: Visualizing the Probability Landscape of Stochastic Gene Regulatory Networks in State and Time Space,"Chihua Ma*, Timothy Luciani, Anna Terebus, Jie Liang, G.Elisabeta Marai",NA,NA
 IEEE-03,vis,11:20,11:45,Papers-01,Generalized Box-Plot for Root Growth Ensembles,"Viktor Vad*, Douglas Cedrim, Wolfgang Busch, Peter Filzmoser, Ivan Viola",NA,NA
-IEEE-04,vis,11:45,12:30,Papers-01,A Taxonomy of Visualization Tasks for the Analysis of Biological Pathway Data,"Paul Murray*, Fintan McGee, Angus Forbes",NA,NA
+IEEE-04,vis,11:45,12:10,Papers-01,A Taxonomy of Visualization Tasks for the Analysis of Biological Pathway Data,"Paul Murray*, Fintan McGee, Angus Forbes",NA,NA
 IEEE-05,vis,14:00,14:25,Papers-02,Comparative Visualization of Protein Secondary Structures,"Lucia Kocincova, Miroslava Jaresova*, Jan Byska, Julius Parulek, Helwig Hauser, Barbora Kozlikov",NA,NA
 IEEE-06,vis,14:25,14:50,Papers-02,Bio-physically Plausible Visualization of Highly Scattering Fluorescent Neocortical Models for in Silico Experimentation,"Marwan Abdellah*, Ahmet Bilgili, Stefan Eilemann, Julian Shillcock, Henry Markram, Felix Schurmann",NA,NA
 IEEE-07,vis,14:50,15:15,Papers-02,Virtual Reality Assisted Microscopy Data Visualization and Colocalization Analysis,"Rensu Theart*, Ben Loos, Thomas Niesler",NA,NA
