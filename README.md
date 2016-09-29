@@ -1,6 +1,6 @@
 # BioVis 2016 Websites
 
-The 2016 version of the VDS website.
+The 2016 version of the BioVis website.
 
 It uses [Jekyll](http://jekyllrb.com/) as CMS... forked from 2015 version of the VDS website
 
