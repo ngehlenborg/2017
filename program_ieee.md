@@ -156,6 +156,7 @@ back_url: ieeevis
     <div>
         <div class="sumContent">Poster Fast Forward</div>
         <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Michel Westenberg </i></div>
+        <div style="padding-left:120px;"><a href= "{{site.baseurl}}/posters_ieeeAccepted"><i>List of accepted posters</i></a></div>
     </div>
 </div>
 
