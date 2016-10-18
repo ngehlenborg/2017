@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Posters BioVis@VIS
-permalink: /posters_ieeeAccepted/
-back_title: VIS 2016
-back_url: ieee
+permalink: /posters_ieeevis_Accepted/
+back_title: IEEE VIS 2016
+back_url: ieeevis
 ---
 <!--**Attention Poster Authors:**
 When preparing accepted posters please note that your poster should not exceed the following dimensions: *46 inches wide by 45 inches high*. There will be 2 posters per side on the each poster board. One poster will be an odd number and the other will be an even number. View a diagram of the the poster board in pdf format [here](http://www.iscb.org/images/stories/ismb2016/downloads/ISMB2016-PosterSampler.pdf).

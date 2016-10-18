@@ -156,7 +156,7 @@ back_url: ieeevis
     <div>
         <div class="sumContent">Poster Fast Forward</div>
         <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Michel Westenberg </i></div>
-        <div style="padding-left:120px;"><a href= "{{site.baseurl}}/posters_ieeeAccepted"><i>List of Accepted Posters</i></a></div>
+        <div style="padding-left:120px;"><a href= "{{site.baseurl}}/posters_ieeevis_Accepted"><i>List of Accepted Posters</i></a></div>
     </div>
 </div>
 
@@ -177,7 +177,16 @@ back_url: ieeevis
 </div>
 <hr class="style-one">
 
-
+<!--------------- Poster Sessions ------------------->
+<div>
+    <div class="sumTime2">19:00 - 21:00</div>
+    <div>
+        <div class="sumContent">Poster Reception @ VIS Opening Reception</div>
+        <div class="sumDetail" style="padding-left:120px;"><i>Key Blrm 7-12 + South Foyer </i></div>
+        <div style="padding-left:120px;"><a href= "{{site.baseurl}}/posters_ieeevis_Accepted"><i>List of Accepted Posters</i></a></div>
+    </div>
+</div>
+<hr class="style-one">
 
 
 <h3>Keynote Speaker</h3>

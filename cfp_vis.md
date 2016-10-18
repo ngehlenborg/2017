@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for Participation (BioVis@VIS)
-back_title: IEEE VIS
+back_title: IEEE VIS 2016
 back_url: ieeevis
 permalink: /cfp_vis/
 ---
