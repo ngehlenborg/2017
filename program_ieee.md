@@ -145,6 +145,8 @@ back_url: ieeevis
     <div>
         <div class="sumContent">Design Contest Presentations </div>
         <div class="sumDetail" style="padding-left:120px;"><i>Session Chair:  Eamonn Maguire </i></div>
+        <div class="sumDetail" style="padding-left:120px;">Contestant 1: Hamid Younesy (presented by Torsten Möller), <i>Simon Fraser University</i></div>
+        <div class="sumDetail" style="padding-left:120px;">Contestant 2: Christian Stolte, <i>New York Genome Center</i></div>
     </div>
 </div>
 
