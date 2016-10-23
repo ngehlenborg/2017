@@ -9,8 +9,10 @@ back_url: ieeevis
 When preparing accepted papers please note that your paper should not exceed the following dimensions: *46 inches wide by 45 inches high*. There will be 2 papers per side on the each paper board. One paper will be an odd number and the other will be an even number. View a diagram of the the paper board in pdf format [here](http://www.iscb.org/images/stories/ismb2016/downloads/ISMB2016-paperSampler.pdf).
 -->
 
+
 {% for paper in site.data.papers %}
-{% if paper.event == "VIS" %}
+
+paper here 
 <div class ="talk">
   <table>
   <tr>
@@ -28,6 +30,4 @@ When preparing accepted papers please note that your paper should not exceed the
   </tr>
   </table>
 </div>
-
-{% endif %}
 {% endfor %}
