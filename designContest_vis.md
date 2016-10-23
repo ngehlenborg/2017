@@ -95,7 +95,7 @@ By submitting an entry, you give the BioVis 2016 organizers permission to publis
 
 
 
-### Mamography
+### Mammography
 **Scenario**
 Text: “The probability of breast cancer is 1% for a woman who participates in routine screening. If a woman who participates in routine screening has breast cancer, the probability is 80% that she will have a positive test result. If a woman who participates in routine screening does not have breast cancer, the probability is 9.6% that she will have a positive test result.” [1, 3]
 
@@ -108,7 +108,7 @@ Answer: 7.8%
 
 <a href ="{{ site.baseurl}}/files/stolte-matrix-solution.png"> <img style="padding-right: 10px;" src="{{ site.baseurl }}/files/stolte-matrix-solution.png" alt="stotle-mamography" height="350" width="475"></a>
 
-### Downs Syndrome
+### Down Syndrome
 
 **Scenario**
 Text: “It is estimated that trisomy 21 is present in 1 out of every 800 births in Canada. It is estimated that trisomy 18 is present in approximately in 1 out of every 6,000 births. It is estimated that trisomy 13 is present in approximately in 1 out of every 16,000 newborns. The Harmony Test has been shown to have detection rates of up to 99% and false positive rates as low as 0.1% for trisomy 21, 18, and 13.”
