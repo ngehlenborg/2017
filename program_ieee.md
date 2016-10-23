@@ -37,7 +37,7 @@ back_url: ieeevis
         <div class="sumContent" style="padding-left:120px;">Statistical dances: why no statistical analysis is reliable and
         what to do about it</div>
 
-        <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Tommy Dang</i></div>
+        <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Eamonn Maguire</i></div>
 
         <div class="sumDetail" style="padding-left:120px;"><i>Speaker: <b>Pierre Dragicevic</b>, Inria, France</i>
         <a href="#dragicevic"> (Abstract and Speaker Bio)</a></div>
