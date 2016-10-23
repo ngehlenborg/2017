@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Organizing Committee
+title: Committees
 menu: main
 ---
 ### General chairs
