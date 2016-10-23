@@ -12,7 +12,6 @@ When preparing accepted papers please note that your paper should not exceed the
 
 {% for paper in site.data.papers %}
 
-paper here 
 <div class ="talk">
   <table>
   <tr>
