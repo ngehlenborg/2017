@@ -16,10 +16,10 @@ When preparing accepted papers please note that your paper should not exceed the
   <table>
   <tr>
     <td width="300px">
-      <a href ="{{ site.baseurl}}/files/{{paper.image}}"> <img style="padding-right: 10px;" src="{{ site.baseurl }}/files/{{paper.image}}" alt="{{paper.title}}" height="250" width="250"></a>
+      <a href ="{{ site.baseurl}}/files/{{paper.image}}"> <img style="padding-right: 10px;" src="{{ site.baseurl }}/files/{{paper.image}}" alt="{{paper.title}}" height="300" width="400"></a>
     </td>
   <td>
-    <div class="ttitle">paper: {{paper.title}}</div>
+    <div class="ttitle">Paper: {{paper.title}}</div>
     <div><span class="tspeaker">{{paper.authors}}</span></div>
     <div>
       <p>{{paper.abstract}}</p>
