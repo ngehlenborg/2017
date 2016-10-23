@@ -15,6 +15,7 @@ back_url: ieeevis
     <div>
         <div class="sumContent">BioVis Welcome</div>
           <div class="sumDetail" style="padding-left:120px;"><i> Liz Marai</i>
+           <div style="padding-left:120px;"><a href= "{{site.baseurl}}/papers_ieeevis_Accepted"><i>List of Accepted Papers</i></a></div>
     </div>
 </div>
 
