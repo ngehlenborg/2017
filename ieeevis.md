@@ -8,6 +8,10 @@ main_venue: IEEE VIS 2016
 main_venue_url: http://ieeevis.org/year/2016/info/vis-welcome/welcome
 permalink: /ieeevis/
 ---
+<br>
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<p> Attended BioVis@VIS 2016? Please <a href="https://goo.gl/0Z1TiF">fill out our survey</a> and tell us what you thought! </p>
+</div>
 
 <div class="row center-align">
     <div class="col m4 s12 event-page-menu-block">

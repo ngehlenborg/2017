@@ -5,6 +5,11 @@ back_title: IEEE VIS 2016
 back_url: ieeevis
 permalink: /cfp_vis/
 ---
+<br>
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<p> Attended BioVis@VIS 2016! Please <a href="https://goo.gl/0Z1TiF">fill out our survey</a> and tell us what you thought? </p>
+</div>
+
 #### BioVis (papers,posters, and contest track) at IEEE VIS in Baltimore, Maryland, USA - October 23rd, 2016
 
 Twitter: #biovis
