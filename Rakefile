@@ -6,7 +6,7 @@ require "stringex"
 
 public_dir      = "_site"    # compiled site directory
 deploy_dir      = "_deploy"
-deploy_subdirectory = "/2016/"
+deploy_subdirectory = "/2017/"
 server_port     = "4000"      # port for preview server eg. localhost:4000
 target_repo     = "git@github.com:biovis/biovis.github.io.git"
 target_dev_repo = "git@github.com:biovis/biovis.github.io.git"
