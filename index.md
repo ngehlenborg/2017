@@ -136,7 +136,7 @@ layout: home
 
                     <div class="row center-align">
                     <div class="container">
-                        <div class="col s12 m6">
+                        <div class="col s12 m12">
 
                             <h4>Affiliates</h4>
                             <p> BioVis 2017 is an official part of <a href="https://www.iscb.org/ismb2017"> ISMB 2017</a></p>
@@ -156,6 +156,7 @@ layout: home
                              <br/>
                              </p>
                         </div>
+<!--
                         <div class="col s12 m6">
                             <h4>Sponsors</h4>
                             <p>We are grateful to our invaluable sponsors who contribute to prizes and the running costs of BioVis!
@@ -175,7 +176,7 @@ layout: home
                             </a>
 
 
-                        </div>
+                        </div>-->
                     </div>
                 </div>
         </div>
