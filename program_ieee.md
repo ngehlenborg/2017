@@ -2,9 +2,17 @@
 layout: page
 title: Program BioVis@Vis
 permalink: /program_ieee/
-back_title: IEEE VIS 2016
+back_title: IEEE VIS 2017
 back_url: ieeevis
 ---
+<br>
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<h3> Additional details for BioVis@VIS 2017 will be announced soon. In the meantime check out last year's event <a href="http://biovis.net/2016/ieeevis">BioVis@VIS</a>, and our future event co-located with <a href= "http://biovis.net/2017/ismb"></a>ISMB 2017</h3>
+</div>
+
+*PROGRAM TO BE ANNOUNCED*
+
+<!--
 ## BioVis@Vis 2016 Program
 <div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
 <p> Attended BioVis@VIS 2016? Please <a href="https://goo.gl/0Z1TiF">fill out our survey</a> and tell us what you thought! </p>
@@ -48,7 +56,6 @@ back_url: ieeevis
     </div>
 </div>
 
-<!--------------- COFFEE BREAK------------------->
 <hr class="style-one">
 <div>
     <div class="sumTime2">10:15 - 10:30</div>
@@ -59,7 +66,7 @@ back_url: ieeevis
 
 <hr class="style-one">
 
-<!--------------- Papers Session 1 ------------------->
+
 
 
 <div>
@@ -71,7 +78,6 @@ back_url: ieeevis
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
-<!-- Load Papers automatically from spreadsheet -->
 {% for paper in site.data.papers%}
 {% if paper.session == "Papers-01"%}
   <div>
@@ -84,7 +90,6 @@ back_url: ieeevis
 {% endif %}
 {% endfor %}
 
-<!--------------- LUNCH BREAK------------------->
 <hr class="style-one">
 <div>
     <div class="sumTime2">12:10 - 14:00</div>
@@ -94,7 +99,6 @@ back_url: ieeevis
 </div>
 <hr class="style-one">
 
-<!--------------- Papers Session 2 ------------------->
 
 
 <div>
@@ -106,8 +110,6 @@ back_url: ieeevis
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
-
-<!-- Load Papers automatically from spreadsheet -->
 {% for paper in site.data.papers%}
 {% if paper.session == "Papers-02"%}
   <div>
@@ -120,7 +122,7 @@ back_url: ieeevis
 {% endif %}
 {% endfor %}
 
-<!--------------- COFFEE BREAK------------------->
+
 <hr class="style-one">
 <div>
     <div class="sumTime2">15:40 - 16:00</div>
@@ -131,7 +133,7 @@ back_url: ieeevis
 
 <hr class="style-one">
 
-<!--------------- CHALLENGE AND DESIGN CONTEST ------------------->
+
 <div>
     <div class="sumTime2">16:00 - 16:45</div>
     <div>
@@ -156,7 +158,7 @@ back_url: ieeevis
 
 <hr class="style-one">
 
-<!--------------- LAST STUFF ------------------->
+
 <div>
     <div class="sumTime2">17:15 - 17:25</div>
     <div>
@@ -183,7 +185,7 @@ back_url: ieeevis
 </div>
 <hr class="style-one">
 
-<!--------------- Poster Sessions ------------------->
+
 <div>
     <div class="sumTime2">19:00 - 21:00</div>
     <div>
@@ -200,10 +202,6 @@ back_url: ieeevis
 <a name="carpendale"></a>
 <div class="talk">
     <div class="ttitle">Visualization: The power of alternate representations
-        <!--{% if talk.slides %}
-        <span class="tspeaker" style="float: right;"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download
-            Slides</a></span>
-        {% endif %}-->
     </div>
     <div><span class="tspeaker"><a href="http://pages.cpsc.ucalgary.ca/~sheelagh/wiki/pmwiki.php">Sheelagh Carpendale</a></span>, <span>University of Calgary</span></div>
 
@@ -228,10 +226,6 @@ back_url: ieeevis
 <a name="dragicevic"></a>
 <div class="talk">
     <div class="ttitle">Statistical dances: why no statistical analysis is reliable and what to do about it
-        <!--{% if talk.slides %}
-        <span class="tspeaker" style="float: right;"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download
-            Slides</a></span>
-        {% endif %}-->
     </div>
     <div><span class="tspeaker"><a href=" http://www.aviz.fr/badstats">Pierre Dragicevic</a></span>, <span> Inria, France </span></div>
 
@@ -254,10 +248,6 @@ back_url: ieeevis
 <a name="franzosa"></a>
 <div class="talk">
     <div class="ttitle">A Introduction to microbiome data visualization
-        <!--{% if talk.slides %}
-        <span class="tspeaker" style="float: right;"><a href="{{ site.baseurl }}/files/{{talk.slides}}">Download
-            Slides</a></span>
-        {% endif %}-->
     </div>
     <div><span class="tspeaker"><a href="http://franzosa.net/">Eric Franzosa</a></span>, <span> Harvard School of Public Health </span></div>
 
@@ -275,3 +265,5 @@ back_url: ieeevis
         </div>
     </div>
 </div>
+
+-->

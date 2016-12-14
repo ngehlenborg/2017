@@ -2,15 +2,16 @@
 layout: map_page
 logo: ieee.svg
 title: BioVis at IEEE VIS (BioVis@VIS)
-location: Baltimore, Maryland
-date: October 23rd, 2016
-main_venue: IEEE VIS 2016
+location: Phoenix,
+Arizona
+date: September 29, 2017
+main_venue: IEEE VIS 2017
 main_venue_url: http://ieeevis.org/year/2016/info/vis-welcome/welcome
 permalink: /ieeevis/
 ---
 <br>
 <div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
-<p> Attended BioVis@VIS 2016? Please <a href="https://goo.gl/0Z1TiF">fill out our survey</a> and tell us what you thought! </p>
+<h3> Additional details for BioVis@VIS 2017 will be announced soon. In the meantime check out last year's event <a href="http://biovis.net/2016/ieeevis">BioVis@VIS</a>, and our future event co-located with <a href= "http://biovis.net/2017/ismb"></a>ISMB 2017</h3>
 </div>
 
 <div class="row center-align">

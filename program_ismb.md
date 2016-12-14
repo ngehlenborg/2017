@@ -12,7 +12,7 @@ back_url: ismb
 <p>Check back next year for more opportunities to participate in BioVis@ISMB. We also have a workshop being held in conjunction with IEEE VIS, <a href="http://biovis.net/2016/ieeevis/">BioVis@VIS</a>, that will take place in October 2016. </p>
 
 </div>
-
+<!--
 ## BioVis@ISMB 2016 Program
 
 ### July 8, 2016
@@ -45,7 +45,7 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 
 <hr class="style-one">
 
-<!--------------- HIGHLIGHTS AND NEW RESEARCH ------------------->
+
 <div>
     <div class="sumTime2"> 09:45 - 10:20</div>
     <div>
@@ -69,7 +69,7 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
     </div>
 </div>
 
-<!--------------- COFFEE BREAK------------------->
+
 <hr class="style-one">
 <div>
     <div class="sumTime2">10:20 - 10:50</div>
@@ -80,7 +80,6 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 
 <hr class="style-one">
 
-<!--------------- HIGHLIGHTS AND NEW RESEARCH 2 ------------------->
 
 
 <div>
@@ -133,7 +132,7 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 </div>
 
 
-<!--------------- LUNCH BREAK------------------->
+
 <hr class="style-one">
 <div>
     <div class="sumTime2">12:25 - 1:30</div>
@@ -145,7 +144,7 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 <hr class="style-one">
 
 
-<!--------------- DREAM CONTEST------------------>
+<
 
 <div>
     <div class="sumTime2">01:30 - 01:45</div>
@@ -163,7 +162,6 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 
 <hr class="style-one">
 
-<!--------------- HIGHLIGHTS AND NEW RESEARCH 3 ------------------->
 
 <div>
     <div class="sumTime2">01:45 - 04:00</div>
@@ -221,7 +219,7 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
     </div>
 </div>
 
-<!--------------- COFFEE BREAK------------------->
+
 <hr class="style-one">
 <div>
     <div class="sumTime2">04:00 - 04:15</div>
@@ -232,7 +230,7 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 
 <hr class="style-one">
 
-<!--------------- CAPSTONE TALK ------------------->
+
 
 <div>
     <div class="sumTime2">04:15 - 05:00</div>
@@ -244,7 +242,6 @@ The program features a keynote by [Janet Kelso from the Max Planck Institute for
 </div>
 
 
-<!--------------- END OF DAY STUFF------------------->
 <hr class="style-one">
 <div>
     <div class="sumTime2">05:00 - 05:15</div>
@@ -296,3 +293,4 @@ _The sequencing of the genomes of extinct humans including Neanderthals and Deni
 [David Miller](http://physics.cancer.gov/about/miller.aspx) is a program director in the NCI’s Division of Cancer Biology, having joined in 2013 as an AAAS Science & Technology Policy Fellow. A physicist, Dave brings a research background in modeling methods for systems biology and computational toxicology, as well as a broader interest in biomedical software and tools development. In addition to serving within the Physical Sciences-Oncology program, Dave leads the NIH’s Big Data to Knowledge (BD2K) initiative’s Targeted Software Development program, which supports the development of data science software tools, and is active in the NCI’s Informatics Technology for Cancer Research (ITCR) program. Additional program-relevant interests include data visualization, interactive digital media, and crowdsourcing methodologies as applied to biomedical research. Dave completed his Ph.D. in physics at Drexel University (2008), followed by a postdoc at the US Environmental Protection Agency’s National Center for Environmental Assessment (2009-2013). Dave holds a B.A. in physics from the College of Wooster (2002).
 
 __NIH Perspectives on Data Visualization__
+-->

@@ -11,9 +11,7 @@ permalink: /ismb/
 <br>
 
 <div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
-<h3>BioVis@ISMB 2016 has now concluded</h3>
-<p>Check back next year for more opportunities to participate in BioVis@ISMB. We also have a workshop being held in conjunction with IEEE VIS, <a href="http://biovis.net/2016/ieeevis/">BioVis@VIS</a>, that will take place in October 2016. </p>
-
+<h3> Additional details for BioVis@ISMB 2017 will be announced soon. In the meantime check out last year's event <a href="http://biovis.net/2016/ismb">BioVis@ISMB 2016</a> or our other event co-located with IEEE VIS  <a href="http://biovis.net/2016/ieeevis">BioVis@Vis 2016</a></h3>
 </div>
 
 <div class="row center-align">
