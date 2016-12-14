@@ -1,22 +1,22 @@
 # Site settings
-title: "6th Workshop on Biological Data Visualization"
+title: "7th Workshop on Biological Data Visualization"
 email: "website@biovis.net"
-description: "6th Workshop on Biological Data Visualization"
-baseurl: "/2016"
+description: "7th Workshop on Biological Data Visualization"
+baseurl: "/2017"
 #url: "http://biovis.github.io/biovis_2016"
 url: "http://biovis.net"
-conferenceshort: "BioVis 2016"
-IEEEconferencedate: "October 24, 2016"
-ISMBconferencedate: "July 8, 2016"
+conferenceshort: "BioVis 2017"
+IEEEconferencedate: "September 29th, 2017"
+ISMBconferencedate: "July 21st, 2016"
 
-IEEE_deadline_submission: "April 29, 2016"
-IEEE_deadline_notification: "June 27, 2016"
+IEEE_deadline_submission: "TBD"
+IEEE_deadline_notification: "TBD"
 IEEE_deadline_camera: "TBD"
-IEEE_deadline_poster: "August 26, 2016"
+IEEE_deadline_poster: "TBD"
 
-ISMB_hl_and_nresearch_submission: "May 10, 2016"
-ISMB_deadline_poster: "May 17, 2016"
-ISMB_hl_and_nresearch_notiication: "May 20, 2016"
+ISMB_hl_and_nresearch_submission: "TBD"
+ISMB_deadline_poster: "TBD"
+ISMB_hl_and_nresearch_notiication: "TBD"
 
 
 # Build settings
