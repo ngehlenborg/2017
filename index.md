@@ -11,44 +11,47 @@ layout: home
               <p class="hide-on-small-only">The BioVis Interest Group organizes the annual BioVis conference. In its first five years, these BioVis
               conferences were organized as 2-day SIGs (Special Interest Groups) alternating each year between
               <a href="http://ieeevis.org" target="_new">IEEE VIS</a> and <a href="https://www.iscb.org/about-ismb" target="_new">ISMB</a>.
-              <br/><br/>In 2016, however, there will be two meetings; a workshop with IEEE VIS (BioVis@VIS), and a SIG meeting with ISMB (BioVis@ISMB)
+              <br/><br/>
+
+              In 2017, BioVis will be primarily affiliated with ISMB (BioVis@ISMB) and but will also hold a workshop in at  with IEEE VIS (BioVis@VIS)
               </p>
 
 
             <div class="row ">
+              <a href="{{site.baseurl}}/ismb">
+              <div class="col s12 m6">
+                  <div class="row event center-align">
+                      <div class="col s12">
+                          <img src="{{ site.baseurl }}/images/logos/ismb.svg" width="40%">
+                      </div>
+
+                      <div class="col s12 event-details">
+                          <div class="event-name">ISMB 2017</div>
+                          <div class="event-subtitle">Main Conference Event</div>
+                          <div class="event-location">Prague, Czech Republic</div>
+                          <div class="event-date">July 21 2017</div>
+                      </div>
+                  </div>
+                </div>
+                </a>
+
                 <a href="{{site.baseurl}}/ieeevis">
-                <div class="col s12 m4">
+                <div class="col s12 m6">
                     <div class="row event center-align">
                       <div class="col s12">
                         <img src="{{ site.baseurl }}/images/logos/ieee.svg" width="40%">
                       </div>
                       <div class="col s12 event-details">
-                        <div class="event-name">IEEE VIS 2016</div>
+                        <div class="event-name">IEEE VIS 2017</div>
                         <div class="event-subtitle">Workshop</div>
-                        <div class="event-location">Baltimore, USA</div>
-                        <div class="event-date">October 23rd 2016</div>
+                        <div class="event-location">Phoenix, Arizona</div>
+                        <div class="event-date">September 29 2017</div>
                       </div>
                     </div>
                 </div>
                 </a>
 
-                <a href="{{site.baseurl}}/ismb">
-                <div class="col s12 m4">
-                    <div class="row event center-align">
-                        <div class="col s12">
-                            <img src="{{ site.baseurl }}/images/logos/ismb.svg" width="40%">
-                        </div>
-
-                        <div class="col s12 event-details">
-                            <div class="event-name">ISMB 2016</div>
-                            <div class="event-subtitle">SIG Meeting</div>
-                            <div class="event-location">Orlando, Florida</div>
-                            <div class="event-date">July 8th 2016</div>
-                        </div>
-                    </div>
-                  </div>
-                  </a>
-
+                 <!--
                   <a href="{{site.baseurl}}/dream">
                   <div class="col s12 m4">
                       <div class="row event center-align">
@@ -64,7 +67,7 @@ layout: home
                       </div>
                     </div>
                     </a>
-
+                  -->
                 </div>
 
                 <p class="hide-on-small-only">The BioVis meetings are intended to educate, inspire, and engage visualization
@@ -83,13 +86,7 @@ layout: home
                         <div class="col s12 m12 center-align">
                             <h4><i class="material-icons" style="font-size: .9em">date_range</i> Important Dates</h4>
                         </div>
-                          <div>
-                             <h4><a href="{{site.baseurl}}/ieeevis">BioVis@VIS</a></h4>
-                                <p><strong> Paper Submission Deadline:</strong> {{ site.IEEE_deadline_submission }} </p>
-                                <p><strong>Author Notification:</strong>{{ site.IEEE_deadline_notification }} </p>
-                                <p><strong> Camera Ready Submission:</strong>{{ site.IEEE_deadline_camera }} </p>
-                                <p><strong> VIS Poster Submission Deadline:</strong>{{ site.IEEE_deadline_poster }} </p>
-                          </div>
+                          <strong> TO BE ANNOUNCED </strong>
                     </div>
                 </div>
 
@@ -142,7 +139,7 @@ layout: home
                         <div class="col s12 m6">
 
                             <h4>Affiliates</h4>
-                            <p> BioVis 2016 is an official SIG of <a href="https://www.iscb.org/ismb2016"> ISMB 2016</a></p>
+                            <p> BioVis 2017 is an official part of <a href="https://www.iscb.org/ismb2017"> ISMB 2017</a></p>
                                 <a href="https://www.iscb.org">
                                     <img src="{{site.baseurl}}/images/sponsors/ISCB.jpg" alt="ISCB"/>
                                 </a>

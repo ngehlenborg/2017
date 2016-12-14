@@ -441,3 +441,8 @@ hr.style-eight:after {
    white-space: -o-pre-wrap;   /* Opera 7 */
    word-wrap: break-word;      /* IE */
 }
+
+.disabled {
+   pointer-events: none;
+   cursor: default;
+}

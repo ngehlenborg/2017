@@ -5,6 +5,8 @@ permalink: /previousYears/
 ---
 Previous BioVis Websites:
 
+2016: [Dual-Meeting (IEEEVIS/ISMB) Biological Data Visualization](http://biovis.net/2016)
+
 2015: [5th Symposium on Biological Data Visualization](http://biovis.github.io/year/2015/news.html)
 
 2014: [4th Symposium on Biological Data Visualization](http://biovis.github.io/year/2014/about.html)

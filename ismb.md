@@ -2,10 +2,10 @@
 layout: map_page
 logo: ismb.svg
 title: BioVis at ISMB (BioVis@ISMB)
-location: Orlando, Florida
-date: July 8th, 2016
-main_venue: ISMB 2016
-main_venue_url: http://www.iscb.org/ismb2016
+location: Prague, Czech Republic
+date: July 21st, 2017
+main_venue: ISMB 2017
+main_venue_url: http://www.iscb.org/ismb2017
 permalink: /ismb/
 ---
 <br>
@@ -25,7 +25,7 @@ permalink: /ismb/
     <div class="col m4 s12 event-page-menu-block">
      <i class="material-icons large">file_upload</i>
      <h3>Submission Info</h3>
-     <a class="btn waves-effect waves-light" href="{{site.baseurl}}/submission_ismb" type="submit" name="action">View Submission Info</a>
+     <a class="btn waves-effect waves-light disabled" href="{{site.baseurl}}/submission_ismb" type="submit" name="action">TBD</a>
     </div>
 
     <div class="col m4 s12 event-page-menu-block">
@@ -37,7 +37,7 @@ permalink: /ismb/
     <div class="col m4 s12 event-page-menu-block">
      <i class="material-icons large">list</i>
      <h3>Program</h3>
-     <a class="btn waves-effect waves-light" href="{{site.baseurl}}/program_ismb" type="submit" name="action">View Program Details</a>
+     <a class="btn waves-effect waves-light disabled" href="{{site.baseurl}}/program_ismb" type="submit" name="action">TBD</a>
     </div>
 </div>
 
@@ -48,11 +48,7 @@ permalink: /ismb/
 <div class="row left-align">    
       <div class="col s12 m6">
             <h4>Important Dates</h4>
-            <p><strong>Highlights and New Research Submission:</strong><br>
-            <emph>EXTENDED</emph> {{ site.ISMB_hl_and_nresearch_submission }}</p>
-            <p><strong>ISMB Poster Submission Deadline:</strong><br>{{ site.ISMB_deadline_poster }} </p>
-            <p><strong>Highlights, New Research and Poster Notification:</strong><br>
-            {{ site.ISMB_hl_and_nresearch_notiication }} </p>
+            <p> TO BE ANNOUNCED </p>
       </div>
 
 
