@@ -2,16 +2,6 @@
     <nav>
         <div class="nav-wrapper">
 
-            <ul id="vis" class="dropdown-content">
-                <li><a href="{{ site.baseurl }}/ieeevis">Overview</a></li>
-                <li class="divider">
-                <li><a href="{{ site.baseurl }}/cfp_vis" >Call for Participation</a></li>
-                <li><a href="{{ site.baseurl }}//papers_ieeevis_Accepted/" class="disabled" style="color: lightgrey;">Papers</a></li>
-                <li><a href="{{ site.baseurl }}/posters_ieeevis_Accepted/" class="disabled"style="color: lightgrey;">Posters</a></li>
-                <li><a href="{{ site.baseurl }}/designContest_vis" class="disabled" style="color: lightgrey;">Design Contest</a></li>
-                <li class="divider"></li>
-                <li><a href="{{site.baseurl}}/program_ieee" class="disabled" style="color: lightgrey;">Program</a></li>
-            </ul>
             <ul id="ismb" class="dropdown-content">
                 <li><a href="{{ site.baseurl }}/ismb">Overview</a></li>
                 <li class="divider"></li>
@@ -23,34 +13,34 @@
                 <!--<li><a href="{{ site.baseurl }}/posters_ismbAccepted">Accepted Posters</a></li>-->
             </ul>
 
+            <ul id="vis" class="dropdown-content">
+                <li><a href="{{ site.baseurl }}/ieeevis">@IEEE VIS</a></li>
+                <ul style="margin-left:20px;">
+                  <li><a href="{{ site.baseurl }}/cfp_vis">Call for Participation</a></li>
+                  <li><a href="{{ site.baseurl }}//papers_ieeevis_Accepted/" class="disabled" style="color:lightgrey;">Papers</a></li>
+                  <li><a href="{{site.baseurl}}/program_ieee" class="disabled" style="color: lightgrey;">Program</a></li>
+                </ul>
+                <li class="divider"></li>
+                <li><a href="{{site.baseurl}}/dream">@DREAM</a></li>
+            </ul>
+
+
             <a href="{{ site.baseurl }}/" class="brand-logo"><img src="{{ site.baseurl }}/images/logo-white.svg"
                                                                   width="150"/></a>
             <a href="#" data-activates="mobile" class="button-collapse"><i class="material-icons">menu</i></a>
             <ul class="right hide-on-med-and-down">
-                <li><a class="dropdown-button" href="#!" data-beloworigin="true" data-activates="vis">@IEEE VIS<i
-                        class="material-icons right">arrow_drop_down</i></a></li>
-                <li><a class="dropdown-button" href="#!" data-beloworigin="true" data-activates="ismb">@ISMB<i
+              <li><a class="dropdown-button" href="#!" data-beloworigin="true" data-activates="ismb">@ISMB<i
+                      class="material-icons right">arrow_drop_down</i></a></li>
+                <li><a class="dropdown-button" href="#!" data-beloworigin="true" data-activates="vis">Affiliated Events<i
                         class="material-icons right">arrow_drop_down</i></a></li>
                 <!--<li><a href="{{site.baseurl}}/dream">@DREAM</a></li>-->
 
-                <li><a href="{{ site.baseurl }}/committee.html">Committees</a></li>
+                <li><a href="{{ site.baseurl }}/committee.html">Committee</a></li>
                 <li><a href="{{ site.baseurl }}/previousYears/">Previous Years</a></li>
             </ul>
             <ul class="side-nav" id="mobile">
-                <li><a href="{{ site.baseurl }}/ieeevis/">@IEEE VIS 2016</a>
-                    <ul>
-                      <li><a href="{{ site.baseurl }}/ieeevis">Overview</a></li>
-                      <li class="divider">
-                      <li><a href="{{ site.baseurl }}/cfp_vis">Call for Participation</a></li>
-                      <li><a href="{{ site.baseurl }}//papers_ieeevis_Accepted/" class="disabled"style="color: lightgrey;">Papers</a></li>
-                      <li><a href="{{ site.baseurl }}/posters_ieeevis_Accepted/" class="disabled"style="color: lightgrey;">Posters</a></li>
-                      <li><a href="{{ site.baseurl }}/designContest_vis" class="disabled"style="color: lightgrey;">Design Contest</a></li>
-                      <li class="divider"></li>
-                      <li><a href="{{site.baseurl}}/program_ieee" class="disabled"style="color: lightgrey;">Program</a></li>
-                    </ul>
-                </li>
 
-                <li><a href="{{ site.baseurl }}/ismb/">@ISMB 2016</a>
+                <li><a href="{{ site.baseurl }}/ismb/">@ISMB 2017</a>
                     <ul>
                       <li><a href="{{ site.baseurl }}/ismb">Overview</a></li>
                       <li class="divider"></li>
@@ -61,6 +51,18 @@
                       <li><a href="{{ site.baseurl }}/program_ismb" class="disabled"style="color: lightgrey;">Program</a></li>
                     </ul>
                 </li>
+                <li><a href="{{ site.baseurl }}/ieeevis/">Affiliated Events</a>
+                    <ul>
+                      <li><a href="{{ site.baseurl }}/ieeevis">@IEEE VIS</a></li>
+                      <ul style="margin-left:20px;">
+                        <li><a href="{{ site.baseurl }}/cfp_vis" >Call for Participation</a></li>
+                        <li><a href="{{ site.baseurl }}//papers_ieeevis_Accepted/" class="disabled" style="color: lightgrey;">Papers</a></li>
+                        <li><a href="{{site.baseurl}}/program_ieee" class="disabled" style="color: lightgrey;">Program</a></li>
+                    </ul>
+                      <li class="divider"></li>
+                    </ul>
+                </li>
+
                 <li><a href="{{ site.baseurl }}/previousYears/">Previous Years</a></li>
             </ul>
         </div>

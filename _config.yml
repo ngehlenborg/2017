@@ -7,17 +7,34 @@ baseurl: "/2017"
 url: "http://biovis.net"
 conferenceshort: "BioVis 2017"
 IEEEconferencedate: "September 29th, 2017"
-ISMBconferencedate: "July 21st, 2016"
+ISMBconferencedate: "July 21st, 2017"
 
-IEEE_deadline_submission: "TBD"
-IEEE_deadline_notification: "TBD"
-IEEE_deadline_camera: "TBD"
-IEEE_deadline_poster: "TBD"
+# Old deadlines so I remember what they're called
+# When everything breaks
+#IEEE_deadline_submission: "TBD"
+#IEEE_deadline_notification: "TBD"
+#IEEE_deadline_camera: "TBD"
+#IEEE_deadline_poster: "TBD"
 
-ISMB_hl_and_nresearch_submission: "TBD"
-ISMB_deadline_poster: "TBD"
-ISMB_hl_and_nresearch_notiication: "TBD"
+#ISMB_hl_and_nresearch_submission: "TBD"
+#ISMB_deadline_poster: "TBD"
+#ISMB_hl_and_nresearch_notiication: "TBD"
 
+ismb_paper_submission_deadline: "January 26th 2017"
+ismb_paper_conditional_accept: "Februrary 28th 2017"
+ismb_paper_revised: "March 22nd 2017"
+ismb_paper_final_acceptance: "April 6th 2017"
+
+ismb_poster_submission_deadline: "May 15th 2017"
+ismb_poster_accept: "May 31st 2017"
+ismb_poster_oral_notification: "May 31st 2017"
+
+ismb_late_breaking_submission_deadline: "June 5th 2017"
+ismb_late_breaking_accept: "June 12th 2017"
+
+bmc_submission_deadline: "April 13th 2017"
+bmc_conditional_accept: "May 19th 2017"
+bmc_final_accpet: "TBD"
 
 # Build settings
 markdown: kramdown

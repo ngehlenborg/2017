@@ -3,19 +3,15 @@ layout: home
 ---
 <div class="row">
         <div class="home-info-container col s12">
-              <p>The BioVis meetings are intended to educate, inspire, and engage visualization researchers in problems in biological data visualization, as well as bioinformatics and biology researchers in state-of-the-art visualization research.</p>
+              <p style="text-align:left;padding-left:15px;">The BioVis meetings are intended to educate, inspire, and engage visualization researchers in problems in biological data visualization, as well as bioinformatics and biology researchers in state-of-the-art visualization research</p>
         </div>
 
         <div class="blue-section col s12">
         <div class="container">
-              <p class="hide-on-small-only">The BioVis Interest Group organizes the annual BioVis conference. In its first five years, these BioVis
-              conferences were organized as 2-day SIGs (Special Interest Groups) alternating each year between
-              <a href="http://ieeevis.org" target="_new">IEEE VIS</a> and <a href="https://www.iscb.org/about-ismb" target="_new">ISMB</a>.
-              <br/><br/>
+              <p class="hide-on-small-only">There a multiple ways to participate in BioVis through conferences and ongoing events. This year, the main BioVis event will be at <a href="https://www.iscb.org/about-ismb">ISMB</a> as a speical <em> Community of Special Interest</em> on {{ site.ISMBconferencedate}}, in Prauge (Czech Republic). A smaller workshop event will be event will be held at <a href="http://ieeevis.org" >IEEE VIS</a>  on {{site.IEEEconferencedate}} in Phoenix Arizona (USA). Throughout the year, BioVis will also be hosting a DREAM challenge event.
 
-              In 2017, BioVis will be primarily affiliated with ISMB (BioVis@ISMB) and but will also hold a workshop in at  with IEEE VIS (BioVis@VIS)
+              These events serve as a platform for researchers from biology, bioinformatics, and information visualization fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations. Get involved in our events at a conference or challenge (or all three!). Important dates for submissions are available below, and on the detailed pages for each event.
               </p>
-
 
             <div class="row ">
               <a href="{{site.baseurl}}/ismb">
@@ -35,21 +31,37 @@ layout: home
                 </div>
                 </a>
 
-                <a href="{{site.baseurl}}/ieeevis">
+
                 <div class="col s12 m6">
-                    <div class="row event center-align">
-                      <div class="col s12">
-                        <img src="{{ site.baseurl }}/images/logos/ieee.svg" width="40%">
-                      </div>
-                      <div class="col s12 event-details">
-                        <div class="event-name">IEEE VIS 2017</div>
-                        <div class="event-subtitle">Workshop</div>
-                        <div class="event-location">Phoenix, Arizona</div>
-                        <div class="event-date">September 29 2017</div>
+                <div class="row">
+                      <a href="{{site.baseurl}}/ieeevis">
+                        <div class="col s12 eventSplit center-align">
+                            <div class="col s6 center-align">
+                              <span class="helper"></span><img src="{{ site.baseurl }}/images/logos/ieee.svg" width="70%">
+                            </div>
+                          <div class="col s6 event-details">
+                            <div class="event-name" style="text-align:left;">IEEE VIS 2017</div>
+                            <div class="event-subtitle" style="text-align:left;">Workshop</div>
+                            <div class="event-location" style="text-align:left;">Phoenix, Arizona</div>
+                            <div class="event-date" style="text-align:left;">September 29 2017</div>
+                          </div>
+                        </div>
+                      </a>
+                  </div>
+                  <div class="row">
+                  <a href="{{site.baseurl}}/dream">
+                    <div class="col s12 eventSplit center-align">
+                        <div class="col s6 center-align">
+                          <span class="helper"></span><img src="{{ site.baseurl }}/images/logos/dream.svg" style="vertical-align: middle;" width="70%">
+                        </div>
+                      <div class="col s6 event-details">
+                      <div class="event-name" style="text-align:left;">DREAM 2016</div>
+                      <div class="event-subtitle" style="text-align:left;">SMC-RNA BioVis Data Visualization DREAM Challenge</div>
                       </div>
                     </div>
+                  </a>
+                  </div>
                 </div>
-                </a>
 
                  <!--
                   <a href="{{site.baseurl}}/dream">
@@ -69,14 +81,9 @@ layout: home
                     </a>
                   -->
                 </div>
-
-                <p class="hide-on-small-only">The BioVis meetings are intended to educate, inspire, and engage visualization
-                  researchers in problems in biological data visualization, as well as bioinformatics
-                  and biology researchers in state-of-the-art visualization research. The workshops
-                  serve as a platform for researchers from these fields to increase the impact
-                  of data visualization approaches in biology, and to initiate interdisciplinary
-                  collaborations.</p>
-
+                <!--
+                <p class="hide-on-small-only">The BioVis meetings are intended to educate, inspire, and engage visualization researchers in problems in biological data visualization, as well as bioinformatics and biology researchers in state-of-the-art visualization research. The workshops serve as a platform for researchers from these fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations.</p>
+                -->
                 </div>
                 </div>
 
@@ -86,8 +93,13 @@ layout: home
                         <div class="col s12 m12 center-align">
                             <h4><i class="material-icons" style="font-size: .9em">date_range</i> Important Dates</h4>
                         </div>
-                          <strong> TO BE ANNOUNCED </strong>
-                    </div>
+                        <p><strong>Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
+                        <p><strong>Paper Conditional Acceptance Notification:</strong> {{ site.ismb_paper_conditional_accept}}</p>
+                        <p><strong>Paper Revision Deadline:</strong> {{ site.ismb_paper_revised}}</p>
+                        <p><strong>Paper Final Acceptance Notification:</strong> {{ site.ismb_paper_final_acceptance }}</p>
+
+                        <p><strong>Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
+                        <p><strong>Late Breaking Research Deadline:</strong> {{ site.ismb_late_breaking_submission_deadline}}</p>            
                 </div>
 
                 <!-- ADDING A NEWS FEED -->
@@ -108,9 +120,9 @@ layout: home
 
                                        <span class="type {{category}}">
                                             {% if category == "ismb" %}
-                                                <a href="{{site.baseurl}}/ismb">@ISMB</a></h4>
+                                                <a href="{{site.baseurl}}/ismb">@ISMB</a>
                                             {% elsif category == "ieee" %}
-                                                <a href="{{site.baseurl}}/ieeevis">@IEEE</a></h4>
+                                                <a href="{{site.baseurl}}/ieeevis">@IEEE</a>
                                             {% elsif category == "dream" %}
                                                 <a href="{{site.baseurl}}/dataContest_dream">@DREAM</a>
                                             {% endif %}
@@ -140,12 +152,12 @@ layout: home
 
                             <h4>Affiliates</h4>
                             <p> BioVis 2017 is an official part of <a href="https://www.iscb.org/ismb2017"> ISMB 2017</a></p>
-                                <a href="https://www.iscb.org">
+                            <p>    <a href="https://www.iscb.org">
                                     <img src="{{site.baseurl}}/images/sponsors/ISCB.jpg" alt="ISCB"/>
                                 </a>
                              </p>
                              <br/>
-                             <p>
+
 
                              We also acknowledge the support of BMC:<br/>
 
@@ -154,7 +166,7 @@ layout: home
                                     in conjunction with BioVis 2014 and the
                              <a href="http://www.biomedcentral.com/bmcproc/supplements/8/S2">proceedings</a> in conjunction with BioVis 2013.
                              <br/>
-                             </p>
+
                         </div>
 <!--
                         <div class="col s12 m6">

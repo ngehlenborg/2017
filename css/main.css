@@ -87,6 +87,17 @@ nav a {
     min-height: 300px;
 }
 
+.eventSplit {
+    background-color: #21a186;
+    color: #2c3e50;
+    border-radius: 6px;
+    padding: 10px;
+    margin: 10px !important;
+    min-height: 140px;
+    min-width:150px;
+}
+
+
 .event:hover {
     background-color: #14a085;
 }
@@ -445,4 +456,11 @@ hr.style-eight:after {
 .disabled {
    pointer-events: none;
    cursor: default;
+}
+
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
 }

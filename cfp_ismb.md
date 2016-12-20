@@ -7,20 +7,48 @@ back_url: ismb
 ---
 <br>
 
+<!--
 <div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
 <h3> Additional details for BioVis@ISMB 2017 will be announced soon. In the meantime check out last year's event <a href="http://biovis.net/2016/ismb">BioVis@ISMB 2016</a> or our other event co-located with IEEE VIS  <a href="http://biovis.net/2016/ieeevis">BioVis@Vis 2016</a></h3>
 </div>
+-->
 
-### Submission
+### Submission Information
 
-*DETAILS TO BE ANNOUNCED*
+We are now accepting paper submissions for BioVis@ISMB. The submissions deadline is **{{ site.ismb_paper_submission_deadline }}**.
 
 ### Location and Registration
 BioVis will be co-located with [ISMB 2017](https://www.iscb.org/ismbeccb2017) and will be taking in Prague (Czech Republic). The main ISMB 2017 conference will run from July 21 through July 25.
 
 ### Key Dates
 
-*TO BE ANNOUNCED*
+**Deadlines and Notifications for <u>Papers</u>**
+
+Submission Deadline :  {{ site.ismb_paper_submission_deadline }}
+
+Conditional Acceptance Notification: {{ site.ismb_paper_conditional_accept}}
+
+Revision Deadline: {{ site.ismb_paper_revised}}
+
+Final Acceptance Notification: {{ site.ismb_paper_final_acceptance }}
+
+<br>
+
+**Deadlines and Notifications for <u>Posters</u>**
+
+Submission Deadline: {{ site.ismb_poster_submission_deadline }}
+
+Acceptance Notification: {{ site.ismb_poster_accept }}
+
+Oral Presentation Notification: {{ site.ismb_poster_oral_notification }}
+
+<br>
+
+**Deadlines and Notifications for <u>Late Breaking Research</u>**
+
+Submission Deadline: {{site.ismb_late_breaking_submission_deadline}}
+
+Acceptance Notification: {{site.ismb_late_breaking_accept}}
 
 ### Topics of Interest
 

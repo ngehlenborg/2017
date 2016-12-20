@@ -10,10 +10,10 @@ permalink: /ismb/
 ---
 <br>
 
-<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<!--<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
 <h3> Additional details for BioVis@ISMB 2017 will be announced soon. In the meantime check out last year's event <a href="http://biovis.net/2016/ismb">BioVis@ISMB 2016</a> or our other event co-located with IEEE VIS  <a href="http://biovis.net/2016/ieeevis">BioVis@Vis 2016</a></h3>
 </div>
-
+-->
 <div class="row center-align">
     <div class="col m4 s12 event-page-menu-block">
      <i class="material-icons large">people</i>
@@ -48,7 +48,11 @@ permalink: /ismb/
 <div class="row left-align">    
       <div class="col s12 m6">
             <h4>Important Dates</h4>
-            <p> TO BE ANNOUNCED </p>
+            <p><strong>Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
+            <p><strong>Paper Conditional Acceptance Notification:</strong> {{ site.ismb_paper_conditional_accept}}</p>
+            <p><strong>Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
+            <p><strong>Late Breaking Research Deadline:</strong> {{ site.ismb_late_breaking_submission_deadline}}</p>  
+
       </div>
 
 
