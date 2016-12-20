@@ -6,6 +6,7 @@ baseurl: "/2017"
 #url: "http://biovis.github.io/biovis_2016"
 url: "http://biovis.net"
 conferenceshort: "BioVis 2017"
+eventNum: "7th"
 IEEEconferencedate: "September 29th, 2017"
 ISMBconferencedate: "July 21st, 2017"
 
