@@ -13,16 +13,28 @@ back_url: ismb
 </div>
 -->
 
+### Location and Registration
+BioVis will be co-located with [ISMB 2017](https://www.iscb.org/ismbeccb2017) and will be taking in Prague (Czech Republic). The main ISMB 2017 conference will run from July 21 through July 25.
+
+Early registration is **June 15th 2017** and online registration will close **June 29th 2017**
+
+
 ### Submission Information
 
 We are now accepting paper submissions for BioVis@ISMB. The submissions deadline is **{{ site.ismb_paper_submission_deadline }}**.
 
-### Location and Registration
-BioVis will be co-located with [ISMB 2017](https://www.iscb.org/ismbeccb2017) and will be taking in Prague (Czech Republic). The main ISMB 2017 conference will run from July 21 through July 25.
+### Submissions types
+
+There are 3 types of submissions:
+[1] ISMB Proceedings: papers to go into Bioinformatics, and presented as talks
+
+[2] BioVis Proceedings: papers expected to go into BMC Bioinformatics, a selection of which will be selected for talks
+
+[3] Posters, a selection of which will be selected for short talks
 
 ### Key Dates
 
-**Deadlines and Notifications for <u>Papers</u>**
+**Deadlines and Notifications for <u>ISMB Proceedings</u>**
 
 Submission Deadline :  {{ site.ismb_paper_submission_deadline }}
 
@@ -31,6 +43,17 @@ Conditional Acceptance Notification: {{ site.ismb_paper_conditional_accept}}
 Revision Deadline: {{ site.ismb_paper_revised}}
 
 Final Acceptance Notification: {{ site.ismb_paper_final_acceptance }}
+
+
+**Deadlines and Notifications for <u>BioVis Proceedings</u>**
+
+Submission Deadline :  April 13th 2017
+
+Conditional Acceptance Notification: May 10th 2017
+
+Revision Deadline: TBD
+
+Final Acceptance Notification: TBD
 
 <br>
 
@@ -44,11 +67,13 @@ Oral Presentation Notification: {{ site.ismb_poster_oral_notification }}
 
 <br>
 
+<!--
 **Deadlines and Notifications for <u>Late Breaking Research</u>**
 
 Submission Deadline: {{site.ismb_late_breaking_submission_deadline}}
 
 Acceptance Notification: {{site.ismb_late_breaking_accept}}
+-->
 
 ### Topics of Interest
 
