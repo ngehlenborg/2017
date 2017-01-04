@@ -14,9 +14,7 @@ back_url: ismb
 -->
 
 ### Location and Registration
-BioVis will be co-located with [ISMB 2017](https://www.iscb.org/ismbeccb2017) and will be taking in Prague (Czech Republic). The main ISMB 2017 conference will run from July 21 through July 25.
-
-Early registration is **June 15th 2017** and online registration will close **June 29th 2017**
+BioVis will be co-located with [ISMB 2017](https://www.iscb.org/ismbeccb2017) and will be taking in Prague (Czech Republic). The main ISMB 2017 conference will run from July 21 through July 25. Early registration is **June 15th 2017** and online registration will close **June 29th 2017**
 
 
 ### Submission Information
@@ -44,6 +42,7 @@ Revision Deadline: {{ site.ismb_paper_revised}}
 
 Final Acceptance Notification: {{ site.ismb_paper_final_acceptance }}
 
+<br>
 
 **Deadlines and Notifications for <u>BioVis Proceedings</u>**
 
