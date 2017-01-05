@@ -2,9 +2,13 @@
 layout: home
 ---
 <div class="row">
-        <div class="home-info-container col s12">
-              <p style="text-align:left;padding-left:15px;">The BioVis meetings are intended to educate, inspire, and engage visualization researchers in problems in biological data visualization, as well as bioinformatics and biology researchers in state-of-the-art visualization research</p>
+        <div class="home-info-section col s12">
+              <p style="color: white;">The BioVis meetings are intended to educate, inspire, and engage visualization researchers in problems in biological data visualization, as well as bioinformatics and biology researchers in state-of-the-art visualization research</p>
         </div>
+
+        <div class="home-info-container col s12">
+        </div>
+
 
         <div class="blue-section col s12">
         <div class="container">
