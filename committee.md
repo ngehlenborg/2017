@@ -21,7 +21,7 @@ menu: main
 [Hector Corrado Bravo](http://www.hcbravo.org), University of Maryland, USA
 
 ### Website chairs
-[Anamaria Crisan](http://www.cs.ubc.ca/~acrisan/), University of British Columbia, Canada
+[Anamaria Crisan](http://www.cs.ubc.ca/~acrisan/), University of British Columbia, Canada<br />
 [Sangya Pundir](https://www.ebi.ac.uk/about/people/sangya-pundir), EMBL-EBI, UK
 
 ### Publicity chairs
