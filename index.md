@@ -12,7 +12,7 @@ layout: home
 
         <div class="blue-section col s12">
         <div class="container">
-              <p class="hide-on-small-only">There a multiple ways to participate in BioVis through conferences and ongoing events. This year, the main BioVis event will be at <a href="https://www.iscb.org/about-ismb">ISMB</a> as a speical <em> Community of Special Interest</em> on {{ site.ISMBconferencedate}}, in Prauge (Czech Republic). A smaller workshop event will be event will be held at <a href="http://ieeevis.org" >IEEE VIS</a>  on {{site.IEEEconferencedate}} in Phoenix Arizona (USA). Throughout the year, BioVis will also be hosting a DREAM challenge event.
+              <p class="hide-on-small-only">There a multiple ways to participate in BioVis through conferences and ongoing events. This year, the main BioVis event will be at <a href="https://www.iscb.org/about-ismb">ISMB</a> as a <em> Community of Special Interest (COSI)</em> on {{ site.ISMBconferencedate}}, in Prauge (Czech Republic). A smaller workshop event will be event will be held at <a href="http://ieeevis.org" >IEEE VIS</a>  on {{site.IEEEconferencedate}} in Phoenix Arizona (USA). Throughout the year, BioVis will also be hosting a DREAM challenge event.
 
               These events serve as a platform for researchers from biology, bioinformatics, and information visualization fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations. Get involved in our events at a conference or challenge (or all three!). Important dates for submissions are available below, and on the detailed pages for each event.
               </p>
