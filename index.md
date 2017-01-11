@@ -29,7 +29,7 @@ layout: home
                           <div class="event-name">ISMB 2017</div>
                           <div class="event-subtitle">Main Conference Event</div>
                           <div class="event-location">Prague, Czech Republic</div>
-                          <div class="event-date">July 21 2017</div>
+                          <div class="event-date">July 24 2017</div>
                       </div>
                   </div>
                 </div>
