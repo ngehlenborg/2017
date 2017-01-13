@@ -67,7 +67,7 @@ There are several possibilities to contribute to the program of BioVis:
 
 Novel, unpublished work can be submitted as a paper to the ISMB Proceedings. If accepted, manuscripts will be published in the [OUP Journal Bioinformatics](http://bioinformatics.oxfordjournals.org/). Authors of accepted papers will be required to present their work at the symposium in a talk. Authors of rejected papers will be invited to submit to the BioVis Proceedings track or to submit a poster. When re-submitting to the BioVis Proceedings track, we will use a fast-track review and consider the reviews from the prior submission and review the changes the authors made.
 
-##### ISMB PROCEEDINGS SUBMISSION GUIDELINES
+#### ISMB Proceedings Submission Guidelines
 
 Authors are required to submit a full paper by January 26, 2017 at the [BioVis submission page](https://easychair.org/conferences/?conf=biovis2017).
 
@@ -78,7 +78,7 @@ Papers must adhere to the [ISMB Submission Guidelines](https://www.iscb.org/ismb
 
 Novel, unpublished work can be submitted as a paper to the BioVis Proceedings. Submissions should not exceed 12 pages, and - if accepted - will be published in [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/). If accepted, an open-access publishing fee, according to BMC’s fee structure will apply. Authors of accepted papers will be required to present their work at the symposium in a talk. Authors of rejected papers will be invited to submit a poster.
 
-##### BIOVIS PROCEEDINGS SUBMISSION GUIDELINES
+#### BioVis Proceedings Submission Guidelines
 
 Authors are required to submit a full paper by April 13, 2017 at the [BioVis submission page](https://easychair.org/conferences/?conf=biovis2017). Paper submissions can include full-color figures throughout. We encourage the use of digital video to enhance paper submissions, particularly if part or all of the work addresses interactive techniques. Submission of working code and other supplemental material in order to increase the reproducibility of the work is also encouraged.
 
@@ -94,7 +94,7 @@ Submission should be 8-12 pages long in the two-column format provided above.
 
 Participants are encouraged to submit abstracts describing their recently published work related to biological data visualization.  Highlight submissions will be reviewed by the chairs and by external reviewers. If accepted, participants are required to present their work in a talk at the symposium.
 
-##### HIGHLIGHT TALKS SUBMISSION GUIDELINES
+#### Highlight Talks Submission Guidelines
 
 Authors are required to submit a short abstract (250 words)  by May 15, 2017. Summaries should include a concise description of the work and may include descriptive figures. The previously published paper must be submitted along with the summary.
 
@@ -102,7 +102,7 @@ Authors are required to submit a short abstract (250 words)  by May 15, 2017. Su
 
 We invite participants to submit work in progress and preliminary results, previously published work from other venues, or visualization challenges to be presented as a poster. A selection of these will be invited to give a short talk during the conference.
 
-##### POSTERS SUBMISSION GUIDELINES
+#### Poster Submission Guidelines
 
 Authors are required to submit a short abstract (250 words) and a supporting figure  by May 15, 2017. Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or results from previously published work at other venues relevant for the BioVis community. If the submission is based on previous work, the published paper must be submitted along with the summary.
 
@@ -136,26 +136,26 @@ Poster and highlights submissions will be reviewed for relevance and interest to
 
 All deadlines are at 23:59 (11:59pm) Pacific time zone.
 
-##### Deadlines and Notifications for ISMB Proceedings
+#### Deadlines and Notifications for ISMB Proceedings
 
 Submission Deadline : January 26, 2017  
 Conditional Acceptance Notification: February 28, 2017  
 Revision Deadline: March 22, 2017  
 Final Acceptance Notification: April 6, 2017  
 
-##### Deadlines and Notifications for BioVis Proceedings
+#### Deadlines and Notifications for BioVis Proceedings
 
 Submission Deadline : April 13, 2017  
 Conditional Acceptance Notification: May 10, 2017  
 Revision Deadline: May 31, 2017
 Final Acceptance Notification: June 12, 2017  
 
-##### Deadlines and Notifications for Abstracts / Talks
+#### Deadlines and Notifications for Abstracts / Talks
 
 Submission Deadline: May 15, 2017
 Acceptance Notification: May 31, 2017
 
-##### Deadlines and Notifications for Posters
+#### Deadlines and Notifications for Posters
 
 Submission Deadline: May 15, 2017
 Acceptance Notification: May 31, 2017
