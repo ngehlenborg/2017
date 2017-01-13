@@ -31,7 +31,7 @@ The BioVis Interest Group organizes the interdisciplinary event BioVis, covering
 We invite submissions of original research articles as well as poster submissions.
 
 <br>
-<h3 id="scope">Symposium Format</h3>
+<h3 id="format">Symposium Format</h3>
 ---
 
 The symposium will be a one-day single-track event at [ISMB](https://www.iscb.org/ismbeccb2017). The event will feature keynote and invited talks, paper sessions, highlight talks, and posters/demos. Primers acting as tutorial introductions to visualization topics will be provided.
