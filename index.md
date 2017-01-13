@@ -97,13 +97,10 @@ layout: home
                         <div class="col s12 m12 center-align">
                             <h4><i class="material-icons" style="font-size: .9em">date_range</i> Important Dates</h4>
                         </div>
-                        <p><strong>Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
-                        <p><strong>Paper Conditional Acceptance Notification:</strong> {{ site.ismb_paper_conditional_accept}}</p>
-                        <p><strong>Paper Revision Deadline:</strong> {{ site.ismb_paper_revised}}</p>
-                        <p><strong>Paper Final Acceptance Notification:</strong> {{ site.ismb_paper_final_acceptance }}</p>
-
-                        <p><strong>Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
-                        <p><strong>Late Breaking Research Deadline:</strong> {{ site.ismb_late_breaking_submission_deadline}}</p>            
+                        <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
+                        <p><strong>BioVis Proceedings Paper Submission Deadline (presented at ISMB):</strong> {{ site.biovis_paper_submission_deadline}}</p>
+                        <p><strong>BioVis@ISMB Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
+                        <p><strong>BioVis@ISMB Highlight Talks Submission Deadline:</strong> {{ site.ismb_highlights_submission_deadline}}</p>            
                 </div>
 
                 <!-- ADDING A NEWS FEED -->
