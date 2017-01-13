@@ -21,21 +21,24 @@ ISMBconferencedate: "July 24th, 2017"
 #ISMB_deadline_poster: "TBD"
 #ISMB_hl_and_nresearch_notiication: "TBD"
 
-ismb_paper_submission_deadline: "January 26th 2017"
-ismb_paper_conditional_accept: "Februrary 28th 2017"
-ismb_paper_revised: "March 22nd 2017"
-ismb_paper_final_acceptance: "April 6th 2017"
+ismb_paper_submission_deadline: "January 26, 2017"
+ismb_paper_conditional_accept: "Februrary 28, 2017"
+ismb_paper_revised: "March 22, 2017"
+ismb_paper_final_acceptance: "April 6, 2017"
 
-ismb_poster_submission_deadline: "May 15th 2017"
-ismb_poster_accept: "May 31st 2017"
-ismb_poster_oral_notification: "May 31st 2017"
+biovis_paper_submission_deadline: "April 13, 2017"
 
-ismb_late_breaking_submission_deadline: "June 5th 2017"
-ismb_late_breaking_accept: "June 12th 2017"
 
-bmc_submission_deadline: "April 13th 2017"
-bmc_conditional_accept: "May 19th 2017"
-bmc_final_accpet: "TBD"
+ismb_poster_submission_deadline: "May 15, 2017"
+ismb_poster_accept: "May 31, 2017"
+ismb_poster_oral_notification: "May 31, 2017"
+
+ismb_highlights_submission_deadline: "May 15, 2017"
+ismb_late_breaking_accept: "May 31, 2017"
+
+bmc_submission_deadline: ""
+bmc_conditional_accept: ""
+bmc_final_accpet: ""
 
 # Build settings
 markdown: kramdown

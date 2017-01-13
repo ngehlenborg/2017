@@ -147,18 +147,18 @@ Final Acceptance Notification: April 6, 2017
 
 Submission Deadline : April 13, 2017  
 Conditional Acceptance Notification: May 10, 2017  
-Revision Deadline: May 31, 2017
-Final Acceptance Notification: June 12, 2017  
+Revision Deadline: May 31, 2017  
+Final Acceptance Notification: June 12, 2017    
 
 #### Deadlines and Notifications for Abstracts / Talks
 
-Submission Deadline: May 15, 2017
-Acceptance Notification: May 31, 2017
+Submission Deadline: May 15, 2017  
+Acceptance Notification: May 31, 2017  
 
 #### Deadlines and Notifications for Posters
 
-Submission Deadline: May 15, 2017
-Acceptance Notification: May 31, 2017
+Submission Deadline: May 15, 2017  
+Acceptance Notification: May 31, 2017  
 
 <br>
 <h3 id="awards">Awards</h3>

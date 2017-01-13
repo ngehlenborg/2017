@@ -48,10 +48,10 @@ permalink: /ismb/
 <div class="row left-align">    
       <div class="col s12 m6">
             <h4>Important Dates</h4>
-            <p><strong>Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
-            <p><strong>Paper Conditional Acceptance Notification:</strong> {{ site.ismb_paper_conditional_accept}}</p>
+            <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
+            <p><strong>BioVis Proceedings Paper Submission Deadline:</strong>  {{ site.biovis_paper_submission_deadline }}</p>
             <p><strong>Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
-            <p><strong>Late Breaking Research Deadline:</strong> {{ site.ismb_late_breaking_submission_deadline}}</p>  
+            <p><strong>Highlight Talks Submission Dedaline:</strong> {{ site.ismb_highlights_submission_deadline}}</p>  
 
       </div>
 
