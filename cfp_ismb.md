@@ -69,7 +69,7 @@ Novel, unpublished work can be submitted as a paper to the ISMB Proceedings. If 
 
 #### ISMB Proceedings Submission Guidelines
 
-Authors are required to submit a full paper by January 26, 2017 at the [BioVis submission page](https://easychair.org/conferences/?conf=biovis2017).
+Authors are required to submit a full paper by January 26, 2017 at the [BioVis submission page](https://www.iscb.org/ismbeccb2017/2929).
 
 Papers must adhere to the [ISMB Submission Guidelines](https://www.iscb.org/ismbeccb2017/2929).
 
