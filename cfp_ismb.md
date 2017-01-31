@@ -112,7 +112,7 @@ Poster preparation instructions will be e-mailed to authors of accepted submissi
 <h3 id="ethics">Submission Policies and Ethics Guidelines</h3>
 ---
 
-At least one author of an accepted submission must attend the event to present the work. To avoid potential conflicts of interest when assigning reviewers, the complete list of authors must to be provided when submitting your manuscript, poster abstract, or highlight. For all papers submissions (either ISMB or BioVis proceedings), **submissions are double-blind**, i.e., you must anonymize your submission. The list of authors will not be communicated to the reviewers. Adding additional authors after the submission deadline will not be permitted.
+At least one author of an accepted submission must attend the event to present the work. To avoid potential conflicts of interest when assigning reviewers, the complete list of authors must to be provided when submitting your manuscript, poster abstract, or highlight. Papers submissions (either ISMB or BioVis proceedings) can be submitted double-blind, i.e., you can anonymize your submission if desired. The list of authors will not be communicated to the reviewers. Adding additional authors after the submission deadline will not be permitted.
 
 Poster and highlights submissions are single-blind.
 
