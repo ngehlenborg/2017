@@ -121,11 +121,11 @@ layout: home
 
                                        <span class="type {{category}}">
                                             {% if category == "ismb" %}
-                                                <a href="{{site.baseurl}}/ismb">@ISMB</a>
+                                                <a href="{{site.baseurl}}/ismb">@ ISMB</a>
                                             {% elsif category == "ieee" %}
-                                                <a href="{{site.baseurl}}/ieeevis">@IEEE</a>
+                                                <a href="{{site.baseurl}}/ieeevis">@ IEEE</a>
                                             {% elsif category == "dream" %}
-                                                <a href="{{site.baseurl}}/dataContest_dream">@DREAM</a>
+                                                <a href="{{site.baseurl}}/dataContest_dream">@ DREAM</a>
                                             {% endif %}
                                         </span>
 
