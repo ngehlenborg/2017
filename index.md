@@ -47,7 +47,7 @@ layout: home
                             <div class="event-name" style="text-align:left;">IEEE VIS 2017</div>
                             <div class="event-subtitle" style="text-align:left;">Workshop</div>
                             <div class="event-location" style="text-align:left;">Phoenix, Arizona</div>
-                            <div class="event-date" style="text-align:left;">September 29 2017</div>
+                            <div class="event-date" style="text-align:left;">October 2nd 2017</div>
                           </div>
                         </div>
                       </a>
