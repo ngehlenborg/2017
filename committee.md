@@ -14,9 +14,6 @@ menu: main
 ### Poster chair
 [Julian Heinrich](http://www.joules.de), CSIRO, Australia
 
-### Invited talks chair
-[Thomas Abeel](http://prb.tudelft.nl/users/thomas-abeel), Delft University of Technology, The Netherlands
-
 ### Industry and fundraising chair
 [Hector Corrado Bravo](http://www.hcbravo.org), University of Maryland, USA
 

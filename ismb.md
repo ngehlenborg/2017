@@ -25,7 +25,7 @@ permalink: /ismb/
     <div class="col m4 s12 event-page-menu-block">
      <i class="material-icons large">file_upload</i>
      <h3>Submission Info</h3>
-     <a class="btn waves-effect waves-light disabled" href="{{site.baseurl}}/submission_ismb" type="submit" name="action">TBD</a>
+     <a class="btn waves-effect waves-light" href="{{site.baseurl}}/cfp_ismb/#subType" type="submit" name="action">View Submission Info </a>
     </div>
 
     <div class="col m4 s12 event-page-menu-block">
