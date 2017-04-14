@@ -74,7 +74,7 @@ Authors are required to submit a full paper by January 26, 2017 at the [BioVis s
 Papers must adhere to the [ISMB Submission Guidelines](https://www.iscb.org/ismbeccb2017/2929).
 
 
-### 2. BioVis Proceedings - *Submission Deadline:  April 13th, 2017*
+### 2. BioVis Proceedings - *Updated Submission Deadline:  **April 20th, 2017***
 
 Novel, unpublished work can be submitted as a paper to the BioVis Proceedings. Submissions should not exceed 12 pages, and - if accepted - will be published in [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/). If accepted, an open-access publishing fee, according to BMC’s fee structure will apply. Authors of accepted papers will be required to present their work at the symposium in a talk. Authors of rejected papers will be invited to submit a poster.
 
