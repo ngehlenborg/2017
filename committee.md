@@ -37,4 +37,35 @@ menu: main
 
 
 ### Program Committee
-*To be announced*
+
+Bilal  Alsallakh, Robert Bosch Research and Technology Center, USA
+
+Greg Carter, The Jackson Laboratory, USA
+
+Nils Gehlenborg, Harvard Medical School, USA
+
+Joel Graber, The Jackson Laboratory, USA
+
+Michael Krone, University of Stuttgart, Germany
+
+Miriah Meyer, University of Utah, USA
+
+Torsten M&#246;ller, University of Vienna, Austria
+
+Kay Nieselt, University of T&#252;bingen, Germany
+
+Timo Ropinski, Ulm University, Germany
+
+Lydia M&#252;ller, University of Leipzig, Germany
+
+Alistair  Ward, University of Utah, USA
+
+Chris Bartlett, The Research Institute at Nationwide Children's Hospital, USA
+
+Jian Chen, University of Maryland BC, USA
+
+Daniel Weiskopf, University of Stuttgart, Germany
+
+Terry Yoo, NIH, USA
+
+Scooter Morris, UCSF, USA

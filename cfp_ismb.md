@@ -145,7 +145,7 @@ Final Acceptance Notification: April 6, 2017
 
 #### Deadlines and Notifications for BioVis Proceedings
 
-Submission Deadline : April 13, 2017  
+Submission Deadline : April 20, 2017  
 Conditional Acceptance Notification: May 10, 2017  
 Revision Deadline: May 31, 2017  
 Final Acceptance Notification: June 12, 2017    
