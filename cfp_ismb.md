@@ -104,7 +104,9 @@ We invite participants to submit work in progress and preliminary results, previ
 
 #### Poster Submission Guidelines
 
-Authors are required to submit a short abstract (250 words) and a supporting figure  by May 15, 2017. Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or results from previously published work at other venues relevant for the BioVis community. If the submission is based on previous work, the published paper must be submitted along with the summary.
+Authors are required to submit a short abstract (250 words) and a supporting figure by May 15, 2017 at the [ISMB Poster submission site](https://easychair.org/conferences/?conf=ismbposters2017). 
+
+Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or results from previously published work at other venues relevant for the BioVis community. If the submission is based on previous work, the published paper must be submitted along with the summary.
 
 Poster preparation instructions will be e-mailed to authors of accepted submissions.
 
