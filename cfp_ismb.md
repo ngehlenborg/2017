@@ -92,11 +92,11 @@ Submission should be 8-12 pages long in the two-column format provided above.
 
 ### 3. Highlight Talks - *Submission Deadline: May 15, 2017*
 
-Participants are encouraged to submit abstracts describing their recently published work related to biological data visualization by May 15, 2017 at the [BioVis submission page](https://easychair.org/conferences/?conf=biovis2017). Highlight submissions will be reviewed by the chairs and by external reviewers. If accepted, participants are required to present their work in a talk at the symposium.
+Participants are encouraged to submit abstracts describing their recently published work related to biological data visualization. Highlight submissions will be reviewed by the chairs and by external reviewers. If accepted, participants are required to present their work in a talk at the symposium.
 
 #### Highlight Talks Submission Guidelines
 
-Authors are required to submit a short abstract (250 words)  by May 15, 2017. Summaries should include a concise description of the work and may include descriptive figures. The previously published paper must be submitted along with the summary.
+Authors are required to submit a short abstract (250 words)  by May 15, 2017 at the [BioVis submission page](https://easychair.org/conferences/?conf=biovis2017). Summaries should include a concise description of the work and may include descriptive figures. The previously published paper must be submitted along with the summary.
 
 ### 4. Posters - *Submission Deadline: May 15, 2017*
 
