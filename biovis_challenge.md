@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Design Contest (BioVis@Vis)
-permalink: /designContest_vis/
+title: BioVis Challenges (BioVis@Vis)
+permalink: /biovisChallenges_vis/
 back_title: IEEE VIS 2017
 back_url: ieeevis
 ---

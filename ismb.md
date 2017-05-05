@@ -4,8 +4,9 @@ logo: ismb.svg
 title: BioVis at ISMB (BioVis@ISMB)
 location: Prague, Czech Republic
 date: July 24th 2017
+main_venue_rln: Co-located
 main_venue: ISMB 2017
-main_venue_url: http://www.iscb.org/ismb2017
+main_venue_url: https://www.iscb.org/ismbeccb2017
 permalink: /ismb/
 ---
 <br>
