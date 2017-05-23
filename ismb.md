@@ -51,7 +51,7 @@ permalink: /ismb/
             <h4>Important Dates</h4>
             <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
             <p><strong>BioVis Proceedings Paper Submission Deadline:</strong>  {{ site.biovis_paper_submission_deadline }}</p>
-            <p><strong>Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
+            <p><strong>Poster Submission Deadline Extended to:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
             <p><strong>Highlight Talks Submission Dedaline:</strong> {{ site.ismb_highlights_submission_deadline}}</p>  
 
       </div>
