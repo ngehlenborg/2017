@@ -98,13 +98,13 @@ Participants are encouraged to submit abstracts describing their recently publis
 
 Authors are required to submit a short abstract (250 words)  by May 15, 2017 at the [BioVis submission page](https://easychair.org/conferences/?conf=biovis2017). Summaries should include a concise description of the work and may include descriptive figures. The previously published paper must be submitted along with the summary.
 
-### 4. Posters - *Submission Deadline Extended To: June 5, 2017*
+### 4. Posters - *Late Submission Deadline: June 5, 2017*
 
 We invite participants to submit work in progress and preliminary results, previously published work from other venues, or visualization challenges to be presented as a poster. A selection of these will be invited to give a short talk during the conference. There will also be a best poster award.
 
 #### Poster Submission Guidelines
 
-Authors are required to submit a short abstract (250 words) and a supporting figure by the extended deadline of June 5, 2017 at the [ISMB Poster submission site](https://easychair.org/conferences/?conf=ismbposters2017). There is a $50 submission fee for submitters who are not members of ISCB. The first 30 poster submissions before May 15 will be reimbursed by BioVis.
+Authors are required to submit a short abstract (250 words) and a supporting figure by the extended deadline of June 5, 2017 at the [ISMB Poster submission site](https://easychair.org/conferences/?conf=ismbposters2017). There is a $100 submission fee for submitters who are not members of ISCB. The first 30 poster submissions before May 15 will be reimbursed by BioVis.
 
 Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or results from previously published work at other venues relevant for the BioVis community. If the submission is based on previous work, the published paper must be submitted along with the summary.
 
