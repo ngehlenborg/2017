@@ -99,7 +99,7 @@ layout: home
                         </div>
                         <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
                         <p><strong>BioVis Proceedings Paper Submission Deadline (presented at ISMB):</strong> {{ site.biovis_paper_submission_deadline}}</p>
-                        <p><strong>BioVis @ ISMB Poster Submission Deadline Extended To:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
+                        <p><strong>BioVis @ ISMB Poster Late Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
                         <p><strong>BioVis @ ISMB Highlight Talks Submission Deadline:</strong> {{ site.ismb_highlights_submission_deadline}}</p>            
                 </div>
 
