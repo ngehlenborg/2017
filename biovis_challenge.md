@@ -28,7 +28,13 @@ Within this domain, there are already a multitude of well-known challenges, such
 
 The workshop will focus on particular challenges in this broad context of **Cancer Genomics Data Analysis**, and will characterize the subproblems in-depth to set the scope for further visualisation research.
 
-**Speakers:** We are in the process of finalising our speakers, and will be providing further preliminary material and guidance here to help participants prepare for the workshop.
+#### Speakers
+
+Jeremy Warner, Center for Precision Medicine, Vanderbilt University
+
+Talk title: TBD
+
+Note: We are in the process of finalising further speakers, and will be providing further preliminary material and guidance here to help participants prepare for the workshop.
 
 ### Expression of Interest and staying up-to-date
 In order to state your interest in the workshop and stay up-to-date about the details of the event, please register your interest through the following form:
