@@ -43,7 +43,7 @@ back_url: ismb
 <div>
     <div class="sumTime2" style="font-size:15px;color:#21a186;">10:15 - 11:00</div>
     <div>
-        <div class="sumContent" style="font-size:15px;color:#21a186;">Invited Talk</div>
+        <div class="sumContent" style="font-size:15px;color:#21a186;">Keynote</div>
         <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;">Visual analytics for spatial transcriptomics: from single cell to tissue and back</div>
           <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> Boudewijn Lelieveld</b>, Leiden University Medical Center, Netherlands</i>
           </div>
@@ -80,7 +80,7 @@ back_url: ismb
 <div>
     <div class="sumTime2" style="font-size:15px;color:#21a186;">14:00 - 14:45</div>
     <div>
-        <div class="sumContent" style="font-size:15px;color:#21a186;">Invited Talk</div>
+        <div class="sumContent" style="font-size:15px;color:#21a186;">Keynote</div>
         <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;">Just a tool, or a science? The role of visualization in biology</div>
           <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> Miriah Meyer </b>, University of Utah, USA</i>
           </div>
