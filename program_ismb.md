@@ -13,7 +13,7 @@ back_url: ismb
 
 ### Program
 
-<em>**BioVis will take place in [Hall A](https://www.iscb.org/cms_addon/conferences/ismbeccb2017/schedule/scheduleOverview.php) at the Prague Congress Centre**</em>
+<em>**BioVis will take place in [Hall 4](https://www.iscb.org/cms_addon/conferences/ismbeccb2017/biovis.php) at the Prague Congress Centre**</em>
 <br>
 <br>
 
