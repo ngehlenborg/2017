@@ -13,7 +13,9 @@ back_url: ismb
 
 ### Program
 
-**[Location information](https://www.iscb.org/cms_addon/conferences/ismbeccb2017/schedule/scheduleOverview.php) is yet to be released by ISMB**
+<em>**BioVis will take place in [Hall A](https://www.iscb.org/cms_addon/conferences/ismbeccb2017/schedule/scheduleOverview.php) at the Prague Congress Centre**</em>
+<br>
+<br>
 
 <!-- WELCOME --->
 <div>
@@ -76,11 +78,11 @@ back_url: ismb
 
 
 <div>
-    <div class="sumTime2" style="font-size:15px;color:#21a186;">10:15 - 11:00</div>
+    <div class="sumTime2" style="font-size:15px;color:#21a186;">14:00 - 14:45</div>
     <div>
         <div class="sumContent" style="font-size:15px;color:#21a186;">Invited Talk</div>
         <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;">Just a tool, or a science? The role of visualization in biology</div>
-          <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> Miriah Meyer </b>, University of Utah, Netherlands</i>
+          <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> Miriah Meyer </b>, University of Utah, USA</i>
           </div>
     </div>
 </div>
