@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program BioVis@ISMB
-permalink: /program_ismb_beta/
+permalink: /program_ismb/
 back_title: ISMB
 back_url: ismb
 ---
