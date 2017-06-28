@@ -2,7 +2,7 @@
 layout: page
 title: Papers BioVis@VIS
 permalink: /papers_ieeevis_Accepted/
-back_title: IEEE VIS 2016
+back_title: IEEE VIS
 back_url: ieeevis
 ---
 *ACCEPTED PAPERS TO BE ANNOUNCED*

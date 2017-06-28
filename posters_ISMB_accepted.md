@@ -2,7 +2,7 @@
 layout: page
 title: Posters BioVis@ISMB
 permalink: /posters_ismbAccepted/
-back_title: ISMB 2017
+back_title: ISMB
 back_url: ismb
 ---
 *TO BE ANNOUNCED SOON*

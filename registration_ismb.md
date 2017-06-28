@@ -2,7 +2,7 @@
 layout: page
 title: Registration BioVis@ISMB
 permalink: /registration_ismb/
-back_title: ISMB 2016
+back_title: ISMB
 back_url: ismb
 ---
 <br>

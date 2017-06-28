@@ -2,7 +2,7 @@
 layout: page
 title: Submission Info for BioVis@ISMB
 permalink: /submission_ismb/
-back_title: ISMB 2017
+back_title: ISMB
 back_url: ismb
 ---
 <br>

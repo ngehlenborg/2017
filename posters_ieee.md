@@ -2,7 +2,7 @@
 layout: page
 title: Poster Submission Info for BioVis@VIS
 permalink: /posters_ieee/
-back_title: IEEE VIS 2017
+back_title: IEEE VIS
 back_url: ieeevis
 ---
 <div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">

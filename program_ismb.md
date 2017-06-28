@@ -2,7 +2,7 @@
 layout: page
 title: Program BioVis@ISMB
 permalink: /program_ismb_beta/
-back_title: ISMB 2016
+back_title: ISMB
 back_url: ismb
 ---
 <br>
@@ -36,7 +36,7 @@ back_url: ismb
         <div class="sumContent">Networks and Spatial Data</div>
     </div>
     <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
-    <!--<div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>-->
+    <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
 
@@ -59,7 +59,7 @@ back_url: ismb
       <div>
           <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>{{paper.title}}</b></div>
       </div>
-      <div class="sumDetail" style="padding-left:120px;"> Presenter: <em>{{paper.presenter}}</em></div>
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
   </div>
 {% endif %}
 {% endfor %}
@@ -73,7 +73,7 @@ back_url: ismb
         <div class="sumContent">Mutations and Next Generation Sequencing</div>
     </div>
     <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
-    <!--<div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>-->
+    <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
 
@@ -94,7 +94,7 @@ back_url: ismb
       <div>
           <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>{{paper.title}}</b></div>
       </div>
-      <div class="sumDetail" style="padding-left:120px;"> Presenter: <em>{{paper.presenter}}</em></div>
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em>  {{paper.authors}}</div>
   </div>
 {% endif %}
 {% endfor %}
@@ -109,7 +109,7 @@ back_url: ismb
         <div class="sumContent">Machine Learning and Medicine</div>
     </div>
     <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
-    <!--<div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>-->
+    <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
 
@@ -120,7 +120,7 @@ back_url: ismb
       <div>
           <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>{{paper.title}}</b></div>
       </div>
-      <div class="sumDetail" style="padding-left:120px;"> Presenter: <em>{{paper.presenter}}</em></div>
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em>  {{paper.authors}}</div>
   </div>
 {% endif %}
 {% endfor %}

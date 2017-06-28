@@ -2,7 +2,7 @@
 layout: page
 title: Posters BioVis@VIS
 permalink: /posters_ieeevis_Accepted/
-back_title: IEEE VIS 2016
+back_title: IEEE VIS
 back_url: ieeevis
 ---
 *TO BE ANNOUNCED SOON*

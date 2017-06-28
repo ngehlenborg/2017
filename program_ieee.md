@@ -2,7 +2,7 @@
 layout: page
 title: Program BioVis@Vis
 permalink: /program_ieee/
-back_title: IEEE VIS 2017
+back_title: IEEE VIS
 back_url: ieeevis
 ---
 <br>
