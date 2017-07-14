@@ -35,7 +35,7 @@ back_url: ismb
     <div>
         <div class="sumContent">Networks and Spatial Data</div>
     </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair:  Michel Westenberg</i> </div>
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
@@ -72,7 +72,7 @@ back_url: ismb
     <div>
         <div class="sumContent">Mutations and Next Generation Sequencing</div>
     </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Kay Nieselt</i> </div>
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
@@ -108,7 +108,7 @@ back_url: ismb
     <div>
         <div class="sumContent">Machine Learning and Medicine</div>
     </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Nils Gehlenborg</i> </div>
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
@@ -142,6 +142,6 @@ back_url: ismb
     <div class="sumTime2">18:00 - 19:00</div>
     <div>
         <div class="sumContent">Poster Session</div>
-          <div class="sumDetail" style="padding-left:120px;"><i>Details to be announced</i></div>
+          <div class="sumDetail" style="padding-left:120px;">[BioVis Posters](https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=D)</div>
     </div>
 </div>
