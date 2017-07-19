@@ -142,6 +142,6 @@ back_url: ismb
     <div class="sumTime2">18:00 - 19:00</div>
     <div>
         <div class="sumContent">Poster Session</div>
-          <div class="sumDetail" style="padding-left:120px;"><a href="https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?">BioVis posters</a></div>
+          <div class="sumDetail" style="padding-left:120px;"><a href="https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=D?">BioVis posters</a></div>
     </div>
 </div>
