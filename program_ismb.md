@@ -15,7 +15,7 @@ back_url: ismb
 
 <em>**BioVis will take place in [Hall 4](https://www.iscb.org/cms_addon/conferences/ismbeccb2017/biovis.php) at the Prague Congress Centre**</em>
 <br>
-The symposium will be a one-day single-track event at ISMB. The event will feature keynote and invited talks, paper sessions, highlight talks, and posters/demos. Please see the [call for participation]({{site.baseurl}}/cfp_ismb/#subType) for definitions of the the different of submission types and the reviewing process.
+The symposium will be a one-day single-track event at ISMB. The event will feature keynote and invited talks, paper sessions, highlight talks, and posters/demos. Please see the [call for participation]({{site.baseurl}}/cfp_ismb/#subType) for definitions of the different of submission types and the reviewing process.
 <br>
 <br>
 
