@@ -37,7 +37,11 @@ The symposium will be a one-day single-track event at ISMB. The event will featu
     <div>
         <div class="sumContent">Networks and Spatial Data</div>
     </div>
+<<<<<<< HEAD
     <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Michel Westenberg</i> </div>
+=======
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair:  Michel Westenberg</i> </div>
+>>>>>>> origin/gh-pages
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
@@ -162,6 +166,6 @@ The symposium will be a one-day single-track event at ISMB. The event will featu
     <div class="sumTime2">18:00 - 19:00</div>
     <div>
         <div class="sumContent">Poster Session</div>
-          <div class="sumDetail" style="padding-left:120px;"><i>Details to be announced</i></div>
+          <div class="sumDetail" style="padding-left:120px;"><a href="https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=D?">BioVis posters</a></div>
     </div>
 </div>
