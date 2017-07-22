@@ -15,6 +15,8 @@ back_url: ismb
 
 <em>**BioVis will take place in [Hall 4](https://www.iscb.org/cms_addon/conferences/ismbeccb2017/biovis.php) at the Prague Congress Centre**</em>
 <br>
+The symposium will be a one-day single-track event at ISMB. The event will feature keynote and invited talks, paper sessions, highlight talks, and posters/demos. Please see the [call for participation]({{site.baseurl}}/cfp_ismb/#subType) for definitions of the the different of submission types and the reviewing process.
+<br>
 <br>
 
 <!-- WELCOME --->
@@ -35,7 +37,7 @@ back_url: ismb
     <div>
         <div class="sumContent">Networks and Spatial Data</div>
     </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Michel Westenberg</i> </div>
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
@@ -56,9 +58,15 @@ back_url: ismb
 {% if paper.session == "session1"%}
   <div>
       <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      {% if paper.doi != nil %}
       <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>{{paper.title}}</b></div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"><a href="{{paper.doi}}"> [{{paper.type}}] </a> <b>{{paper.title}}</b></div>
       </div>
+      {% else %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> [{{paper.type}}] <b>{{paper.title}}</b></div>
+      </div>
+      {% endif %}
       <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
   </div>
 {% endif %}
@@ -72,7 +80,7 @@ back_url: ismb
     <div>
         <div class="sumContent">Mutations and Next Generation Sequencing</div>
     </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Kay Nieselt</i> </div>
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
@@ -91,10 +99,16 @@ back_url: ismb
 {% if paper.session == "session2"%}
   <div>
       <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      {% if paper.doi != nil %}
       <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>{{paper.title}}</b></div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"><a href="{{paper.doi}}"> [{{paper.type}}] </a> <b>{{paper.title}}</b></div>
       </div>
-      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em>  {{paper.authors}}</div>
+      {% else %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> [{{paper.type}}] <b>{{paper.title}}</b></div>
+      </div>
+      {% endif %}
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
   </div>
 {% endif %}
 {% endfor %}
@@ -108,7 +122,7 @@ back_url: ismb
     <div>
         <div class="sumContent">Machine Learning and Medicine</div>
     </div>
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Nils Gehlenborg</i> </div>
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
@@ -117,10 +131,16 @@ back_url: ismb
 {% if paper.session == "session3"%}
   <div>
       <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      {% if paper.doi != nil %}
       <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>{{paper.title}}</b></div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"><a href="{{paper.doi}}"> [{{paper.type}}] </a> <b>{{paper.title}}</b></div>
       </div>
-      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em>  {{paper.authors}}</div>
+      {% else %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> [{{paper.type}}] <b>{{paper.title}}</b></div>
+      </div>
+      {% endif %}
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
   </div>
 {% endif %}
 {% endfor %}
