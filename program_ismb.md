@@ -37,11 +37,7 @@ The symposium will be a one-day single-track event at ISMB. The event will featu
     <div>
         <div class="sumContent">Networks and Spatial Data</div>
     </div>
-<<<<<<< HEAD
     <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Michel Westenberg</i> </div>
-=======
-    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair:  Michel Westenberg</i> </div>
->>>>>>> origin/gh-pages
     <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div>
 </div>
 
