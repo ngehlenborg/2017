@@ -18,6 +18,8 @@ back_url: ismb
 The symposium will be a one-day single-track event at ISMB. The event will feature keynote and invited talks, paper sessions, highlight talks, and posters/demos. Please see the [call for participation]({{site.baseurl}}/cfp_ismb/#subType) for definitions of the different of submission types and the reviewing process.
 <br>
 <br>
+A full list of accepted papers is available [here]({{site.baseurl}}/papers_ismb_accepted/).
+<br>
 
 <!-- WELCOME --->
 <div>
@@ -60,11 +62,12 @@ The symposium will be a one-day single-track event at ISMB. The event will featu
       <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
       {% if paper.doi != nil %}
       <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"><a href="{{paper.doi}}"> [{{paper.type}}] </a> <b>{{paper.title}}</b></div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;">
+          <b><a href="{{paper.doi}}"> [{{paper.type}}] </a></b> <b>{{paper.title}}</b></div>
       </div>
       {% else %}
       <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> [{{paper.type}}] <b>{{paper.title}}</b></div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
       </div>
       {% endif %}
       <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
@@ -101,11 +104,12 @@ The symposium will be a one-day single-track event at ISMB. The event will featu
       <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
       {% if paper.doi != nil %}
       <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"><a href="{{paper.doi}}"> [{{paper.type}}] </a> <b>{{paper.title}}</b></div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;">
+          <b><a href="{{paper.doi}}"> [{{paper.type}}] </a></b> <b>{{paper.title}}</b></div>
       </div>
       {% else %}
       <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> [{{paper.type}}] <b>{{paper.title}}</b></div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
       </div>
       {% endif %}
       <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
@@ -133,11 +137,12 @@ The symposium will be a one-day single-track event at ISMB. The event will featu
       <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
       {% if paper.doi != nil %}
       <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"><a href="{{paper.doi}}"> [{{paper.type}}] </a> <b>{{paper.title}}</b></div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;">
+          <b><a href="{{paper.doi}}"> [{{paper.type}}] </a></b> <b>{{paper.title}}</b></div>
       </div>
       {% else %}
       <div>
-          <div class="ttile" style="padding-left:120px; padding-top:5px;"> [{{paper.type}}] <b>{{paper.title}}</b></div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
       </div>
       {% endif %}
       <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
