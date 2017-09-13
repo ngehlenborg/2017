@@ -5,6 +5,12 @@ permalink: /cfp_ismb/
 back_title: ISMB
 back_url: ismb
 ---
+<br>
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<h3>BioVis@ISMB 2017 has now concluded</h3>
+<p>Check back next year for more opportunities to participate in BioVis@ISMB. We also have a workshop being held in conjunction with IEEE VIS, <a href="http://biovis.net/2017/ieeevis/">BioVis@VIS</a>, that will take place in October 2017. </p>
+</div>
+
 ### Community of Special Interest (COSI) event at [ISMB2017](https://www.iscb.org/ismbeccb2017)
 
 **July 24th, 2017**  
@@ -61,6 +67,7 @@ We invite contributions on all aspects of data visualization in biology, from mo
 <h3 id="subType">Submissions Types and Criteria </h3>
 ---
 
+<h4 style="color: red;">BioVis@ISMB 2017 has now concluded! </h4>
 There are several possibilities to contribute to the program of BioVis:
 
 ### 1. ISMB Proceedings - *Submission Deadline: January 26th, 2017*

@@ -6,6 +6,14 @@ back_title: ISMB
 back_url: ismb
 ---
 <br>
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+<h3>BioVis@ISMB 2017 has now concluded</h3>
+<p>Check back next year for more opportunities to participate in BioVis@ISMB. We also have a workshop being held in conjunction with IEEE VIS, <a href="http://biovis.net/2017/ieeevis/">BioVis@VIS</a>, that will take place in October 2017. </p>
+</div>
+<div style="background-color: #FFFFFF; border-style: solid; border-color: #FC5B3F; padding: 5px; margin-top:5px;">
+<h4>All accepted papers are accessible via  <a href="https://bmcbioinformatics.biomedcentral.com/articles/supplements/volume-18-supplement-10"> BMC Bioinformatics</a> </h4>
+</div>
+
 ## BioVis@ISMB 2017 Program
 
 ### July 24, 2017
