@@ -26,9 +26,9 @@ permalink: /ieeevis/
 
     <div class="col m6 s12 event-page-menu-block">
         <i class="material-icons large">list</i>
-        <h3>Program</h3>
-        <!--<a class="btn waves-effect waves-light" href="{{site.baseurl}}/program_ieee" type="submit" name="action">Program</a>-->
-        <a class="btn waves-effect waves-light disabled" href="{{site.baseurl}}/program_ieee" type="submit" name="action">TBD</a>
+        <h3>Agenda</h3>
+        <a class="btn waves-effect waves-light" href="{{site.baseurl}}/agenda_ieee" type="submit" name="action">View Details</a>
+        <!--<a class="btn waves-effect waves-light disabled" href="{{site.baseurl}}/program_ieee" type="submit" name="action">TBD</a>-->
     </div>
 </div>
 
