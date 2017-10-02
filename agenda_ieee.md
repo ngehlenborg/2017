@@ -20,28 +20,38 @@ Within this domain, there are already a multitude of well-known challenges, such
 
 <a name="agenda"></a>
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 8:30 - 8:45 </div>
+  <div class="sumTime" style="padding-top:5px;"> 8:30 - 8:40 </div>
     <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>Opening remarks and workshop structure discussions</b></div>
 </div>  
 
 <div>
-    <div class="sumTime2" style="font-size:15px;color:#21a186;">8:45 - 9:20</div>
+    <div class="sumTime2" style="font-size:15px;color:#21a186;">8:40 - 9:10</div>
     <div>
         <div class="sumContent" style="font-size:15px;color:#21a186;">Keynote</div>
         <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;">Challenges in Visualization of Cancer Genomics Data</div>
-          <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> Jeremy Warner</b>, Vanderbilt University Medical Center, TN, US</i>
+          <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> Jeremy Warner, MD, MS</b>, Vanderbilt University Medical Center, TN, USA</i>
           </div>
     </div>
 </div>
 
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 9:20 - 9:35 </div>
+    <div class="sumTime2" style="font-size:15px;color:#21a186;">9:10 - 9:30</div>
+    <div>
+        <div class="sumContent" style="font-size:15px;color:#21a186;">Invited Talk</div>
+        <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;">Advancing Innovation and Technology Development in Cancer Research: the Human Tumor Atlas Network</div>
+          <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> Sean E Hanlon, PhD</b>, NCI Center for Strategic Scientific Initiatives, USA</i>
+          </div>
+    </div>
+</div>
+
+<div>
+  <div class="sumTime" style="padding-top:5px;"> 9:30 - 9:40 </div>
     <div class="ttile" style="padding-left:120px; padding-top:5px;">Forming groups and setting up</div>
 </div>  
 
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 9:35 - 10:10 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group-work Session-1: Planning, scoping and initial discussions</div>
+  <div class="sumTime" style="padding-top:5px;"> 9:40 - 10:10 </div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group work Session 1: Introductions and outline questions for domain experts.</div>
 </div>  
 
 <hr>
@@ -53,7 +63,7 @@ Within this domain, there are already a multitude of well-known challenges, such
 
 <div>
   <div class="sumTime" style="padding-top:5px;"> 10:30 - 11:45 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group-work Session-2: Developing ideas and drafting proposals</div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group work Session 2: Prioritize questions, interview domain expert, develop ideas, and draft report</div>
 </div>  
 
 <div>
@@ -63,7 +73,7 @@ Within this domain, there are already a multitude of well-known challenges, such
 
 <div>
   <div class="sumTime" style="padding-top:5px;"> 12:00 - 12:10 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>Wrap-up / Final comments / Next steps</b></div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>Wrap up and Next Steps</b></div>
 </div>
 
 
