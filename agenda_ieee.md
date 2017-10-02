@@ -82,7 +82,7 @@ Within this domain, there are already a multitude of well-known challenges, such
 <div class="talk">
     <div class="ttitle">Challenges in Visualization of Cancer Genomics Data
     </div>
-    <div><span class="tspeaker"><a href="http://www.vicc.org/dd/display.php?person=jeremy.warner">Jeremy L. Warner MD, MS</a></span>, <span>Vanderbilt University Medical Center, TN, US</span></div>
+    <div><span class="tspeaker"><a href="http://www.vicc.org/dd/display.php?person=jeremy.warner">Jeremy L Warner MD, MS</a></span>, <span>Vanderbilt University Medical Center, TN, USA</span></div>
 
     <div class="tportrait"><img src="{{ site.baseurl}}/files/warner-jeremy.jpg" style="width: 150px;" alt="J.Warner">
     </div>
@@ -98,6 +98,23 @@ Within this domain, there are already a multitude of well-known challenges, such
     </div>
 </div>
 
+### Invited talk
+
+<div class="talk">
+    <div class="ttitle">Advancing Innovation and Technology Development in Cancer Research: the Human Tumor Atlas Network
+    </div>
+    <div><span class="tspeaker"><a href="https://cssi.cancer.gov/hanlon">Sean E Hanlon, PhD</a></span>, <span>NCI Center for Strategic Scientific Initiatives, USA</span></div>
+
+    <!--<div class="tportrait"><img src="{{ site.baseurl}}/files/warner-jeremy.jpg" style="width: 150px;" alt="S.Hanlon"></div>-->
+
+    <div class="tbioabstract">
+
+        <div class="tabstract"><b>Abstract:</b>
+        Dr. Sean E. Hanlon is Associate Director of the NCI Center for Strategic Scientific Initiatives (CSSI) where he contributes to the strategic plans of the Center and implements new projects and initiatives with a focus on technology development. Additionally, Dr. Hanlon serves as a representative on NCI, NIH, and inter-agency committees, including Cancer Moonshot Implementation teams and the trans-NCI Data Sharing working group. He also provides scientific leadership to collaborative transdisciplinary programs, including the NIH Common Fund’s 4D Nucleome program.<br>
+Prior to joining CSSI, Dr. Hanlon served as Program Director in the NCI Division of Cancer Biology where he managed a portfolio of grants focused on transcriptional and epigenetic regulation in cancer biology and served as Director of the Physical Sciences-Oncology Network. He came to the NCI in 2009 through the AAAS Science & Technology Policy Fellowship program. Prior to his selection as an AAAS ST&P Fellow, he was a postdoctoral fellow at the University of North Carolina where he used genomics and bioinformatics to address fundamental problems in transcriptional regulation and genome organization. Dr. Hanlon received his PhD in Molecular Biology from Rutgers University in 2003 where he focused on understanding how chromatin structure influences transcription and cell-cycle progression.
+        </div>
+    </div>
+</div>
 
 
 ### Background Reading
